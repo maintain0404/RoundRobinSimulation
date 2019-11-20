@@ -10,20 +10,21 @@
 #include "queue.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 256
-#define PROCESS_COUNT 10
+#define QUANTUM 64
+#define PROCESS_COUNT 5
 
 typedef struct __msg{
 	long mtype;
 	char mtext[256];
 }message;
 
-prs_info * processes[10];
+prs_info * processes[PROCESS_COUNT];
 key_t msgq_id;
 
 void child_process(int pint, prs_info * prs, key_t id){
 	int i = 0;
 	message temp;
+	prs = processes[pint - 1];
 	prs->pid = getpid();
 	printf("cildprocess On\n");
 	printf("id : %d\n", id);
@@ -38,12 +39,13 @@ void child_process(int pint, prs_info * prs, key_t id){
 		if(msgrcv(id, &temp, 64, pint, 0) != -1){
 		//메시지 받았을 떄 조건
 			printf("%d process get message\n", pint);
+			prs->work -= QUANTUM;	//TODO이 prs랑 부모의 prs랑 달라서 생기는 문제인듯				
 			if(prs->work > 0){
-				prs->work -= QUANTUM;
 				printf("%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
 			}else{
 				//프로세스 종료 로그
 				printf("%d process END\n", pint);
+				break;
 			}	
 		}else{
 		//메시지큐 에러
@@ -69,11 +71,8 @@ void handler(int signum){
 	message content;
 	int i;
 	prs_info * temp;
-	message msgbuf;
 	
-	printf("sinalhander\n");
-	
-	//프로세스 핸들링 전처리부분
+	//프로세스 핸들링 전처리부분 TODO메인으로 옮기면 좋을듯
 	if(cnt == 0){
 		printf("signal init\n");
 		InitQueue(&Q);
@@ -85,11 +84,15 @@ void handler(int signum){
 	//본격적 처리 부분
 	else{
 		temp = Dequeue(&Q);
+		
 		if(temp == NULL){
 			printf("All process clear!\n");
+			content.mtype = getpid();
+			memcpy(content.mtext, "Hello World\n", 13);	//나중에 메시지 수정할 것
+			msgsnd(msgq_id, &content, 64, 0);
 			return;
 		}
-		if(temp->work > 0){
+		else if(temp->work > 0){
 			content.mtype = temp->type;
 			memcpy(content.mtext, "Hello World\n", 13);
 			if(msgsnd(msgq_id, &content, 64, 0) == -1){
@@ -98,7 +101,11 @@ void handler(int signum){
 			}else{
 				printf("sendMSG\n");
 			}
+			temp->work -= QUANTUM;	//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
 			Enqueue(&Q, temp);
+		}
+		else{
+			
 		}	
 	}
 }
@@ -115,9 +122,10 @@ int main(){
 	if(msgq_id > 0){
 		printf("messageQ %d created\n", msgq_id);
 	}else{
-		printf("message create failed\n");
-		return 0;
+		printf("message create failed ERR : %d\n", errno);
+		return;
 	}
+	
 	
 	//1번은 그냥 생성
 	do{
@@ -147,7 +155,7 @@ int main(){
 		//타이머 설정
 		memset(&sa, 0, sizeof (sa));
 		sa.sa_handler = handler;
-		sigaction (SIGVTALRM, &sa, NULL);
+		sigaction (SIGALRM, &sa, NULL);
 
 		timer.it_value.tv_sec = 0;
 		timer.it_value.tv_usec = 250000;
@@ -156,7 +164,7 @@ int main(){
 		timer.it_interval.tv_usec = QUANTUM * 1000;
 
 		//가상 타이머 시작
-		setitimer (ITIMER_VIRTUAL, &timer, NULL);
+		setitimer (ITIMER_REAL, &timer, NULL);	//TOTO플래그 바꿔야함
 
 		// for(i = 0; i < 10; i++){
 		// 	content.mtype = i + 1;
@@ -172,7 +180,12 @@ int main(){
 		// for(i = 0; i < 10; i++){
 		// 	waitpid(processes[i]->pid, NULL, 0);
 		// }	
-		while(1);
+		while(1){
+			if(msgrcv(msgq_id, &content, 64, getpid(), IPC_NOWAIT) != -1){
+				break;
+			}
+			sleep(1);
+		};
 		printf("END!\n");
 	}
 	return 0;

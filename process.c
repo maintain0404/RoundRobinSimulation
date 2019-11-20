@@ -20,7 +20,7 @@ prs_info * mk_process(int pint){
 	
 	temp->type = pint;
 	temp->priority = rand() % 128;
-	temp->work = rand() % 8096 + 8096;
+	temp->work = rand() % 2048 + 2048;
 	return temp;
 }
 
