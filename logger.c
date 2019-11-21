@@ -69,7 +69,7 @@ void log_error(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
 	if(option == PRT_STDOUT){
-		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+		printf("ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
 	}
 	fprintf(fp, "ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
 	free(ctime);

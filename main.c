@@ -166,20 +166,6 @@ int main(){
 		//가상 타이머 시작
 		setitimer (ITIMER_REAL, &timer, NULL);	//TOTO플래그 바꿔야함
 
-		// for(i = 0; i < 10; i++){
-		// 	content.mtype = i + 1;
-		// 	memcpy(content.mtext, "Hello World\n", 13);
-		// 	if(msgsnd(msgq_id, &content, 64, 0) == -1){
-		// 		printf("sendMSG failed ERROR : %d\n", errno);
-				
-		// 		printf("%s\n", strerror(errno));
-		// 	}else{
-		// 		printf("sendMSG\n");
-		// 	}	
-		// }
-		// for(i = 0; i < 10; i++){
-		// 	waitpid(processes[i]->pid, NULL, 0);
-		// }	
 		while(1){
 			if(msgrcv(msgq_id, &content, 64, getpid(), IPC_NOWAIT) != -1){
 				break;
