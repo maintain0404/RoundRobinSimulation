@@ -6,10 +6,10 @@
 #ifndef PROCESS_H
 #define PROCESS_H
 
-#define WTYPE_CPU 0;
-#define WTYPE_IO 1;
-#define W_MIN 50;
-#define W_RANGE 2000;
+#define WTYPE_CPU 0
+#define WTYPE_IO 1
+#define W_MIN 50
+#define W_RANGE 2000
 
 
 typedef struct process_{
@@ -31,7 +31,7 @@ prs_info * mk_process(int pint){
 	temp->priority = rand() % 128;
 	srand(time(NULL));
 	temp->work = rand() % W_RANGE + W_MIN;
-	temp->count = 30;
+	temp->count = 10;
 	return temp;
 }
 
@@ -39,19 +39,20 @@ prs_info * mk_process(int pint){
 int work_process(prs_info * prs, int workamount){
 	prs->work -= workamount;
 	if(prs->work < 0){
-		(temp->count)--;
-		if(temp->count <= 0){
+		(prs->count)--;
+		if(prs->count <= 0){
 			return 0;
 		}
 		srand(time(NULL));
 		prs->work = rand() % W_RANGE + W_MIN;	
-		if(prs->WTYPE == WTYPE_CPU){
+		if(prs->wtype == WTYPE_CPU){
 			prs->wtype = WTYPE_IO;
 		}else{
 			prs->wtype = WTYPE_CPU;	
 		}
-		return prs->work;
+		return 0;
 	}
+	return prs->work;
 }
 
 //프로세스 삭제함수

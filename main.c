@@ -8,6 +8,7 @@
 #include "process.c"
 #include <errno.h>
 #include "queue.c"
+#include "logger.c"
 
 #define MSGQ_KEY 1111
 #define QUANTUM 64
@@ -15,37 +16,46 @@
 
 typedef struct __msg{
 	long mtype;
-	char mtext[256];
+	prs_info pinfo;
 }message;
 
 prs_info * processes[PROCESS_COUNT];
 key_t msgq_id;
+FILE * log_file;
+char log_msg[256];
 
 void child_process(int pint, prs_info * prs, key_t id){
 	int i = 0;
+	int work_state;
 	message temp;
 	prs = processes[pint - 1];
 	prs->pid = getpid();
 	printf("cildprocess On\n");
 	printf("id : %d\n", id);
 	
-	//작업 처리 전 세팅부분
-	// temp.mtype = getppid();
-	// memcpy(temp.mtext, "Hello World\n", 13);//TODO메시지 바꿀 것
-	// msgsnd(id, temp, 64, 0);	
-	
 	//본격적 작업처리 부분
 	while(1){
-		if(msgrcv(id, &temp, 64, pint, 0) != -1){
+		if(msgrcv(id, &temp, sizeof(prs_info), prs->pid, 0) != -1){
 		//메시지 받았을 떄 조건
 			printf("%d process get message\n", pint);
-			prs->work -= QUANTUM;	//TODO이 prs랑 부모의 prs랑 달라서 생기는 문제인듯				
-			if(prs->work > 0){
+			work_state = work_process(prs, QUANTUM);
+			//작업 할당량이 남았을 때
+			if(work_state > 0){
 				printf("%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
-			}else{
-				//프로세스 종료 로그
-				printf("%d process END\n", pint);
-				break;
+			//IO CPU 전환할 때
+			}else if(work_state <= 0 && prs->count > 0){
+				printf("work change!\n");
+				temp.pinfo = *prs;
+				temp.mtype = getppid();
+				msgsnd(id, &temp, sizeof(prs_info), 0);
+			//완전 종료	
+			}else if(work_state <= 0 && prs->count <= 0){
+				printf("work end\n");
+				temp.pinfo = *prs;
+				temp.mtype = getppid();
+				msgsnd(id, &temp, sizeof(prs_info), 0);
+				del_process(prs);
+				return;
 			}	
 		}else{
 		//메시지큐 에러
@@ -55,27 +65,24 @@ void child_process(int pint, prs_info * prs, key_t id){
 		
 	}
 	return;
-	// for(i = 0; i < 60; i++){
-	// 	msgrcv(MSGQ_KEY, (void *)&temp, sizeof(message), 0, 0);
-	// 	printf("%s\n", temp.msg);
-	// 	printf("%d process executing %d times...\n", pint, i + 1);
-	// 	sleep(1);
-	// }
 }
 
 
-//전역변수 사용중, 나중에 메세지큐로 대체할 것
+//전역변수 사용중, 메시지큐 대체할 여유가 나면 할것
+//정보를 읽고 처리만 한다. 메인에서 자식의 수정 요청을 처리하고, 여기서 스케줄링만 한다면?
 void handler(int signum){
 	static int cnt = 0;
 	static Queue Q;
+	static Queue waitQ;
 	message content;
-	int i;
+	int i, work_state, j;
 	prs_info * temp;
 	
 	//프로세스 핸들링 전처리부분 TODO메인으로 옮기면 좋을듯
 	if(cnt == 0){
 		printf("signal init\n");
 		InitQueue(&Q);
+		InitQueue(&waitQ);
 		for(i = 0; i < PROCESS_COUNT; i++){
 			Enqueue(&Q, processes[i]);
 			cnt++;
@@ -83,30 +90,67 @@ void handler(int signum){
 	}
 	//본격적 처리 부분
 	else{
-		temp = Dequeue(&Q);
-		
-		if(temp == NULL){
-			printf("All process clear!\n");
-			content.mtype = getpid();
-			memcpy(content.mtext, "Hello World\n", 13);	//나중에 메시지 수정할 것
-			msgsnd(msgq_id, &content, 64, 0);
-			return;
+		//자식 IPC 메시지 확인
+		if(msgrcv(msgq_id, &content, sizeof(prs_info), getpid(), IPC_NOWAIT) != -1){
+			for(i = 0; i < Q.count; i++){
+				temp = Dequeue(&Q);
+				if(temp->type == content.pinfo.type){
+					if(content.pinfo.count > 0){
+						Enqueue(&waitQ, temp);	
+					}
+				}else{
+					Enqueue(&Q, temp);
+				}
+			}
 		}
-		else if(temp->work > 0){
-			content.mtype = temp->type;
-			memcpy(content.mtext, "Hello World\n", 13);
-			if(msgsnd(msgq_id, &content, 64, 0) == -1){
+		//종료조건 확인
+		if(waitQ.count == 0 && Q.count == 0){
+			printf("ALL END\n");
+			content.mtype = getpid();
+			content.pinfo.type = 0;
+			msgsnd(msgq_id, &content, sizeof(prs_info), 0);
+		}
+		//IO 부분
+		j = waitQ.count;
+		for(i = 0; i < j; i++){
+			temp = Dequeue(&waitQ);
+			printf("waitQ %d run %d -> %d\n ", temp->type, temp->work, temp->work - QUANTUM);
+			work_state = work_process(temp, QUANTUM);
+			if(work_state == 0){
+				if(temp->count <= 0){
+					printf("%d process END\n", temp->type);
+					content.mtype = content.pinfo.pid;
+					msgsnd(msgq_id, &content, sizeof(prs_info), 0);
+					del_process(temp);
+				}else{
+					Enqueue(&Q, temp);	
+				}
+			}else{
+				Enqueue(&waitQ, temp);
+			}
+		}
+		
+		//CPU 부분
+		temp = Dequeue(&Q);
+		//모든 큐에 프로세스가 없을 때
+		if(temp != NULL){
+			content.mtype = (long)temp->pid;
+			content.pinfo = *temp;
+			if(msgsnd(msgq_id, &content, sizeof(prs_info), 0) == -1){
 				printf("sendMSG failed ERROR : %d\n", errno);	
 				printf("%s\n", strerror(errno));
 			}else{
+				printf("%d\n", temp->work);
 				printf("sendMSG\n");
 			}
-			temp->work -= QUANTUM;	//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
+			//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
 			Enqueue(&Q, temp);
+			//완전 종료
+			if(temp->count <= 0){
+				printf("del process\n");
+				del_process(temp);
+			}	
 		}
-		else{
-			
-		}	
 	}
 }
 
@@ -116,14 +160,18 @@ int main(){
 	key_t msgkey;
 	message content;
 	
+	log_file = log_init();
+	
 	//메시지큐 생성
 	msgkey = ftok("/workspace/TermProject", 1);
 	msgq_id = msgget(IPC_PRIVATE, IPC_CREAT | 0640);
 	if(msgq_id > 0){
-		printf("messageQ %d created\n", msgq_id);
+		sprintf(log_msg,"messageQ %d created\n", msgq_id);
+		log_info(log_file, log_msg, 0);
 	}else{
-		printf("message create failed ERR : %d\n", errno);
-		return;
+		sprintf(log_msg, "message create failed ERR : %d\n", errno);
+		log_error(log_file, log_msg, 0);
+		return 0;
 	}
 	
 	
@@ -131,7 +179,8 @@ int main(){
 	do{
 		crt = fork();
 		if(crt < 0){
-			printf("%d child process create failed\n", i + 1);
+			sprintf(log_msg,"%d child process create failed\n", i + 1);
+			log_error(log_file, log_msg, 0);
 			continue;
 		}else{
 			processes[i] = mk_process(i + 1);
@@ -151,7 +200,6 @@ int main(){
 		struct sigaction sa;
 		struct itimerval timer;
 		
-		printf("pprocess\n");
 		//타이머 설정
 		memset(&sa, 0, sizeof (sa));
 		sa.sa_handler = handler;
@@ -167,12 +215,14 @@ int main(){
 		setitimer (ITIMER_REAL, &timer, NULL);	//TOTO플래그 바꿔야함
 
 		while(1){
-			if(msgrcv(msgq_id, &content, 64, getpid(), IPC_NOWAIT) != -1){
-				break;
+			if(msgrcv(msgq_id, &content, sizeof(prs_info), 0, IPC_NOWAIT) != -1){
+				if(content.pinfo.type == 0){
+					break;
+				}
 			}
 			sleep(1);
 		};
-		printf("END!\n");
+		log_info(log_file, "END!\n", 0);
 	}
 	return 0;
 }

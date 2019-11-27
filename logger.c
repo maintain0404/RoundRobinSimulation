@@ -45,33 +45,39 @@ FILE* log_init(){
 	return fp;
 }
 
-void log_info(FILE* fp, char* msg int option){
+void log_info(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
-	if(option == PRT_STDOUT){
-		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime");
+	if(option <= 0){
+		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
 	}
-	fprintf(fp, "INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+	if(option >= 0){
+		fprintf(fp, "INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+	}
 	free(ctime);
 }
 
 void log_debug(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
-	if(option == PRT_STDOUT){
+	if(option <= 0){
 		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
 	}
-	fprintf(fp, "DEBUG pid:%d time:%s\n%s\n", pid, msg, ctime);
+	if(option >= 0){
+		fprintf(fp, "DEBUG pid:%d time:%s\n%s\n", pid, msg, ctime);
+	}
 	free(ctime);
 }
 
 void log_error(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
-	if(option == PRT_STDOUT){
+	if(option <= 0){
 		printf("ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
 	}
-	fprintf(fp, "ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
+	if(option >= 0){
+		fprintf(fp, "ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
+	}
 	free(ctime);
 }
 			   
