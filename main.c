@@ -11,7 +11,7 @@
 #include "logger.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 64
+#define QUANTUM 1000
 #define PROCESS_COUNT 5
 
 typedef struct __msg{
@@ -196,6 +196,7 @@ int main(){
 	//여기서부터는 부모 프로세스만 실행됨
 	//메시지를 입력하는 부분
 	if(crt > 0){
+		printf("hi");
 		struct sigaction sa;
 		struct itimerval timer;
 		
@@ -204,7 +205,7 @@ int main(){
 		sa.sa_handler = handler;
 		sigaction (SIGALRM, &sa, NULL);
 
-		timer.it_value.tv_sec = 5;
+		timer.it_value.tv_sec = 0;
 		timer.it_value.tv_usec = 0;
 
 		timer.it_interval.tv_sec = QUANTUM / 1000;

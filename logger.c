@@ -61,7 +61,7 @@ void log_debug(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
 	if(option <= 0){
-		printf("INFO pid:%d time:%s\n%s\n", pid, ctime, msg);
+		printf("DEBUG pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	if(option >= 0){
 		fprintf(fp, "DEBUG pid:%d time:%s\n%s\n", pid, ctime, msg);
