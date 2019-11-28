@@ -55,7 +55,7 @@ void child_process(int pint, prs_info * prs, key_t id){
 			if(work_state > 0){
 				sprintf(log_msg, "%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
 				log_info(log_file, log_msg, BOTH);
-			//IO CPU 전환할 때
+			//IO CPU 전환할 때 
 			}else if(work_state <= 0){
 				sprintf(log_msg, "work change!\n");
 				log_info(log_file, log_msg, BOTH);
@@ -79,22 +79,26 @@ void child_process(int pint, prs_info * prs, key_t id){
 void handler(int signum){
 	static int cnt = 0;
 	static Queue Q;
+	static Queue priorityQ;
 	static Queue waitQ;
 	char log_msg[256];
 	message content;
 	int i, work_state, j;
 	prs_info * temp;
 	
-	printf("handle\n");
+	printf("handle %d\n", cnt);
 	//프로세스 핸들링 전처리부분 TODO메인으로 옮기면 좋을듯
+	//종료
 	if(cnt >= QUANTUM_COUNT){
 		exit(-1);
 	}
+	//초기화
 	if(cnt == 0){
 		
 		sprintf(log_msg, "signal init\n");
 		log_info(log_file, log_msg, BOTH);
 		InitQueue(&Q);
+		InitQueue(&priorityQ);
 		InitQueue(&waitQ);
 		for(i = 0; i < PROCESS_COUNT; i++){
 			Enqueue(&Q, processes[i]);
@@ -103,7 +107,8 @@ void handler(int signum){
 	}
 	//본격적 처리 부분
 	else{
-		//자식 IPC 메시지 확인
+		//자식 IO전환 정보 IPC 메시지 확인 + 정보 갱신
+		//TODO 큐 전체를 순환해서 속도 저하가 일언암
 		if(msgrcv(msgq_id, &content, sizeof(prs_info), getpid(), IPC_NOWAIT) != -1){
 			for(i = 0; i < Q.count; i++){
 				temp = Dequeue(&Q);
@@ -111,6 +116,14 @@ void handler(int signum){
 					Enqueue(&waitQ, temp);	
 				}else{
 					Enqueue(&Q, temp);
+				}
+			}
+			for(i = 0; i < priorityQ.count; i++){
+				temp = Dequeue(&priorityQ);
+				if(temp->type == content.pinfo.type){
+					Enqueue(&waitQ, temp);	
+				}else{
+					Enqueue(&priorityQ, temp);
 				}
 			}
 		}
@@ -122,13 +135,36 @@ void handler(int signum){
 			sprintf(log_msg, "waitQ %d run %d -> %d\n ", temp->type, temp->work, temp->work - QUANTUM);
 			log_info(log_file, log_msg, BOTH);
 			if(work_state == 0){
-				Enqueue(&Q, temp);	
+				//우선순위 구분
+				if(temp->priority > (PRIORITY_MAX / 4 * 3)){
+					Enqueue(&priorityQ, temp);
+				}else{
+					Enqueue(&Q, temp);
+				}			
 			}else{
 				Enqueue(&waitQ, temp);
 			}
 		}
 		
-		//CPU 부분
+		//우선 큐
+		if(cnt % 5 != 0){
+			temp = Dequeue(&priorityQ);
+			if(temp != NULL){
+				content.mtype = (long)temp->pid;
+				content.pinfo = *temp;
+				if(msgsnd(msgq_id, &content, sizeof(prs_info), 0) == -1){
+					sprintf(log_msg, "sendMSG failed ERROR : %s\n", strerror(errno));	
+					log_error(log_file, log_msg, BOTH);
+				}else{
+					sprintf(log_msg, "id : %d work : %d PriorityQ SendMSG\n", temp->type, temp->work);
+					log_debug(log_file, log_msg, BOTH);
+				}
+				Enqueue(&priorityQ, temp);
+				cnt++;
+				return;  //우선 큐 처리하면 퀀텀 패쓰
+			}		
+		}
+		//일반 큐
 		temp = Dequeue(&Q);
 		//모든 큐에 프로세스가 없을 때
 		if(temp != NULL){
@@ -138,10 +174,9 @@ void handler(int signum){
 				sprintf(log_msg, "sendMSG failed ERROR : %s\n", strerror(errno));	
 				log_error(log_file, log_msg, BOTH);
 			}else{
-				sprintf(log_msg, "id : %d work : %d and SendMSG\n", temp->type, temp->work);
+				sprintf(log_msg, "id : %d work : %d NormalQ SendMSG\n", temp->type, temp->work);
 				log_debug(log_file, log_msg, BOTH);
 			}
-			//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
 			Enqueue(&Q, temp);
 		}
 	}
@@ -226,6 +261,7 @@ int main(){
 			exit(-1);
 		}//TOTO플래그 바꿔야함
 
+		//종료 대기
 		while(1){
 			if(msgrcv(msgq_id, &content, sizeof(prs_info), 0, IPC_NOWAIT) != -1){
 				if(content.pinfo.type == 0){

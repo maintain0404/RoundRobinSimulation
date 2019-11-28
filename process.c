@@ -10,6 +10,7 @@
 #define WTYPE_IO 1
 #define W_MIN 50
 #define W_RANGE 2000
+#define PRIORITY_MAX 128
 
 
 typedef struct process_{
@@ -27,7 +28,7 @@ prs_info * mk_process(int pint){
 	temp->wtype = WTYPE_CPU;
 	temp->type = pint;
 	srand(time(NULL));
-	temp->priority = rand() % 128;
+	temp->priority = rand() % PRIORITY_MAX;
 	srand(time(NULL));
 	temp->work = rand() % W_RANGE + W_MIN;
 	return temp;
@@ -42,7 +43,8 @@ int work_process(prs_info * prs, int workamount){
 		if(prs->wtype == WTYPE_CPU){
 			prs->wtype = WTYPE_IO;
 		}else{
-			prs->wtype = WTYPE_CPU;	
+			prs->wtype = WTYPE_CPU;
+			prs->priority = rand() % 128;
 		}
 		return 0;
 	}
@@ -51,6 +53,7 @@ int work_process(prs_info * prs, int workamount){
 
 //프로세스 삭제함수
 void * del_process(prs_info * prs){
+	
 	free(prs);
 }
 #endif
