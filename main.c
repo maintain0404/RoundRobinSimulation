@@ -140,7 +140,7 @@ void handler(int signum){
 				sprintf(log_msg, "sendMSG failed ERROR : %s\n", strerror(errno));	
 				log_error(log_file, log_msg, BOTH);
 			}else{
-				sprintf(log_msg, "%d and SendMSG\n", temp->work);
+				sprintf(log_msg, "id : %d work : %d and SendMSG\n", temp->type, temp->work);
 				log_debug(log_file, log_msg, BOTH);
 			}
 			//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
