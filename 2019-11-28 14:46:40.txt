@@ -1,0 +1,1500 @@
+INFO pid:5848 time:2019-11-28 14:46:40
+messageQ 786456 created
+
+INFO pid:5848 time:2019-11-28 14:46:45
+signal init
+
+DEBUG pid:5848 time:2019-11-28 14:46:46
+id : 1 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:46
+id : 2 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:47
+id : 3 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:47
+id : 4 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:48
+id : 5 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:48
+id : 1 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:49
+waitQ 1 run 731 -> 231
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:49
+id : 2 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:49
+waitQ 1 run 231 -> -269
+ 
+INFO pid:5848 time:2019-11-28 14:46:49
+waitQ 2 run 731 -> 231
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:49
+id : 3 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:50
+waitQ 2 run 231 -> -269
+ 
+INFO pid:5848 time:2019-11-28 14:46:50
+waitQ 3 run 731 -> 231
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:50
+id : 4 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:50
+waitQ 3 run 231 -> -269
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:50
+id : 5 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:51
+waitQ 5 run 731 -> 231
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:51
+id : 1 work : 894 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:51
+waitQ 5 run 231 -> -269
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:51
+id : 2 work : 2015 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:52
+id : 4 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:52
+id : 3 work : 2015 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:53
+id : 1 work : 894 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:53
+waitQ 1 run 894 -> 394
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:53
+id : 5 work : 1528 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:54
+waitQ 1 run 394 -> -106
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:54
+id : 2 work : 2015 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:54
+waitQ 2 run 2015 -> 1515
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:54
+id : 4 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:55
+waitQ 2 run 1515 -> 1015
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:55
+id : 3 work : 2015 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:55
+waitQ 2 run 1015 -> 515
+ 
+INFO pid:5848 time:2019-11-28 14:46:55
+waitQ 3 run 2015 -> 1515
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:55
+id : 5 work : 1528 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:56
+waitQ 2 run 515 -> 15
+ 
+INFO pid:5848 time:2019-11-28 14:46:56
+waitQ 3 run 1515 -> 1015
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:56
+id : 1 work : 2012 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:56
+waitQ 2 run 15 -> -485
+ 
+INFO pid:5848 time:2019-11-28 14:46:56
+waitQ 3 run 1015 -> 515
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:56
+id : 4 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:57
+waitQ 3 run 515 -> 15
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:57
+id : 5 work : 1528 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:46:57
+waitQ 3 run 15 -> -485
+ 
+DEBUG pid:5848 time:2019-11-28 14:46:57
+id : 1 work : 2012 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:58
+id : 2 work : 1149 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:58
+id : 4 work : 731 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:59
+id : 5 work : 1528 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:46:59
+id : 3 work : 916 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:0
+waitQ 3 run 916 -> 416
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:0
+id : 1 work : 2012 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:0
+waitQ 3 run 416 -> -84
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:0
+id : 2 work : 1149 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:1
+id : 4 work : 731 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:1
+waitQ 4 run 731 -> 231
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:1
+id : 5 work : 1528 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:2
+waitQ 4 run 231 -> -269
+ 
+INFO pid:5848 time:2019-11-28 14:47:2
+waitQ 5 run 1528 -> 1028
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:2
+id : 1 work : 2012 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:2
+waitQ 5 run 1028 -> 528
+ 
+INFO pid:5848 time:2019-11-28 14:47:2
+waitQ 1 run 2012 -> 1512
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:2
+id : 3 work : 836 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:3
+waitQ 5 run 528 -> 28
+ 
+INFO pid:5848 time:2019-11-28 14:47:3
+waitQ 1 run 1512 -> 1012
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:3
+id : 2 work : 1149 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:3
+waitQ 5 run 28 -> -472
+ 
+INFO pid:5848 time:2019-11-28 14:47:3
+waitQ 1 run 1012 -> 512
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:3
+id : 4 work : 1546 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:4
+waitQ 1 run 512 -> 12
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:4
+id : 3 work : 836 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:4
+waitQ 1 run 12 -> -488
+ 
+INFO pid:5848 time:2019-11-28 14:47:4
+waitQ 3 run 836 -> 336
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:4
+id : 2 work : 1149 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:5
+waitQ 3 run 336 -> -164
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:5
+id : 5 work : 1331 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:5
+id : 4 work : 1546 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:6
+waitQ 4 run 1546 -> 1046
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:6
+id : 1 work : 1096 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:6
+waitQ 4 run 1046 -> 546
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:6
+id : 2 work : 1149 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:7
+waitQ 4 run 546 -> 46
+ 
+INFO pid:5848 time:2019-11-28 14:47:7
+waitQ 2 run 1149 -> 649
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:7
+id : 3 work : 1663 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:7
+waitQ 4 run 46 -> -454
+ 
+INFO pid:5848 time:2019-11-28 14:47:7
+waitQ 2 run 649 -> 149
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:7
+id : 5 work : 1331 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:8
+waitQ 2 run 149 -> -351
+ 
+INFO pid:5848 time:2019-11-28 14:47:8
+waitQ 5 run 1331 -> 831
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:8
+id : 1 work : 1096 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:8
+waitQ 5 run 831 -> 331
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:8
+id : 3 work : 1663 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:9
+waitQ 5 run 331 -> -169
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:9
+id : 4 work : 418 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:9
+id : 2 work : 1713 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:10
+id : 1 work : 1096 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:10
+id : 3 work : 1663 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:11
+waitQ 3 run 1663 -> 1163
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:11
+id : 5 work : 566 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:11
+waitQ 3 run 1163 -> 663
+ 
+INFO pid:5848 time:2019-11-28 14:47:11
+waitQ 5 run 566 -> 66
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:11
+id : 4 work : 418 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:12
+waitQ 3 run 663 -> 163
+ 
+INFO pid:5848 time:2019-11-28 14:47:12
+waitQ 5 run 66 -> -434
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:12
+id : 2 work : 1713 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:12
+waitQ 3 run 163 -> -337
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:12
+id : 1 work : 1096 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:13
+waitQ 1 run 1096 -> 596
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:13
+id : 4 work : 418 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:13
+waitQ 1 run 596 -> 96
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:13
+id : 5 work : 527 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:14
+waitQ 1 run 96 -> -404
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:14
+id : 2 work : 1713 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:14
+waitQ 2 run 1713 -> 1213
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:14
+id : 3 work : 527 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:15
+waitQ 2 run 1213 -> 713
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:15
+id : 4 work : 418 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:15
+waitQ 2 run 713 -> 213
+ 
+INFO pid:5848 time:2019-11-28 14:47:15
+waitQ 4 run 418 -> -82
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:15
+id : 5 work : 527 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:16
+waitQ 2 run 213 -> -287
+ 
+INFO pid:5848 time:2019-11-28 14:47:16
+waitQ 5 run 527 -> 27
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:16
+id : 1 work : 1271 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:16
+waitQ 5 run 27 -> -473
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:16
+id : 3 work : 527 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:17
+waitQ 3 run 527 -> 27
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:17
+id : 4 work : 706 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:17
+waitQ 3 run 27 -> -473
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:17
+id : 2 work : 1500 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:18
+id : 1 work : 1271 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:18
+waitQ 1 run 1271 -> 771
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:18
+id : 5 work : 1500 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:19
+waitQ 1 run 771 -> 271
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:19
+id : 4 work : 706 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:19
+waitQ 1 run 271 -> -229
+ 
+INFO pid:5848 time:2019-11-28 14:47:19
+waitQ 4 run 706 -> 206
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:19
+id : 3 work : 1354 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:20
+waitQ 4 run 206 -> -294
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:20
+id : 2 work : 1500 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:20
+id : 5 work : 1500 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:21
+waitQ 5 run 1500 -> 1000
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:21
+id : 1 work : 974 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:21
+waitQ 5 run 1000 -> 500
+ 
+INFO pid:5848 time:2019-11-28 14:47:21
+waitQ 1 run 974 -> 474
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:21
+id : 3 work : 1354 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:22
+waitQ 5 run 500 -> 0
+ 
+INFO pid:5848 time:2019-11-28 14:47:22
+waitQ 1 run 474 -> -26
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:22
+id : 4 work : 1641 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:22
+id : 2 work : 1500 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:23
+waitQ 2 run 1500 -> 1000
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:23
+id : 3 work : 1354 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:23
+waitQ 2 run 1000 -> 500
+ 
+INFO pid:5848 time:2019-11-28 14:47:23
+waitQ 3 run 1354 -> 854
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:23
+id : 5 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:24
+waitQ 2 run 500 -> 0
+ 
+INFO pid:5848 time:2019-11-28 14:47:24
+waitQ 3 run 854 -> 354
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:24
+id : 1 work : 1113 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:24
+waitQ 3 run 354 -> -146
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:24
+id : 4 work : 1641 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:25
+waitQ 4 run 1641 -> 1141
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:25
+id : 5 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:25
+waitQ 4 run 1141 -> 641
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:25
+id : 2 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:26
+waitQ 4 run 641 -> 141
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:26
+id : 1 work : 1113 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:26
+waitQ 4 run 141 -> -359
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:26
+id : 3 work : 1465 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:27
+waitQ 3 run 1465 -> 965
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:27
+id : 5 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:27
+waitQ 3 run 965 -> 465
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:27
+id : 2 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:28
+waitQ 3 run 465 -> -35
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:28
+id : 1 work : 1113 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:28
+id : 4 work : 1719 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:29
+id : 5 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:29
+waitQ 5 run 0 -> -500
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:29
+id : 2 work : 0 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:30
+waitQ 2 run 0 -> -500
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:30
+id : 3 work : 59 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:30
+id : 1 work : 1113 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:31
+id : 4 work : 1719 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:31
+id : 5 work : 1347 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:32
+id : 2 work : 844 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:32
+id : 3 work : 59 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:33
+id : 1 work : 1113 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:33
+id : 4 work : 1719 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:34
+waitQ 4 run 1719 -> 1219
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:34
+id : 5 work : 1347 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:34
+waitQ 4 run 1219 -> 719
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:34
+id : 2 work : 844 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:35
+waitQ 4 run 719 -> 219
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:35
+id : 3 work : 59 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:35
+waitQ 4 run 219 -> -281
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:35
+id : 1 work : 1113 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:36
+waitQ 1 run 1113 -> 613
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:36
+id : 5 work : 1347 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:36
+waitQ 1 run 613 -> 113
+ 
+INFO pid:5848 time:2019-11-28 14:47:36
+waitQ 5 run 1347 -> 847
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:36
+id : 2 work : 844 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 1 run 113 -> -387
+ 
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 5 run 847 -> 347
+ 
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 2 run 844 -> 344
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:37
+id : 3 work : 59 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 5 run 347 -> -153
+ 
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 2 run 344 -> -156
+ 
+INFO pid:5848 time:2019-11-28 14:47:37
+waitQ 3 run 59 -> -441
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:37
+id : 4 work : 1361 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:38
+id : 1 work : 1661 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:38
+id : 5 work : 1661 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:39
+id : 2 work : 1661 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:39
+id : 3 work : 1661 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:40
+id : 4 work : 1361 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:40
+id : 1 work : 1661 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:41
+id : 5 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:41
+waitQ 5 run 1661 -> 1161
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:41
+id : 2 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:42
+waitQ 5 run 1161 -> 661
+ 
+INFO pid:5848 time:2019-11-28 14:47:42
+waitQ 2 run 1661 -> 1161
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:42
+id : 3 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:42
+waitQ 5 run 661 -> 161
+ 
+INFO pid:5848 time:2019-11-28 14:47:42
+waitQ 2 run 1161 -> 661
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:42
+id : 4 work : 1361 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 5 run 161 -> -339
+ 
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 2 run 661 -> 161
+ 
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 4 run 1361 -> 861
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:43
+id : 1 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 2 run 161 -> -339
+ 
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 4 run 861 -> 361
+ 
+INFO pid:5848 time:2019-11-28 14:47:43
+waitQ 1 run 1661 -> 1161
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:43
+id : 3 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:44
+waitQ 4 run 361 -> -139
+ 
+INFO pid:5848 time:2019-11-28 14:47:44
+waitQ 1 run 1161 -> 661
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:44
+id : 5 work : 2011 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:44
+waitQ 1 run 661 -> 161
+ 
+INFO pid:5848 time:2019-11-28 14:47:44
+waitQ 5 run 2011 -> 1511
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:44
+id : 2 work : 2011 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 1 run 161 -> -339
+ 
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 5 run 1511 -> 1011
+ 
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 2 run 2011 -> 1511
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:45
+id : 3 work : 1661 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 5 run 1011 -> 511
+ 
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 2 run 1511 -INFO pid:5848 time:2019-11-28 14:46:40
+messageQ 786456 created
+
+INFO pid:5849 time:2019-11-28 14:46:40
+1 child process created
+
+INFO pid:5849 time:2019-11-28 14:46:40
+child process id : 786456 On
+
+INFO pid:5849 time:2019-11-28 14:46:46
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:46
+1 process work 731 => 231
+
+INFO pid:5849 time:2019-11-28 14:46:48
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:48
+work change!
+
+INFO pid:5849 time:2019-11-28 14:46:51
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:51
+1 process work 883 => 383
+
+INFO pid:5849 time:2019-11-28 14:46:53
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:53
+work change!
+
+INFO pid:5849 time:2019-11-28 14:46:56
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:56
+1 process work 1599 => 1099
+
+INFO pid:5849 time:2019-11-28 14:46:57
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:46:57
+1 process work 1099 => 599
+
+INFO pid:5849 time:2019-11-28 14:47:0
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:0
+1 process work 599 => 99
+
+INFO pid:5849 time:2019-11-28 14:47:2
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:2
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:6
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:6
+1 process work 1546 => 1046
+
+INFO pid:5849 time:2019-11-28 14:47:8
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:8
+1 process work 1046 => 546
+
+INFO pid:5849 time:2019-11-28 14:47:10
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:10
+1 process work 546 => 46
+
+INFO pid:5849 time:2019-11-28 14:47:12
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:12
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:16
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:16
+1 process work 527 => 27
+
+INFO pid:5849 time:2019-11-28 14:47:18
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:18
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:21
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:21
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:24
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:24
+1 process work 733 => 233
+
+INFO pid:5849 time:2019-11-28 14:47:26
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:26
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:28
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:28
+1 process work 1719 => 1219
+
+INFO pid:5849 time:2019-11-28 14:47:30
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:30
+1 process work 1219 => 719
+
+INFO pid:5849 time:2019-11-28 14:47:33
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:33
+1 process work 719 => 219
+
+INFO pid:5849 time:2019-11-28 14:47:35
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:35
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:38
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:38
+1 process work 1361 => 861
+
+INFO pid:5849 time:2019-11-28 14:47:40
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:40
+1 process work 861 => 361
+
+INFO pid:5849 time:2019-11-28 14:47:43
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:43
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:46
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:46
+1 process work 2011 => 1511
+
+INFO pid:5849 time:2019-11-28 14:47:47
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:47
+1 process work 1511 => 1011
+
+INFO pid:5849 time:2019-11-28 14:47:49
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:49
+1 process work 1011 => 511
+
+INFO pid:5849 time:2019-11-28 14:47:51
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:51
+1 process work 511 => 11
+
+INFO pid:5849 time:2019-11-28 14:47:53
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:53
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:56
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:56
+work change!
+
+INFO pid:5849 time:2019-11-28 14:47:58
+1 process get message
+
+INFO pid:5849 time:2019-11-28 14:47:58
+work change!
+
+INFO pid:5849 time:2019-11-28 14:48:1
+1 process get message
+
+INFO pid:5849 time:2019> 1011
+ 
+INFO pid:5848 time:2019-11-28 14:47:45
+waitQ 3 run 1661 -> 1161
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:45
+id : 4 work : 1724 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 5 run 511 -> 11
+ 
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 2 run 1011 -> 511
+ 
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 3 run 1161 -> 661
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:46
+id : 1 work : 201 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 5 run 11 -> -489
+ 
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 2 run 511 -> 11
+ 
+INFO pid:5848 time:2019-11-28 14:47:46
+waitQ 3 run 661 -> 161
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:46
+id : 4 work : 1724 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:47
+waitQ 2 run 11 -> -489
+ 
+INFO pid:5848 time:2019-11-28 14:47:47
+waitQ 3 run 161 -> -339
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:47
+id : 1 work : 201 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:47
+id : 5 work : 548 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:48
+id : 4 work : 1724 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:48
+id : 2 work : 933 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:49
+id : 3 work : 933 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:49
+waitQ 3 run 933 -> 433
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:49
+id : 1 work : 201 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:50
+waitQ 3 run 433 -> -67
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:50
+id : 5 work : 548 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:50
+id : 4 work : 1724 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:51
+waitQ 4 run 1724 -> 1224
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:51
+id : 2 work : 933 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:51
+waitQ 4 run 1224 -> 724
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:51
+id : 1 work : 201 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:52
+waitQ 4 run 724 -> 224
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:52
+id : 3 work : 1037 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:52
+waitQ 4 run 224 -> -276
+ 
+INFO pid:5848 time:2019-11-28 14:47:52
+waitQ 3 run 1037 -> 537
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:52
+id : 5 work : 548 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:53
+waitQ 3 run 537 -> 37
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:53
+id : 2 work : 933 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:53
+waitQ 3 run 37 -> -463
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:53
+id : 1 work : 201 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:54
+waitQ 1 run 201 -> -299
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:54
+id : 4 work : 605 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:54
+id : 5 work : 548 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:55
+waitQ 5 run 548 -> 48
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:55
+id : 2 work : 933 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:55
+waitQ 5 run 48 -> -452
+ 
+INFO pid:5848 time:2019-11-28 14:47:55
+waitQ 2 run 933 -> 433
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:55
+id : 3 work : 151 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:56
+waitQ 2 run 433 -> -67
+ 
+INFO pid:5848 time:2019-11-28 14:47:56
+waitQ 3 run 151 -> -349
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:56
+id : 1 work : 164 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:56
+id : 4 work : 605 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:57
+id : 5 work : 1989 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:57
+id : 2 work : 439 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:58
+id : 3 work : 439 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:47:58
+id : 1 work : 164 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:59
+waitQ 1 run 164 -> -336
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:59
+id : 4 work : 605 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:47:59
+waitQ 4 run 605 -> 105
+ 
+DEBUG pid:5848 time:2019-11-28 14:47:59
+id : 5 work : 1989 and SendMSG
+
+INFO pid:5848 time:2019-11-28 14:48:0
+waitQ 4 run 105 -> -395
+ 
+DEBUG pid:5848 time:2019-11-28 14:48:0
+id : 2 work : 439 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:48:0
+id : 3 work : 439 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:48:1
+id : 1 work : 598 and SendMSG
+
+DEBUG pid:5848 time:2019-11-28 14:48:1
+id : 5 work : 1989 and SendMSG
+
+INFINFO pid:5848 time:2019-11-28 14:46:40
+messageQ 786456 created
+
+INFO pid:5852 time:2019-11-28 14:46:40
+4 child process created
+
+INFO pid:5852 time:2019-11-28 14:46:40
+child process id : 786456 On
+
+INFO pid:5852 time:2019-11-28 14:46:47
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:47
+4 process work 731 => 231
+
+INFO pid:5852 time:2019-11-28 14:46:50
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:50
+work change!
+
+INFO pid:5852 time:2019-11-28 14:46:52
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:52
+4 process work 2015 => 1515
+
+INFO pid:5852 time:2019-11-28 14:46:54
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:54
+4 process work 1515 => 1015
+
+INFO pid:5852 time:2019-11-28 14:46:56
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:56
+4 process work 1015 => 515
+
+INFO pid:5852 time:2019-11-28 14:46:58
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:46:58
+4 process work 515 => 15
+
+INFO pid:5852 time:2019-11-28 14:47:1
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:1
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:3
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:3
+4 process work 738 => 238
+
+INFO pid:5852 time:2019-11-28 14:47:5
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:5
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:9
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:9
+4 process work 1663 => 1163
+
+INFO pid:5852 time:2019-11-28 14:47:11
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:11
+4 process work 1163 => 663
+
+INFO pid:5852 time:2019-11-28 14:47:13
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:13
+4 process work 663 => 163
+
+INFO pid:5852 time:2019-11-28 14:47:15
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:15
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:17
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:17
+4 process work 706 => 206
+
+INFO pid:5852 time:2019-11-28 14:47:19
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:19
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:22
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:22
+4 process work 974 => 474
+
+INFO pid:5852 time:2019-11-28 14:47:24
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:24
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:28
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:28
+4 process work 1465 => 965
+
+INFO pid:5852 time:2019-11-28 14:47:31
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:31
+4 process work 965 => 465
+
+INFO pid:5852 time:2019-11-28 14:47:33
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:33
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:37
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:37
+4 process work 1362 => 862
+
+INFO pid:5852 time:2019-11-28 14:47:40
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:40
+4 process work 862 => 362
+
+INFO pid:5852 time:2019-11-28 14:47:42
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:42
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:45
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:45
+4 process work 1790 => 1290
+
+INFO pid:5852 time:2019-11-28 14:47:46
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:46
+4 process work 1290 => 790
+
+INFO pid:5852 time:2019-11-28 14:47:48
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:48
+4 process work 790 => 290
+
+INFO pid:5852 time:2019-11-28 14:47:50
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:50
+work change!
+
+INFO pid:5852 time:2019-11-28 14:47:54
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:54
+4 process work 1037 => 537
+
+INFO pid:5852 time:2019-11-28 14:47:56
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:56
+4 process work 537 => 37
+
+INFO pid:5852 time:2019-11-28 14:47:59
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:47:59
+work change!
+
+INFO pid:5852 time:2019-11-28 14:48:2
+4 process get message
+
+INFO pid:5852 time:2019-11-28 14:48:2
+4 process work 598 => 98
+
+INFO pid:5852 time:2019-11-28 14:48:4
+4 process get message
+INFO pid:5848 time:2019-11-28 14:46:40
+messageQ 786456 created
+
+INFO pid:5850 time:2019-11-28 14:46:40
+2 child process created
+
+INFO pid:5850 time:2019-11-28 14:46:40
+child process id : 786456 On
+
+INFO pid:5850 time:2019-11-28 14:46:46
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:46:46
+2 process work 731 => 231
+
+INFO pid:5850 time:2019-11-28 14:46:49
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:46:49
+work change!
+
+INFO pid:5850 time:2019-11-28 14:46:51
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:46:51
+2 process work 894 => 394
+
+INFO pid:5850 time:2019-11-28 14:46:54
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:46:54
+work change!
+
+INFO pid:5850 time:2019-11-28 14:46:58
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:46:58
+2 process work 2012 => 1512
+
+INFO pid:5850 time:2019-11-28 14:47:0
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:0
+2 process work 1512 => 1012
+
+INFO pid:5850 time:2019-11-28 14:47:3
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:3
+2 process work 1012 => 512
+
+INFO pid:5850 time:2019-11-28 14:47:4
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:4
+2 process work 512 => 12
+
+INFO pid:5850 time:2019-11-28 14:47:6
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:6
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:9
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:9
+2 process work 1048 => 548
+
+INFO pid:5850 time:2019-11-28 14:47:12
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:12
+2 process work 548 => 48
+
+INFO pid:5850 time:2019-11-28 14:47:14
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:14
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:17
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:17
+2 process work 1271 => 771
+
+INFO pid:5850 time:2019-11-28 14:47:20
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:20
+2 process work 771 => 271
+
+INFO pid:5850 time:2019-11-28 14:47:22
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:22
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:25
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:25
+2 process work 1113 => 613
+
+INFO pid:5850 time:2019-11-28 14:47:27
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:27
+2 process work 613 => 113
+
+INFO pid:5850 time:2019-11-28 14:47:29
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:29
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:32
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:32
+2 process work 1347 => 847
+
+INFO pid:5850 time:2019-11-28 14:47:34
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:34
+2 process work 847 => 347
+
+INFO pid:5850 time:2019-11-28 14:47:36
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:36
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:39
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:39
+2 process work 819 => 319
+
+INFO pid:5850 time:2019-11-28 14:47:41
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:41
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:44
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:44
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:48
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:48
+2 process work 1724 => 1224
+
+INFO pid:5850 time:2019-11-28 14:47:51
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:51
+2 process work 1224 => 724
+
+INFO pid:5850 time:2019-11-28 14:47:53
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:53
+2 process work 724 => 224
+
+INFO pid:5850 time:2019-11-28 14:47:55
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:55
+work change!
+
+INFO pid:5850 time:2019-11-28 14:47:57
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:47:57
+2 process work 1989 => 1489
+
+INFO pid:5850 time:2019-11-28 14:48:0
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:48:0
+2 process work 1489 => 989
+
+INFO pid:5850 time:2019-11-28 14:48:2
+2 process get message
+
+INFO pid:5850 time:2019-11-28 14:48:2
+2 process work 989 => 489
+
+INFO pid:5850 time:2019-11-28 14:48:4
+2 process get message
+
+I

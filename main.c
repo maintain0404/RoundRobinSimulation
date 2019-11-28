@@ -11,7 +11,7 @@
 #include "logger.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 200
+#define QUANTUM 500
 #define PROCESS_COUNT 5
 
 typedef struct __msg{
