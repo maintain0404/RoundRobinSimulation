@@ -45,14 +45,14 @@ void child_process(int pint, prs_info * prs, key_t id){
 				sprintf(log_msg, "%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
 				log_info(log_file, log_msg, BOTH);
 			//IO CPU 전환할 때
-			}else if(work_state <= 0 && prs->count > 0){
+			}else if(work_state <= 0){
 				sprintf(log_msg, "work change!\n");
 				log_info(log_file, log_msg, BOTH);
 				temp.pinfo = *prs;
 				temp.mtype = getppid();
 				msgsnd(id, &temp, sizeof(prs_info), 0);
 			//완전 종료	
-			}else if(work_state <= 0 && prs->count <= 0){
+			}else if(work_state <= 0){
 				sprintf(log_msg, "work end\n");
 				log_info(log_file, log_msg, BOTH);
 				temp.pinfo = *prs;
@@ -102,9 +102,7 @@ void handler(int signum){
 			for(i = 0; i < Q.count; i++){
 				temp = Dequeue(&Q);
 				if(temp->type == content.pinfo.type){
-					if(content.pinfo.count > 0){
-						Enqueue(&waitQ, temp);	
-					}
+					Enqueue(&waitQ, temp);	
 				}else{
 					Enqueue(&Q, temp);
 				}
@@ -126,15 +124,7 @@ void handler(int signum){
 			log_info(log_file, log_msg, BOTH);
 			work_state = work_process(temp, QUANTUM);
 			if(work_state == 0){
-				if(temp->count <= 0){
-					sprintf(log_msg, "%d process END\n", temp->type);
-					log_info(log_file, log_msg, BOTH);
-					content.mtype = content.pinfo.pid;
-					msgsnd(msgq_id, &content, sizeof(prs_info), 0);
-					del_process(temp);
-				}else{
-					Enqueue(&Q, temp);	
-				}
+				Enqueue(&Q, temp);	
 			}else{
 				Enqueue(&waitQ, temp);
 			}
@@ -156,11 +146,7 @@ void handler(int signum){
 			//TODO 이거 자식에서 처리하게 바꾸야될듯/pdf에는 부모에서 계산하라고함
 			Enqueue(&Q, temp);
 			//완전 종료
-			if(temp->count <= 0){
-				sprintf(log_msg, "del process\n");
-				log_info(log_file, log_msg, BOTH);
-				del_process(temp);
-			}	
+	
 		}
 	}
 }

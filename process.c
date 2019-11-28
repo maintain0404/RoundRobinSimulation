@@ -18,7 +18,6 @@ typedef struct process_{
 	int priority;
 	int work;
 	int wtype;
-	int count; // 디버그용 종료 카운트
 }prs_info;
 
 prs_info * mk_process(int pint){
@@ -31,7 +30,6 @@ prs_info * mk_process(int pint){
 	temp->priority = rand() % 128;
 	srand(time(NULL));
 	temp->work = rand() % W_RANGE + W_MIN;
-	temp->count = 10;
 	return temp;
 }
 
@@ -39,10 +37,6 @@ prs_info * mk_process(int pint){
 int work_process(prs_info * prs, int workamount){
 	prs->work -= workamount;
 	if(prs->work < 0){
-		(prs->count)--;
-		if(prs->count <= 0){
-			return 0;
-		}
 		srand(time(NULL));
 		prs->work = rand() % W_RANGE + W_MIN;	
 		if(prs->wtype == WTYPE_CPU){
