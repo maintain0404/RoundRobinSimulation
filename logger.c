@@ -6,9 +6,9 @@
 #ifndef LOGGER_H
 #define LOGGER_H
 
-#define BOTH 0;
-#define FILE_ONLY 1;
-#define STDOUT_ONLY -1;
+#define BOTH 0
+#define FILE_ONLY 1
+#define STDOUT_ONLY -1
 
 typedef struct __log{
 	FILE * file;
@@ -21,7 +21,7 @@ char * get_ctime(){
 	ctime = (char*)malloc(sizeof(char) * 30);
 	//크기를 대충 조금 크게 잡음
 	struct tm crt_time = *localtime(&t);
-	sprintf(ctime, "%d-%d-%d %d:%d:%d\n",
+	sprintf(ctime, "%d-%d-%d %d:%d:%d",
 		   crt_time.tm_year + 1900 , crt_time.tm_mon + 1, crt_time.tm_mday,
 		   crt_time.tm_hour, crt_time.tm_min, crt_time.tm_sec);
 	//frpintf가 너무 많은 듯, 버퍼 쓰는 걸 고려합시다
@@ -34,7 +34,7 @@ FILE* log_init(){
 	
 	time_t t = time(NULL);	
 	struct tm crt_time = *localtime(&t);
-	sprintf(filename, "%d-%d-%d %d:%d:%d\n",
+	sprintf(filename, "%d-%d-%d %d:%d:%d.txt",
 		   crt_time.tm_year + 1900 , crt_time.tm_mon + 1, crt_time.tm_mday,
 		   crt_time.tm_hour, crt_time.tm_min, crt_time.tm_sec);
 	//현재시각으로 파일명 설정, 안되면 .을 ->으로 바꿔보기
@@ -49,10 +49,10 @@ void log_info(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
 	if(option <= 0){
-		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+		printf("INFO pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	if(option >= 0){
-		fprintf(fp, "INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+		fprintf(fp, "INFO pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	free(ctime);
 }
@@ -61,10 +61,10 @@ void log_debug(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
 	if(option <= 0){
-		printf("INFO pid:%d time:%s\n%s\n", pid, msg, ctime);
+		printf("INFO pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	if(option >= 0){
-		fprintf(fp, "DEBUG pid:%d time:%s\n%s\n", pid, msg, ctime);
+		fprintf(fp, "DEBUG pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	free(ctime);
 }
@@ -73,10 +73,10 @@ void log_error(FILE* fp, char* msg, int option){
 	char * ctime = get_ctime();
 	pid_t pid = getpid();
 	if(option <= 0){
-		printf("ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
+		printf("ERROR pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	if(option >= 0){
-		fprintf(fp, "ERROR pid:%d time:%s\n%s\n", pid, msg, ctime);
+		fprintf(fp, "ERROR pid:%d time:%s\n%s\n", pid, ctime, msg);
 	}
 	free(ctime);
 }

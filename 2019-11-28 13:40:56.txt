@@ -1,0 +1,5563 @@
+INFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1217 time:signal init
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:56
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:57
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:58
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 1 run 690 -> 626
+ 
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 1 run 626 -> 562
+ 
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 2 run 690 -> 626
+ 
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 1 run 562 -> 498
+ 
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 2 run 626 -> 562
+ 
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 3 run 690 -> 626
+ 
+2019-11-28 13:40:59
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:40:59
+INFO pid:1217 time:waitQ 1 run 498 -> 434
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 562 -> 498
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 626 -> 562
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 690 -> 626
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 434 -> 370
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 498 -> 434
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 562 -> 498
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 626 -> 562
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 370 -> 306
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 434 -> 370
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 498 -> 434
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 562 -> 498
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 306 -> 242
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 370 -> 306
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 434 -> 370
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 498 -> 434
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 242 -> 178
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 306 -> 242
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 370 -> 306
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 434 -> 370
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 178 -> 114
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 242 -> 178
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 306 -> 242
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 370 -> 306
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 114 -> 50
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 178 -> 114
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 242 -> 178
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 306 -> 242
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 1 run 50 -> -14
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 114 -> 50
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 178 -> 114
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 242 -> 178
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 2 run 50 -> -14
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 114 -> 50
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 178 -> 114
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 3 run 50 -> -14
+ 
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 114 -> 50
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+INFO pid:1217 time:waitQ 4 run 50 -> -14
+ 
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:0
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 1105 -> 1041
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 1041 -> 977
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 977 -> 913
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 913 -> 849
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 849 -> 785
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 1105 -> 1041
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 785 -> 721
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 1041 -> 977
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 721 -> 657
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 977 -> 913
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 657 -> 593
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 913 -> 849
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 4 run 1105 -> 1041
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 593 -> 529
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 849 -> 785
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 4 run 1041 -> 977
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 529 -> 465
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 2 run 785 -> 721
+ 
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 4 run 977 -> 913
+ 
+2019-11-28 13:41:1
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:1
+INFO pid:1217 time:waitQ 1 run 465 -> 401
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 721 -> 657
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 913 -> 849
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 401 -> 337
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 657 -> 593
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 849 -> 785
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 337 -> 273
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 593 -> 529
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 785 -> 721
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 273 -> 209
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 529 -> 465
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 721 -> 657
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 209 -> 145
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 465 -> 401
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 657 -> 593
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 145 -> 81
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 401 -> 337
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 593 -> 529
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 81 -> 17
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 337 -> 273
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 529 -> 465
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 1 run 17 -> -47
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 273 -> 209
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 465 -> 401
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 209 -> 145
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 401 -> 337
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:690 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 145 -> 81
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 337 -> 273
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 690 -> 626
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 81 -> 17
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 273 -> 209
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 626 -> 562
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 2 run 17 -> -47
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 209 -> 145
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 562 -> 498
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 145 -> 81
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 498 -> 434
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 81 -> 17
+ 
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 434 -> 370
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 4 run 17 -> -47
+ 
+2019-11-28 13:41:2
+INFO pid:1INFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1222 time:5 child process created
+
+2019-11-28 13:40:56
+INFO pid:1222 time:child process id : 294921 On
+
+2019-11-28 13:40:56
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:56
+INFO pid:1222 time:5 process work 690 => 626
+
+2019-11-28 13:40:56
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process work 626 => 562
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process work 562 => 498
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process work 498 => 434
+
+2019-11-28 13:40:57
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process work 434 => 370
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process work 370 => 306
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process work 306 => 242
+
+2019-11-28 13:40:58
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process work 242 => 178
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process work 178 => 114
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process work 114 => 50
+
+2019-11-28 13:40:59
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 1105 => 1041
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 1041 => 977
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 977 => 913
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 913 => 849
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 849 => 785
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 785 => 721
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 721 => 657
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 657 => 593
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process work 593 => 529
+
+2019-11-28 13:41:0
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process work 529 => 465
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process work 465 => 401
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process work 401 => 337
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process work 337 => 273
+
+2019-11-28 13:41:1
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process work 273 => 209
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process work 209 => 145
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process work 145 => 81
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process work 81 => 17
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:2
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:2
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:3
+INFO pid:1222 time:5 process work 152 => 88
+
+2019-11-28 13:41:3
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:3
+INFO pid:1222 time:5 process work 88 => 24
+
+2019-11-28 13:41:3
+INFINFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1220 time:3 child process created
+
+2019-11-28 13:40:56
+INFO pid:1220 time:child process id : 294921 On
+
+2019-11-28 13:40:56
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:56
+INFO pid:1220 time:3 process work 690 => 626
+
+2019-11-28 13:40:56
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process work 626 => 562
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process work 562 => 498
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process work 498 => 434
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process work 434 => 370
+
+2019-11-28 13:40:57
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process work 370 => 306
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process work 306 => 242
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process work 242 => 178
+
+2019-11-28 13:40:58
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:59
+INFO pid:1220 time:3 process work 178 => 114
+
+2019-11-28 13:40:59
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:59
+INFO pid:1220 time:3 process work 114 => 50
+
+2019-11-28 13:40:59
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:40:59
+INFO pid:1220 time:work change!
+
+2019-11-28 13:40:59
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:0
+INFO pid:1220 time:3 process work 222 => 158
+
+2019-11-28 13:41:0
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process work 158 => 94
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process work 94 => 30
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:1
+INFO pid:1220 time:work change!
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process work 1633 => 1569
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process work 1569 => 1505
+
+2019-11-28 13:41:1
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1505 => 1441
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1441 => 1377
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1377 => 1313
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1313 => 1249
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1249 => 1185
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process work 1185 => 1121
+
+2019-11-28 13:41:2
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process work 1121 => 1057
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process work 1057 => 993
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process work 993 => 929
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process work 929 => 865
+
+2019-11-28 13:41:3
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process work 865 => 801
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process work 801 => 737
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process work 737 => 673
+
+2019-11-28 13:41:4
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process work 673 => 609
+
+2217 time:waitQ 5 run 370 -> 306
+ 
+2019-11-28 13:41:2
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:2
+INFO pid:1217 time:waitQ 5 run 306 -> 242
+ 
+2019-11-28 13:41:3
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:3
+INFO pid:1217 time:waitQ 5 run 242 -> 178
+ 
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+INFO pid:1217 time:waitQ 5 run 178 -> 114
+ 
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+INFO pid:1217 time:waitQ 5 run 114 -> 50
+ 
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+INFO pid:1217 time:waitQ 5 run 50 -> -14
+ 
+2019-11-28 13:41:3
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:762 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:762 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:3
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+DEBUG pid:1217 time:762 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 762 -> 698
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 698 -> 634
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 634 -> 570
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 570 -> 506
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 506 -> 442
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 442 -> 378
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 378 -> 314
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 314 -> 250
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 250 -> 186
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 186 -> 122
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 122 -> 58
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+INFO pid:1217 time:waitQ 5 run 58 -> -6
+ 
+2019-11-28 13:41:4
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:4
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:5
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 1INFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 child process created
+
+2019-11-28 13:40:56
+INFO pid:1218 time:child process id : 294921 On
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 process work 690 => 626
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 process work 626 => 562
+
+2019-11-28 13:40:56
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process work 562 => 498
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process work 498 => 434
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process work 434 => 370
+
+2019-11-28 13:40:57
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process work 370 => 306
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process work 306 => 242
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process work 242 => 178
+
+2019-11-28 13:40:58
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:59
+INFO pid:1218 time:1 process work 178 => 114
+
+2019-11-28 13:40:59
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:59
+INFO pid:1218 time:1 process work 114 => 50
+
+2019-11-28 13:40:59
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:40:59
+INFO pid:1218 time:work change!
+
+2019-11-28 13:40:59
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:0
+INFO pid:1218 time:1 process work 222 => 158
+
+2019-11-28 13:41:0
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:0
+INFO pid:1218 time:1 process work 158 => 94
+
+2019-11-28 13:41:0
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:1
+INFO pid:1218 time:1 process work 94 => 30
+
+2019-11-28 13:41:1
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:1
+INFO pid:1218 time:work change!
+
+2019-11-28 13:41:1
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process work 1633 => 1569
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process work 1569 => 1505
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process work 1505 => 1441
+
+2019-11-28 13:41:2
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process work 1441 => 1377
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process work 1377 => 1313
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process work 1313 => 1249
+
+2019-11-28 13:41:3
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process work 1249 => 1185
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process work 1185 => 1121
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process work 1121 => 1057
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process work 1057 => 993
+
+2019-11-28 13:41:4
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process work 993 => 929
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process work 929 => 865
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process work 865 => 801
+
+2019-11-28 13:41:5
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:6
+INFO pid:1218 time:1 process work 801 => 737
+
+2019-11-28 13:41:6
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:6
+INFO pid:1218 time:1 process work 737 => 673
+
+2019-11-28 13:41:6
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:6
+INFO pid:1218 time:1 process work 673 => 609
+
+2INFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 child process created
+
+2019-11-28 13:40:56
+INFO pid:1219 time:child process id : 294921 On
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 process work 690 => 626
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 process work 626 => 562
+
+2019-11-28 13:40:56
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process work 562 => 498
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process work 498 => 434
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process work 434 => 370
+
+2019-11-28 13:40:57
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process work 370 => 306
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process work 306 => 242
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process work 242 => 178
+
+2019-11-28 13:40:58
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:59
+INFO pid:1219 time:2 process work 178 => 114
+
+2019-11-28 13:40:59
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:59
+INFO pid:1219 time:2 process work 114 => 50
+
+2019-11-28 13:40:59
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:40:59
+INFO pid:1219 time:work change!
+
+2019-11-28 13:40:59
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:0
+INFO pid:1219 time:2 process work 222 => 158
+
+2019-11-28 13:41:0
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:0
+INFO pid:1219 time:2 process work 158 => 94
+
+2019-11-28 13:41:0
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:1
+INFO pid:1219 time:2 process work 94 => 30
+
+2019-11-28 13:41:1
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:1
+INFO pid:1219 time:work change!
+
+2019-11-28 13:41:1
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:2
+INFO pid:1219 time:2 process work 1633 => 1569
+
+2019-11-28 13:41:2
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process work 1569 => 1505
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process work 1505 => 1441
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process work 1441 => 1377
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process work 1377 => 1313
+
+2019-11-28 13:41:3
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process work 1313 => 1249
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process work 1249 => 1185
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process work 1185 => 1121
+
+2019-11-28 13:41:4
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process work 1121 => 1057
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process work 1057 => 993
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process work 993 => 929
+
+2019-11-28 13:41:5
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process work 929 => 865
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process work 865 => 801
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process work 801 => 737
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process work 737 => 673
+
+2019-11-28 13:41:6
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:7
+INFO pid:1219 time:2 process work 673 => 609
+
+2INFO pid:1217 time:messageQ 294921 created
+
+2019-11-28 13:40:56
+INFO pid:1221 time:4 child process created
+
+2019-11-28 13:40:56
+INFO pid:1221 time:child process id : 294921 On
+
+2019-11-28 13:40:56
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:56
+INFO pid:1221 time:4 process work 690 => 626
+
+2019-11-28 13:40:56
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process work 626 => 562
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process work 562 => 498
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process work 498 => 434
+
+2019-11-28 13:40:57
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process work 434 => 370
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process work 370 => 306
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process work 306 => 242
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process work 242 => 178
+
+2019-11-28 13:40:58
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:59
+INFO pid:1221 time:4 process work 178 => 114
+
+2019-11-28 13:40:59
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:59
+INFO pid:1221 time:4 process work 114 => 50
+
+2019-11-28 13:40:59
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:40:59
+INFO pid:1221 time:work change!
+
+2019-11-28 13:40:59
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:0
+INFO pid:1221 time:4 process work 222 => 158
+
+2019-11-28 13:41:0
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:1
+INFO pid:1221 time:4 process work 158 => 94
+
+2019-11-28 13:41:1
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:1
+INFO pid:1221 time:4 process work 94 => 30
+
+2019-11-28 13:41:1
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:1
+INFO pid:1221 time:work change!
+
+2019-11-28 13:41:1
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process work 1633 => 1569
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process work 1569 => 1505
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process work 1505 => 1441
+
+2019-11-28 13:41:3
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process work 1441 => 1377
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process work 1377 => 1313
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process work 1313 => 1249
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process work 1249 => 1185
+
+2019-11-28 13:41:4
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process work 1185 => 1121
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process work 1121 => 1057
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process work 1057 => 993
+
+2019-11-28 13:41:5
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process work 993 => 929
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process work 929 => 865
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process work 865 => 801
+
+2019-11-28 13:41:6
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:7
+INFO pid:1221 time:4 process work 801 => 737
+
+2019-11-28 13:41:7
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:7
+INFO pid:1221 time:4 process work 737 => 673
+
+2019-11-28 13:41:7
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:7
+INFO pid:1221 time:4 process work 673 => 609
+
+23:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:6
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:7
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:8
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+DEBUG pid:1217 time:1105 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 1105 -> 1041
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 1041 -> 977
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 977 -> 913
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 913 -> 849
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 849 -> 785
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 785 -> 721
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 721 -> 657
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 657 -> 593
+ 
+2019-11-28 13:41:9
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:9
+INFO pid:1217 time:waitQ 3 run 593 -> 529
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 1 run 152 -> 88
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 529 -> 465
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 1 run 88 -> 24
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 465 -> 401
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 1 run 24 -> -40
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 401 -> 337
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 337 -> 273
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 2 run 152 -> 88
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 273 -> 209
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 2 run 88 -> 24
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 209 -> 145
+ 
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 2 run 24 -> -40
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 145 -> 81
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 81 -> 17
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+INFO pid:1217 time:waitQ 3 run 17 -> -47
+ 
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:10
+DEBUG pid:1217 time:1245 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 1245 -> 1181
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 1181 -> 1117
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 1117 -> 1053
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 1053 -> 989
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 989 -> 925
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 925 -> 861
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 861 -> 797
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 797 -> 733
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 733 -> 669
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 669 -> 605
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 605 -> 541
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 541 -> 477
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 477 -> 413
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 413 -> 349
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 349 -> 285
+ 
+2019-11-28 13:41:11
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:11
+INFO pid:1217 time:waitQ 5 run 285 -> 221
+ 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+INFO pid:1217 time:waitQ 5 run 221 -> 157
+ 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:12
+INFO pid:1217 time:waitQ 5 run 157 -> 93
+ 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+INFO pid:1217 time:waitQ 5 run 93 -> 29
+ 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+INFO pid:1217 time:waitQ 5 run 29 -> -35
+ 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:152 and SendMSG
+O pid:1222 time:5 process get message
+
+2019-11-28 13:41:4
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:4
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process work 1245 => 1181
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process work 1181 => 1117
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process work 1117 => 1053
+
+2019-11-28 13:41:5
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process work 1053 => 989
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process work 989 => 925
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process work 925 => 861
+
+2019-11-28 13:41:6
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process work 861 => 797
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process work 797 => 733
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process work 733 => 669
+
+2019-11-28 13:41:7
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process work 669 => 605
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process work 605 => 541
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process work 541 => 477
+
+2019-11-28 13:41:8
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process work 477 => 413
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process work 413 => 349
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process work 349 => 285
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process work 285 => 221
+
+2019-11-28 13:41:9
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process work 221 => 157
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process work 157 => 93
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process work 93 => 29
+
+2019-11-28 13:41:10
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:11
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:11
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:12
+INFO pid:1222 time:5 process work 1069 => 1005
+
+2019-11-28 13:41:12
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:12
+INFO pid:1222 time:5 process work 1005 => 941
+
+2019-11-28 13:41:12
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process work 941 => 877
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process work 877 => 813
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process work 813 => 749
+
+2019-11-28 13:41:13
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process work 749 => 685
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process work 685 => 621
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process work 621 => 557
+
+2019-11-28 13:41:14
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process work 557 => 493
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process work 493 => 429
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process work 429 => 365
+
+2019-11-28 13:41:15
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:019-11-28 13:41:5
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process work 609 => 545
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process work 545 => 481
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process work 481 => 417
+
+2019-11-28 13:41:5
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process work 417 => 353
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process work 353 => 289
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process work 289 => 225
+
+2019-11-28 13:41:6
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process work 225 => 161
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process work 161 => 97
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process work 97 => 33
+
+2019-11-28 13:41:7
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:8
+INFO pid:1220 time:work change!
+
+2019-11-28 13:41:8
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:8
+INFO pid:1220 time:3 process work 200 => 136
+
+2019-11-28 13:41:8
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:8
+INFO pid:1220 time:3 process work 136 => 72
+
+2019-11-28 13:41:8
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:9
+INFO pid:1220 time:3 process work 72 => 8
+
+2019-11-28 13:41:9
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:9
+INFO pid:1220 time:work change!
+
+2019-11-28 13:41:9
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:10
+INFO pid:1220 time:3 process work 1893 => 1829
+
+2019-11-28 13:41:10
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process work 1829 => 1765
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process work 1765 => 1701
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process work 1701 => 1637
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process work 1637 => 1573
+
+2019-11-28 13:41:11
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process work 1573 => 1509
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process work 1509 => 1445
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process work 1445 => 1381
+
+2019-11-28 13:41:12
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process work 1381 => 1317
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process work 1317 => 1253
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process work 1253 => 1189
+
+2019-11-28 13:41:13
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process work 1189 => 1125
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process work 1125 => 1061
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process work 1061 => 997
+
+2019-11-28 13:41:14
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process work 997 => 933
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process work 933 => 869
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process work 869 => 805
+
+2019-11-28 13:41:15
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process work 805 => 741
+
+2019-11-28 13:41:16
+INFO pid:1220 ti019-11-28 13:41:6
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process work 609 => 545
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process work 545 => 481
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process work 481 => 417
+
+2019-11-28 13:41:7
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process work 417 => 353
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process work 353 => 289
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process work 289 => 225
+
+2019-11-28 13:41:8
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process work 225 => 161
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process work 161 => 97
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process work 97 => 33
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:9
+INFO pid:1218 time:work change!
+
+2019-11-28 13:41:9
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process work 1893 => 1829
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process work 1829 => 1765
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process work 1765 => 1701
+
+2019-11-28 13:41:10
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process work 1701 => 1637
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process work 1637 => 1573
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process work 1573 => 1509
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process work 1509 => 1445
+
+2019-11-28 13:41:11
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process work 1445 => 1381
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process work 1381 => 1317
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process work 1317 => 1253
+
+2019-11-28 13:41:12
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process work 1253 => 1189
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process work 1189 => 1125
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process work 1125 => 1061
+
+2019-11-28 13:41:13
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process work 1061 => 997
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process work 997 => 933
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process work 933 => 869
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process work 869 => 805
+
+2019-11-28 13:41:14
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process work 805 => 741
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process work 741 => 677
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process work 677 => 613
+
+2019-11-28 13:41:15
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:16
+INFO pid:1218 time:1 process work 613 => 549
+
+2019-11-28 13:41:16
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:16
+INFO pid:1218 time:1 process work 549 => 485
+
+2019-11-28 
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:12
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:13
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:14
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:15
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-019-11-28 13:41:7
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:7
+INFO pid:1219 time:2 process work 609 => 545
+
+2019-11-28 13:41:7
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:7
+INFO pid:1219 time:2 process work 545 => 481
+
+2019-11-28 13:41:7
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process work 481 => 417
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process work 417 => 353
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process work 353 => 289
+
+2019-11-28 13:41:8
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process work 289 => 225
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process work 225 => 161
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process work 161 => 97
+
+2019-11-28 13:41:9
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process work 97 => 33
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:10
+INFO pid:1219 time:work change!
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process work 1739 => 1675
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process work 1675 => 1611
+
+2019-11-28 13:41:10
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process work 1611 => 1547
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process work 1547 => 1483
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process work 1483 => 1419
+
+2019-11-28 13:41:11
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process work 1419 => 1355
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process work 1355 => 1291
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process work 1291 => 1227
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process work 1227 => 1163
+
+2019-11-28 13:41:12
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process work 1163 => 1099
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process work 1099 => 1035
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process work 1035 => 971
+
+2019-11-28 13:41:13
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process work 971 => 907
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process work 907 => 843
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process work 843 => 779
+
+2019-11-28 13:41:14
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process work 779 => 715
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process work 715 => 651
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process work 651 => 587
+
+2019-11-28 13:41:15
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process work 587 => 523
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process work 523 => 459
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process work 459 => 395
+
+2019-11-28 13:41:16
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process work 395 => 331
+
+2019-11-28 019-11-28 13:41:7
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process work 609 => 545
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process work 545 => 481
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process work 481 => 417
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process work 417 => 353
+
+2019-11-28 13:41:8
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process work 353 => 289
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process work 289 => 225
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process work 225 => 161
+
+2019-11-28 13:41:9
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process work 161 => 97
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process work 97 => 33
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:10
+INFO pid:1221 time:work change!
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process work 1739 => 1675
+
+2019-11-28 13:41:10
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process work 1675 => 1611
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process work 1611 => 1547
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process work 1547 => 1483
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process work 1483 => 1419
+
+2019-11-28 13:41:11
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process work 1419 => 1355
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process work 1355 => 1291
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process work 1291 => 1227
+
+2019-11-28 13:41:12
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process work 1227 => 1163
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process work 1163 => 1099
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process work 1099 => 1035
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process work 1035 => 971
+
+2019-11-28 13:41:13
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process work 971 => 907
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process work 907 => 843
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process work 843 => 779
+
+2019-11-28 13:41:14
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process work 779 => 715
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process work 715 => 651
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process work 651 => 587
+
+2019-11-28 13:41:15
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process work 587 => 523
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process work 523 => 459
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process work 459 => 395
+
+2019-11-28 13:41:16
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:17
+INFO pid:1221 time:4 process work 395 => 331
+
+2019-11-211-28 13:41:16
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:16
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+DEBUG pid:1217 time:530 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 530 -> 466
+ 
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 466 -> 402
+ 
+2019-11-28 13:41:17
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 402 -> 338
+ 
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 338 -> 274
+ 
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 274 -> 210
+ 
+2019-11-28 13:41:17
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:17
+INFO pid:1217 time:waitQ 5 run 210 -> 146
+ 
+2019-11-28 13:41:18
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:18
+INFO pid:1217 time:waitQ 5 run 146 -> 82
+ 
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+INFO pid:1217 time:waitQ 5 run 82 -> 18
+ 
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+INFO pid:1217 time:waitQ 5 run 18 -> -46
+ 
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:18
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1739 -> 1675
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1675 -> 1611
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1611 -> 1547
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1547 -> 1483
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1483 -> 1419
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1419 -> 1355
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1355 -> 1291
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1291 -> 1227
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1227 -> 1163
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1163 -> 1099
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1739 -> 1675
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1099 -> 1035
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1675 -> 1611
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 1035 -> 971
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1611 -> 1547
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 971 -> 907
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1547 -> 1483
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 907 -> 843
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1483 -> 1419
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 843 -> 779
+ 
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 3 run 1419 -> 1355
+ 
+2019-11-28 13:41:19
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:19
+INFO pid:1217 time:waitQ 1 run 779 -> 715
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1355 -> 1291
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 715 -> 651
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1291 -> 1227
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 651 -> 587
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1227 -> 1163
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 587 -> 523
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1163 -> 1099
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 523 -> 459
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1099 -> 1035
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 459 -> 395
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 1035 -> 971
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 395 -> 331
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 971 -> 907
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 331 -> 267
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 907 -> 843
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:1739 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 267 -> 203
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 843 -> 779
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1739 -> 1675
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:152 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 203 -> 139
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 779 -> 715
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1675 -> 1611
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 4 run 152 -> 88
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 139 -> 75
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 715 -> 651
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1611 -> 1547
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 4 run 88 -> 24
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 75 -> 11
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 651 -> 587
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1547 -> 1483
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 4 run 24 -> -40
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 1 run 11 -> -53
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 587 -> 523
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1483 -> 1419
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 523 -> 459
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1419 -> 1355
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 459 -> 395
+ 
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 2 run 1355 -> 1291
+ 
+2019-11-28 13:41:20
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:20
+INFO pid:1217 time:waitQ 3 run 395 -> 331
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 1291 -> 1227
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 331 -> 267
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 1227 -> 1163
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 267 -> 203
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 1163 -> 1099
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 203 -> 139
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 1099 -> 1035
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 139 -> 75
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 1035 -> 971
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 75 -> 11
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 971 -> 907
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 3 run 11 -> -53
+ 
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 907 -> 843
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 843 -> 779
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 779 -> 715
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 715 -> 651
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 651 -> 587
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 587 -> 523
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 523 -> 459
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 459 -> 395
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 395 -> 331
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 331 -> 267
+ 
+2019-11-28 13:41:21
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:21
+INFO pid:1217 time:waitQ 2 run 267 -> 203
+ 
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+INFO pid:1217 time:waitQ 2 run 203 -> 139
+ 
+2019-11-28 13:41:22
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:22
+INFO pid:1217 time:waitQ 2 run 139 -> 75
+ 
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+INFO pid:1217 time:waitQ 2 run 75 -> 11
+ 
+2019-11-28 13:41:22
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:22
+INFO pid:1217 time:waitQ 2 run 11 -> -53
+ 
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:22
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendM41:16
+INFO pid:1222 time:5 process work 365 => 301
+
+2019-11-28 13:41:16
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:16
+INFO pid:1222 time:5 process work 301 => 237
+
+2019-11-28 13:41:16
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:16
+INFO pid:1222 time:5 process work 237 => 173
+
+2019-11-28 13:41:16
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:17
+INFO pid:1222 time:5 process work 173 => 109
+
+2019-11-28 13:41:17
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:17
+INFO pid:1222 time:5 process work 109 => 45
+
+2019-11-28 13:41:17
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:17
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:17
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:18
+INFO pid:1222 time:5 process work 1545 => 1481
+
+2019-11-28 13:41:18
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:18
+INFO pid:1222 time:5 process work 1481 => 1417
+
+2019-11-28 13:41:18
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process work 1417 => 1353
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process work 1353 => 1289
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process work 1289 => 1225
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process work 1225 => 1161
+
+2019-11-28 13:41:19
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 1161 => 1097
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 1097 => 1033
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 1033 => 969
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 969 => 905
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 905 => 841
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 841 => 777
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process work 777 => 713
+
+2019-11-28 13:41:20
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process work 713 => 649
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process work 649 => 585
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process work 585 => 521
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process work 521 => 457
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process work 457 => 393
+
+2019-11-28 13:41:21
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process work 393 => 329
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process work 329 => 265
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process work 265 => 201
+
+2019-11-28 13:41:22
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process work 201 => 137
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process work 137 => 73
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process work 73 => 9
+
+2019-11-28 13:41:23
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:24
+INFO pid:1222 time:work change!
+
+2019-11-28 13:41:24
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:24
+INFO pid:1222 time:5 process work 1155 => 1091
+
+2019-11-28 13:41:24
+INFO pid:1222 time:5 process get message
+
+2019-11-28 13:41:25
+INFO p8 13:41:17
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:17
+INFO pid:1221 time:4 process work 331 => 267
+
+2019-11-28 13:41:17
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:17
+INFO pid:1221 time:4 process work 267 => 203
+
+2019-11-28 13:41:17
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process work 203 => 139
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process work 139 => 75
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process work 75 => 11
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:18
+INFO pid:1221 time:work change!
+
+2019-11-28 13:41:18
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process work 396 => 332
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process work 332 => 268
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process work 268 => 204
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process work 204 => 140
+
+2019-11-28 13:41:19
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process work 140 => 76
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process work 76 => 12
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:20
+INFO pid:1221 time:work change!
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process work 1811 => 1747
+
+2019-11-28 13:41:20
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process work 1747 => 1683
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process work 1683 => 1619
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process work 1619 => 1555
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process work 1555 => 1491
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process work 1491 => 1427
+
+2019-11-28 13:41:21
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process work 1427 => 1363
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process work 1363 => 1299
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process work 1299 => 1235
+
+2019-11-28 13:41:22
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process work 1235 => 1171
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process work 1171 => 1107
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process work 1107 => 1043
+
+2019-11-28 13:41:23
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process work 1043 => 979
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process work 979 => 915
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process work 915 => 851
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process work 851 => 787
+
+2019-11-28 13:41:24
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:25
+INFO pid:1221 time:4 process work 787 => 723
+
+2019-11-28 13:41:25
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:25
+INFO pid:1221 time:4 process work 723 => 659
+
+2019-11-28 13:41:25
+INFO pid:1221 time:4 process get message
+
+2019-11-28 13:41:25
+INFO pid:1221 time:4 process work 659 => 595
+
+2019-11-28 13:4113:41:16
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:16
+INFO pid:1218 time:1 process work 485 => 421
+
+2019-11-28 13:41:16
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process work 421 => 357
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process work 357 => 293
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process work 293 => 229
+
+2019-11-28 13:41:17
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process work 229 => 165
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process work 165 => 101
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process work 101 => 37
+
+2019-11-28 13:41:18
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:19
+INFO pid:1218 time:work change!
+
+2019-11-28 13:41:19
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:20
+INFO pid:1218 time:1 process work 1789 => 1725
+
+2019-11-28 13:41:20
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process work 1725 => 1661
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process work 1661 => 1597
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process work 1597 => 1533
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process work 1533 => 1469
+
+2019-11-28 13:41:21
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process work 1469 => 1405
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process work 1405 => 1341
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process work 1341 => 1277
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process work 1277 => 1213
+
+2019-11-28 13:41:22
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process work 1213 => 1149
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process work 1149 => 1085
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process work 1085 => 1021
+
+2019-11-28 13:41:23
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process work 1021 => 957
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process work 957 => 893
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process work 893 => 829
+
+2019-11-28 13:41:24
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process work 829 => 765
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process work 765 => 701
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process work 701 => 637
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process work 637 => 573
+
+2019-11-28 13:41:25
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process work 573 => 509
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process work 509 => 445
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process work 445 => 381
+
+2019-11-28 13:41:26
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:27
+INFO pid:1218 time:1 process work 381 => 317
+
+2019-11-28 13:41:27
+INFO pid:1218 time:1 process get message
+
+2019-11-28 13:41:27
+INFO pid:1218 time:1 process work 317 => 253
+
+me:3 process get message
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process work 741 => 677
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process work 677 => 613
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process work 613 => 549
+
+2019-11-28 13:41:16
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process work 549 => 485
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process work 485 => 421
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process work 421 => 357
+
+2019-11-28 13:41:17
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process work 357 => 293
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process work 293 => 229
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process work 229 => 165
+
+2019-11-28 13:41:18
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:19
+INFO pid:1220 time:3 process work 165 => 101
+
+2019-11-28 13:41:19
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:19
+INFO pid:1220 time:3 process work 101 => 37
+
+2019-11-28 13:41:19
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:19
+INFO pid:1220 time:work change!
+
+2019-11-28 13:41:19
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:21
+INFO pid:1220 time:3 process work 1789 => 1725
+
+2019-11-28 13:41:21
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:21
+INFO pid:1220 time:3 process work 1725 => 1661
+
+2019-11-28 13:41:21
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process work 1661 => 1597
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process work 1597 => 1533
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process work 1533 => 1469
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process work 1469 => 1405
+
+2019-11-28 13:41:22
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process work 1405 => 1341
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process work 1341 => 1277
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process work 1277 => 1213
+
+2019-11-28 13:41:23
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process work 1213 => 1149
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process work 1149 => 1085
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process work 1085 => 1021
+
+2019-11-28 13:41:24
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process work 1021 => 957
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process work 957 => 893
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process work 893 => 829
+
+2019-11-28 13:41:25
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process work 829 => 765
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process work 765 => 701
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process work 701 => 637
+
+2019-11-28 13:41:26
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:27
+INFO pid:1220 time:3 process work 637 => 573
+
+2019-11-28 13:41:27
+INFO pid:1220 time:3 process get message
+
+2019-11-28 13:41:27
+INFO pid:1220 time:3 process work 573 => 509
+
+2019-11-28 13:41:27
+INFO SG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:23
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:396 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 396 -> 332
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 332 -> 268
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 268 -> 204
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 204 -> 140
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 140 -> 76
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 76 -> 12
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+INFO pid:1217 time:waitQ 5 run 12 -> -52
+ 
+2019-11-28 13:41:24
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:24
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:25
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:26
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-213:41:17
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process work 331 => 267
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process work 267 => 203
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process work 203 => 139
+
+2019-11-28 13:41:17
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:18
+INFO pid:1219 time:2 process work 139 => 75
+
+2019-11-28 13:41:18
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:18
+INFO pid:1219 time:2 process work 75 => 11
+
+2019-11-28 13:41:18
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:18
+INFO pid:1219 time:work change!
+
+2019-11-28 13:41:18
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process work 396 => 332
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process work 332 => 268
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process work 268 => 204
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process work 204 => 140
+
+2019-11-28 13:41:19
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:20
+INFO pid:1219 time:2 process work 140 => 76
+
+2019-11-28 13:41:20
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:20
+INFO pid:1219 time:2 process work 76 => 12
+
+2019-11-28 13:41:20
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:20
+INFO pid:1219 time:work change!
+
+2019-11-28 13:41:20
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:22
+INFO pid:1219 time:2 process work 1811 => 1747
+
+2019-11-28 13:41:22
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:22
+INFO pid:1219 time:2 process work 1747 => 1683
+
+2019-11-28 13:41:22
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process work 1683 => 1619
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process work 1619 => 1555
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process work 1555 => 1491
+
+2019-11-28 13:41:23
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process work 1491 => 1427
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process work 1427 => 1363
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process work 1363 => 1299
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process work 1299 => 1235
+
+2019-11-28 13:41:24
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process work 1235 => 1171
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process work 1171 => 1107
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process work 1107 => 1043
+
+2019-11-28 13:41:25
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process work 1043 => 979
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process work 979 => 915
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process work 915 => 851
+
+2019-11-28 13:41:26
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process work 851 => 787
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process work 787 => 723
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process work 723 => 659
+
+2019-11-28 13:41:27
+INFO pid:1219 time:2 process get message
+
+2019-11-28 13:41:28
+INFO pid:1219 time:2 process work 659 => 595
+
+2019-11-28 13:41:28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:27
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:28
+INFO pid:1217 time:waitQ 1 run 1811 -> 1747
+ 
+2019-11-28 13:41:28
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:28
+INFO pid:1217 time:waitQ 1 run 1747 -> 1683
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1683 -> 1619
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1619 -> 1555
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1555 -> 1491
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1491 -> 1427
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1427 -> 1363
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1363 -> 1299
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1299 -> 1235
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1235 -> 1171
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1171 -> 1107
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1107 -> 1043
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 1043 -> 979
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 979 -> 915
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:2036 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 915 -> 851
+ 
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 3 run 2036 -> 1972
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1811 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 851 -> 787
+ 
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 3 run 1972 -> 1908
+ 
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 4 run 1811 -> 1747
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 787 -> 723
+ 
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 3 run 1908 -> 1844
+ 
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 4 run 1747 -> 1683
+ 
+2019-11-28 13:41:29
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:29
+INFO pid:1217 time:waitQ 1 run 723 -> 659
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1844 -> 1780
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1683 -> 1619
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 659 -> 595
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1780 -> 1716
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1619 -> 1555
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 595 -> 531
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1716 -> 1652
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1555 -> 1491
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 531 -> 467
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1652 -> 1588
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1491 -> 1427
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 467 -> 403
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1588 -> 1524
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1427 -> 1363
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 403 -> 339
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1524 -> 1460
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1363 -> 1299
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 339 -> 275
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1460 -> 1396
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1299 -> 1235
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:321 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 275 -> 211
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1396 -> 1332
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1235 -> 1171
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 321 -> 257
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:1155 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 211 -> 147
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1332 -> 1268
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1171 -> 1107
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 257 -> 193
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 1155 -> 1091
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 147 -> 83
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1268 -> 1204
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1107 -> 1043
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 193 -> 129
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 1091 -> 1027
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 83 -> 19
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1204 -> 1140
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 1043 -> 979
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 129 -> 65
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 1027 -> 963
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 1 run 19 -> -45
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1140 -> 1076
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 979 -> 915
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 65 -> 1
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 963 -> 899
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:185 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1076 -> 1012
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 915 -> 851
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 2 run 1 -> -63
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 899 -> 835
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:185 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 1012 -> 948
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 851 -> 787
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 835 -> 771
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:185 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 948 -> 884
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 787 -> 723
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 771 -> 707
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:185 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 884 -> 820
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 4 run 723 -> 659
+ 
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 5 run 707 -> 643
+ 
+2019-11-28 13:41:30
+DEBUG pid:1217 time:185 and SendMSG
+
+2019-11-28 13:41:30
+INFO pid:1217 time:waitQ 3 run 820 -> 756
+ 
+2019-11-28 13:41:31
+INFO pid:1217 time:waitQ 4 run 659 -> 595
+ 
+2019-11-28 13:41:31
+INFO pid:1217 time:waitQ 5 run 643 -> 579
+ 
+2019-11-28 13:41:31
+DEBUG pid:1217 time:185 
