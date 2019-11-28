@@ -11,8 +11,9 @@
 #include "logger.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 10
-#define PROCESS_COUNT 5
+#define QUANTUM 50
+#define PROCESS_COUNT 10
+#define QUANTUM_COUNT 10000
 
 typedef struct __msg{
 	long mtype;
@@ -95,7 +96,7 @@ void handler(int signum){
 	
 	printf("handle\n");
 	//프로세스 핸들링 전처리부분 TODO메인으로 옮기면 좋을듯
-	if(cnt == 10000){
+	if(cnt >= QUANTUM_COUNT){
 		exit(-1);
 	}
 	if(cnt == 0){
@@ -134,9 +135,9 @@ void handler(int signum){
 		j = waitQ.count;
 		for(i = 0; i < j; i++){
 			temp = Dequeue(&waitQ);
+			work_state = work_process(temp, QUANTUM);
 			sprintf(log_msg, "waitQ %d run %d -> %d\n ", temp->type, temp->work, temp->work - QUANTUM);
 			log_info(log_file, log_msg, BOTH);
-			work_state = work_process(temp, QUANTUM);
 			if(work_state == 0){
 				Enqueue(&Q, temp);	
 			}else{
