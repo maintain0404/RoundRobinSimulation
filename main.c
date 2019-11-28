@@ -205,7 +205,7 @@ int main(){
 		sigaction (SIGALRM, &sa, NULL);
 
 		timer.it_value.tv_sec = 0;
-		timer.it_value.tv_usec = 250000;
+		timer.it_value.tv_usec = 500000;
 
 		timer.it_interval.tv_sec = QUANTUM / 1000;
 		timer.it_interval.tv_usec = QUANTUM * 1000;
