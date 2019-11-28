@@ -11,7 +11,7 @@
 #include "logger.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 1000
+#define QUANTUM 10
 #define PROCESS_COUNT 5
 
 typedef struct __msg{
@@ -30,8 +30,18 @@ void child_process(int pint, prs_info * prs, key_t id){
 	message temp;
 	prs = processes[pint - 1];
 	prs->pid = getpid();
-	sprintf(log_msg, "child process id : %d On\n", id);
-	log_info(log_file, log_msg, BOTH);
+	
+	//자식 시작 완료 메시지 보내기
+	temp.mtype = pint;
+	if(msgsnd(id, &temp, sizeof(prs_info), 0) != -1){
+		sprintf(log_msg, "child process id : %d On\n", prs->pid);
+		log_info(log_file, log_msg, BOTH);	
+	}else{
+		sprintf(log_msg, "child process failed ERROR : %s\n", strerror(errno));	
+		log_error(log_file, log_msg, BOTH);
+		exit(-1);
+	}
+	
 	
 	//본격적 작업처리 부분
 	while(1){
@@ -83,7 +93,11 @@ void handler(int signum){
 	int i, work_state, j;
 	prs_info * temp;
 	
+	printf("handle\n");
 	//프로세스 핸들링 전처리부분 TODO메인으로 옮기면 좋을듯
+	if(cnt == 10000){
+		exit(-1);
+	}
 	if(cnt == 0){
 		
 		sprintf(log_msg, "signal init\n");
@@ -149,6 +163,7 @@ void handler(int signum){
 	
 		}
 	}
+	cnt++;
 }
 
 int main(){
@@ -196,7 +211,6 @@ int main(){
 	//여기서부터는 부모 프로세스만 실행됨
 	//메시지를 입력하는 부분
 	if(crt > 0){
-		printf("hi");
 		struct sigaction sa;
 		struct itimerval timer;
 		
@@ -205,14 +219,30 @@ int main(){
 		sa.sa_handler = handler;
 		sigaction (SIGALRM, &sa, NULL);
 
-		timer.it_value.tv_sec = 0;
+		timer.it_value.tv_sec = 3;
 		timer.it_value.tv_usec = 0;
 
 		timer.it_interval.tv_sec = QUANTUM / 1000;
 		timer.it_interval.tv_usec = QUANTUM * 1000;
+		
+		for(i = 0; i < PROCESS_COUNT; i++){
+			printf("pid %d : %d\n", i + 1, processes[i]->pid);
+		}
 
+		for(i = 0; i < PROCESS_COUNT; i++){
+			if(msgrcv(msgq_id, &content, sizeof(prs_info), i + 1, 0) != -1){
+				printf("%d process clear!\n", i + 1);
+			}else{
+				printf("no %d process\n", i + 1);
+			}
+		}
+		printf("all child created!\n\n\n\n");
 		//가상 타이머 시작
-		setitimer (ITIMER_REAL, &timer, NULL);	//TOTO플래그 바꿔야함
+		if(setitimer(ITIMER_REAL, &timer, NULL) == -1){
+			printf("%s\n", strerror(errno));
+			printf("timer error\n");
+			exit(-1);
+		}//TOTO플래그 바꿔야함
 
 		while(1){
 			if(msgrcv(msgq_id, &content, sizeof(prs_info), 0, IPC_NOWAIT) != -1){
@@ -222,7 +252,6 @@ int main(){
 			}
 			sleep(1);
 		};
-		log_info(log_file, "END!\n", 0);
 	}
 	return 0;
 }
