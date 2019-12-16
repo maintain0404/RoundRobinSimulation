@@ -1,0 +1,3605 @@
+INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4229 time:2019-11-29 7:4:16
+all child set ready
+
+
+
+
+INFO pid:4229 time:2019-11-29 7:4:19
+signal init
+
+INFO pid:4229 time:2019-11-29 7:4:24
+waitQ 4 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 404 -> 354
+waitQ 5 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 354 -> 304
+waitQ 5 run 404 -> 354
+waitQ 6 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 304 -> 254
+waitQ 5 run 354 -> 304
+waitQ 6 run 404 -> 354
+waitQ 7 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 254 -> 204
+waitQ 5 run 304 -> 254
+waitQ 6 run 354 -> 304
+waitQ 7 run 404 -> 354
+waitQ 8 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 204 -> 154
+waitQ 5 run 254 -> 204
+waitQ 6 run 304 -> 254
+waitQ 7 run 354 -> 304
+waitQ 8 run 404 -> 354
+waitQ 9 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 154 -> 104
+waitQ 5 run 204 -> 154
+waitQ 6 run 254 -> 204
+waitQ 7 run 304 -> 254
+waitQ 8 run 354 -> 304
+waitQ 9 run 404 -> 354
+waitQ 10 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 104 -> 54
+waitQ 5 run 154 -> 104
+waitQ 6 run 204 -> 154
+waitQ 7 run 254 -> 204
+waitQ 8 run 304 -> 254
+waitQ 9 run 354 -> 304
+waitQ 10 run 404 -> 354
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 54 -> 4
+waitQ 5 run 104 -> 54
+waitQ 6 run 154 -> 104
+waitQ 7 run 204 -> 154
+waitQ 8 run 254 -> 204
+waitQ 9 run 304 -> 254
+waitQ 10 run 354 -> 304
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 4 -> -46
+waitQ 5 run 54 -> 4
+waitQ 6 run 104 -> 54
+waitQ 7 run 154 -> 104
+waitQ 8 run 204 -> 154
+waitQ 9 run 254 -> 204
+waitQ 10 run 304 -> 254
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 4 run 1578 -> 1528
+waitQ 5 run 4 -> -46
+waitQ 6 run 54 -> 4
+waitQ 7 run 104 -> 54
+waitQ 8 run 154 -> 104
+waitQ 9 run 204 -> 154
+waitQ 10 run 254 -> 204
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 5 run 1578 -> 1528
+waitQ 6 run 4 -> -46
+waitQ 7 run 54 -> 4
+waitQ 8 run 104 -> 54
+waitQ 9 run 154 -> 104
+waitQ 10 run 204 -> 154
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 6 run 1578 -> 1528
+waitQ 7 run 4 -> -46
+waitQ 8 run 54 -> 4
+waitQ 9 run 104 -> 54
+waitQ 10 run 154 -> 104
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 7 run 1578 -> 1528
+waitQ 8 run 4 -> -46
+waitQ 9 run 54 -> 4
+waitQ 10 run 104 -> 54
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 8 run 1578 -> 1528
+waitQ 9 run 4 -> -46
+waitQ 10 run 54 -> 4
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 9 run 1578 -> 1528
+waitQ 10 run 4 -> -46
+
+INFO pid:4229 time:2019-11-29 7:4:25
+waitQ 10 run 1578 -> 1528
+
+INFO pid:4229 time:2019-11-29 7:4:29
+waitQ 1 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:29
+waitQ 1 run 404 -> 354
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 354 -> 304
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 304 -> 254
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 254 -> 204
+waitQ 2 run 454 -> 404
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 204 -> 154
+waitQ 2 run 404 -> 354
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 154 -> 104
+waitQ 2 run 354 -> 304
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 104 -> 54
+waitQ 2 run 304 -> 254
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 54 -> 4
+waitQ 2 run 254 -> 204
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 4 -> -46
+waitQ 2 run 204 -> 154
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 1 run 1845 -> 1795
+waitQ 2 run 154 -> 104
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 2 run 104 -> 54
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 2 run 54 -> 4
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 2 run 4 -> -46
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 2 run 1845 -> 1795
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 4 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:30
+waitQ 4 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1428 -> 1378
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1378 -> 1328
+waitQ 5 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1328 -> 1278
+waitQ 5 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1278 -> 1228
+waitQ 5 run 1428 -> 1378
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1228 -> 1178
+waitQ 5 run 1378 -> 1328
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1178 -> 1128
+waitQ 5 run 1328 -> 1278
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1128 -> 1078
+waitQ 5 run 1278 -> 1228
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1078 -> 1028
+waitQ 5 run 1228 -> 1178
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 1028 -> 978
+waitQ 5 run 1178 -> 1128
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 978 -> 928
+waitQ 5 run 1128 -> 1078
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 928 -> 878
+waitQ 5 run 1078 -> 1028
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 878 -> 828
+waitQ 5 run 1028 -> 978
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 828 -> 778
+waitQ 5 run 978 -> 928
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 778 -> 728
+waitQ 5 run 928 -> 878
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 728 -> 678
+waitQ 5 run 878 -> 828
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 678 -> 628
+waitQ 5 run 828 -> 778
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 628 -> 578
+waitQ 5 run 778 -> 728
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 578 -> 528
+waitQ 5 run 728 -> 678
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 528 -> 478
+waitQ 5 run 678 -> 628
+
+INFO pid:4229 time:2019-11-29 7:4:31
+waitQ 4 run 478 -> 428
+waitQ 5 run 628 -> 578
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 428 -> 378
+waitQ 5 run 578 -> 528
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 378 -> 328
+waitQ 5 run 528 -> 478
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 328 -> 278
+waitQ 5 run 478 -> 428
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 278 -> 228
+waitQ 5 run 428 -> 378
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 228 -> 178
+waitQ 5 run 378 -> 328
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 178 -> 128
+waitQ 5 run 328 -> 278
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 128 -> 78
+waitQ 5 run 278 -> 228
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 78 -> 28
+waitQ 5 run 228 -> 178
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 28 -> -22
+waitQ 5 run 178 -> 128
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 4 run 1056 -> 1006
+waitQ 5 run 128 -> 78
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 5 run 78 -> 28
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 5 run 28 -> -22
+
+INFO pid:4229 time:2019-11-29 7:4:32
+waitQ 5 run 1056 -> 1006
+
+INFO pid:4229 time:2019-11-29 7:4:40
+waitQ 7 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1428 -> 1378
+waitQ 8 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1378 -> 1328
+waitQ 8 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1328 -> 1278
+waitQ 8 run 1428 -> 1378
+waitQ 9 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1278 -> 1228
+waitQ 8 run 1378 -> 1328
+waitQ 9 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1228 -> 1178
+waitQ 8 run 1328 -> 1278
+waitQ 9 run 1428 -> 1378
+waitQ 10 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1178 -> 1128
+waitQ 8 run 1278 -> 1228
+waitQ 9 run 1378 -> 1328
+waitQ 10 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1128 -> 1078
+waitQ 8 run 1228 -> 1178
+waitQ 9 run 1328 -> 1278
+waitQ 10 run 1428 -> 1378
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1078 -> 1028
+waitQ 8 run 1178 -> 1128
+waitQ 9 run 1278 -> 1228
+waitQ 10 run 1378 -> 1328
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 1028 -> 978
+waitQ 8 run 1128 -> 1078
+waitQ 9 run 1228 -> 1178
+waitQ 10 run 1328 -> 1278
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 978 -> 928
+waitQ 8 run 1078 -> 1028
+waitQ 9 run 1178 -> 1128
+waitQ 10 run 1278 -> 1228
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 928 -> 878
+waitQ 8 run 1028 -> 978
+waitQ 9 run 1128 -> 1078
+waitQ 10 run 1228 -> 1178
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 878 -> 828
+waitQ 8 run 978 -> 928
+waitQ 9 run 1078 -> 1028
+waitQ 10 run 1178 -> 1128
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 828 -> 778
+waitQ 8 run 928 -> 878
+waitQ 9 run 1028 -> 978
+waitQ 10 run 1128 -> 1078
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 778 -> 728
+waitQ 8 run 878 -> 828
+waitQ 9 run 978 -> 928
+waitQ 10 run 1078 -> 1028
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 728 -> 678
+waitQ 8 run 828 -> 778
+waitQ 9 run 928 -> 878
+waitQ 10 run 1028 -> 978
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 678 -> 628
+waitQ 8 run 778 -> 728
+waitQ 9 run 878 -> 828
+waitQ 10 run 978 -> 928
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 628 -> 578
+waitQ 8 run 728 -> 678
+waitQ 9 run 828 -> 778
+waitQ 10 run 928 -> 878
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 578 -> 528
+waitQ 8 run 678 -> 628
+waitQ 9 run 778 -> 728
+waitQ 10 run 878 -> 828
+
+INFO pid:4229 time:2019-11-29 7:4:41
+waitQ 7 run 528 -> 478
+waitQ 8 run 628 -> 578
+waitQ 9 run 728 -> 678
+waitQ 10 run 828 -> 778
+waitQ 6 run 1528 -> 1478
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 478 -> 428
+waitQ 8 run 578 -> 528
+waitQ 9 run 678 -> 628
+waitQ 10 run 778 -> 728
+waitQ 6 run 1478 -> 1428
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 428 -> 378
+waitQ 8 run 528 -> 478
+waitQ 9 run 628 -> 578
+waitQ 10 run 728 -> 678
+waitQ 6 run 1428 -> 1378
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 378 -> 328
+waitQ 8 run 478 -> 428
+waitQ 9 run 578 -> 528
+waitQ 10 run 678 -> 628
+waitQ 6 run 1378 -> 1328
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 328 -> 278
+waitQ 8 run 428 -> 378
+waitQ 9 run 528 -> 478
+waitQ 10 run 628 -> 578
+waitQ 6 run 1328 -> 1278
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 278 -> 228
+waitQ 8 run 378 -> 328
+waitQ 9 run 478 -> 428
+waitQ 10 run 578 -> 528
+waitQ 6 run 1278 -> 1228
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 228 -> 178
+waitQ 8 run 328 -> 278
+waitQ 9 run 428 -> 378
+waitQ 10 run 528 -> 478
+waitQ 6 run 1228 -> 1178
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 178 -> 128
+waitQ 8 run 278 -> 228
+waitQ 9 run 378 -> 328
+waitQ 10 run 478 -> 428
+waitQ 6 run 1178 -> 1128
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 128 -> 78
+waitQ 8 run 228 -> 178
+waitQ 9 run 328 -> 278
+waitQ 10 run 428 -> 378
+waitQ 6 run 1128 -> 1078
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 78 -> 28
+waitQ 8 run 178 -> 128
+waitQ 9 run 278 -> 228
+waitQ 10 run 378 -> 328
+waitQ 6 run 1078 -> 1028
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 28 -> -22
+waitQ 8 run 128 -> 78
+waitQ 9 run 228 -> 178
+waitQ 10 run 328 -> 278
+waitQ 6 run 1028 -> 978
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 7 run 337 -> 287
+waitQ 8 run 78 -> 28
+waitQ 9 run 178 -> 128
+waitQ 10 run 278 -> 228
+waitQ 6 run 978 -> 928
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 8 run 28 -> -22
+waitQ 9 run 128 -> 78
+waitQ 10 run 228 -> 178
+waitQ 6 run 928 -> 878
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 8 run 337 -> 287
+waitQ 9 run 78 -> 28
+waitQ 10 run 178 -> 128
+waitQ 6 run 878 -> 828
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 9 run 28 -> -22
+waitQ 10 run 128 -> 78
+waitQ 6 run 828 -> 778
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 9 run 337 -> 287
+waitQ 10 run 78 -> 28
+waitQ 6 run 778 -> 728
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 10 run 28 -> -22
+waitQ 6 run 728 -> 678
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 10 run 337 -> 287
+waitQ 6 run 678 -> 628
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 6 run 628 -> 578
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 6 run 578 -> 528
+
+INFO pid:4229 time:2019-11-29 7:4:42
+waitQ 6 run 528 -> 478
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 478 -> 428
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 428 -> 378
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 378 -> 328
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 328 -> 278
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 278 -> 228
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 228 -> 178
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 178 -> 128
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 128 -> 78
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 78 -> 28
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 28 -> -22
+
+INFO pid:4229 time:2019-11-29 7:4:43
+waitQ 6 run 1914 -> 1864
+
+INFO pid:4229 time:2019-11-29 7:INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4232 time:2019-11-29 7:4:16
+3 child process created
+
+INFO pid:4232 time:2019-11-29 7:4:16
+child process id : 4232 On
+
+INFO pid:4232 time:2019-11-29 7:4:19
+3 process work 504 => 454
+
+INFO pid:4232 time:2019-11-29 7:4:20
+3 process work 454 => 404
+
+INFO pid:4232 time:2019-11-29 7:4:20
+3 process work 404 => 354
+
+INFO pid:4232 time:2019-11-29 7:4:21
+3 process work 354 => 304
+
+INFO pid:4232 time:2019-11-29 7:4:21
+3 process work 304 => 254
+
+INFO pid:4232 time:2019-11-29 7:4:22
+3 process work 254 => 204
+
+INFO pid:4232 time:2019-11-29 7:4:22
+3 process work 204 => 154
+
+INFO pid:4232 time:2019-11-29 7:4:23
+3 process work 154 => 104
+
+INFO pid:4232 time:2019-11-29 7:4:23
+3 process work 104 => 54
+
+INFO pid:4232 time:2019-11-29 7:4:24
+3 process work 54 => 4
+
+INFO pid:4232 time:2019-11-29 7:4:24
+work change!
+
+INFO pid:4232 time:2019-11-29 7:4:25
+3 process work 564 => 514
+
+INFO pid:4232 time:2019-11-29 7:4:25
+3 process work 514 => 464
+
+INFO pid:4232 time:2019-11-29 7:4:25
+3 process work 464 => 414
+
+INFO pid:4232 time:2019-11-29 7:4:26
+3 process work 414 => 364
+
+INFO pid:4232 time:2019-11-29 7:4:26
+3 process work 364 => 314
+
+INFO pid:4232 time:2019-11-29 7:4:27
+3 process work 314 => 264
+
+INFO pid:4232 time:2019-11-29 7:4:27
+3 process work 264 => 214
+
+INFO pid:4232 time:2019-11-29 7:4:28
+3 process work 214 => 164
+
+INFO pid:4232 time:2019-11-29 7:4:28
+3 process work 164 => 114
+
+INFO pid:4232 time:2019-11-29 7:4:29
+3 process work 114 => 64
+
+INFO pid:4232 time:2019-11-29 7:4:29
+3 process work 64 => 14
+
+INFO pid:4232 time:2019-11-29 7:4:30
+work change!
+
+INFO pid:4232 time:2019-11-29 7:4:30
+3 process work 1845 => 1795
+
+INFO pid:4232 time:2019-11-29 7:4:31
+3 process work 1795 => 1745
+
+INFO pid:4232 time:2019-11-29 7:4:31
+3 process work 1745 => 1695
+
+INFO pid:4232 time:2019-11-29 7:4:31
+3 process work 1695 => 1645
+
+INFO pid:4232 time:2019-11-29 7:4:32
+3 process work 1645 => 1595
+
+INFO pid:4232 time:2019-11-29 7:4:32
+3 process work 1595 => 1545
+
+INFO pid:4232 time:2019-11-29 7:4:33
+3 process work 1545 => 1495
+
+INFO pid:4232 time:2019-11-29 7:4:33
+3 process work 1495 => 1445
+
+INFO pid:4232 time:2019-11-29 7:4:34
+3 process work 1445 => 1395
+
+INFO pid:4232 time:2019-11-29 7:4:34
+3 process work 1395 => 1345
+
+INFO pid:4232 time:2019-11-29 7:4:35
+3 process work 1345 => 1295
+
+INFO pid:4232 time:2019-11-29 7:4:35
+3 process work 1295 => 1245
+
+INFO pid:4232 time:2019-11-29 7:4:36
+3 process work 1245 => 1195
+
+INFO pid:4232 time:2019-11-29 7:4:36
+3 process work 1195 => 1145
+
+INFO pid:4232 time:2019-11-29 7:4:37
+3 process work 1145 => 1095
+
+INFO pid:4232 time:2019-11-29 7:4:37
+3 process work 1095 => 1045
+
+INFO pid:4232 time:2019-11-29 7:4:38
+3 process work 1045 => 995
+
+INFO pid:4232 time:2019-11-29 7:4:38
+3 process work 995 => 945
+
+INFO pid:4232 time:2019-11-29 7:4:39
+3 process work 945 => 895
+
+INFO pid:4232 time:2019-11-29 7:4:39
+3 process work 895 => 845
+
+INFO pid:4232 time:2019-11-29 7:4:40
+3 process work 845 => 795
+
+INFO pid:4232 time:2019-11-29 7:4:40
+3 process work 795 => 745
+
+INFO pid:4232 time:2019-11-29 7:4:41
+3 process work 745 => 695
+
+INFO pid:4232 time:2019-11-29 7:4:41
+3 process work 695 => 645
+
+INFO pid:4232 time:2019-11-29 7:4:41
+3 process work 645 => 595
+
+INFO pid:4232 time:2019-11-29 7:4:42
+3 process work 595 => 545
+
+INFO pid:4232 time:2019-11-29 7:4:42
+3 process work 545 => 495
+
+INFO pid:4232 time:2019-11-29 7:4:42
+3 process work 495 => 445
+
+INFO pid:4232 time:2019-11-29 7:4:43
+3 process work 445 => 395
+
+INFO pid:4232 time:2019-11-29 7:4:43
+3 process work 395 => 345
+
+INFO pid:4232 time:2019-11-29 7:4:43
+3 process work 345 => 295
+
+INFO pid:4232 time:2019-11-29 7:4:44
+3 process work 295 => 245
+
+INFO pid:4232 time:2019-11-29 7:4:44
+3 process work 245 => 195
+
+INFO pid:4232 time:2019-11-29 7:4:45
+3 process work 195 => 145
+
+INFO pid:4232 time:2019-11-29 7:4:45
+3 process work 145 => 95
+
+INFO pid:4232 time:2019-11-29 7:4:46
+3 process work 95 => 45
+
+INFO pid:4232 time:2019-11-29 7:4:46
+work change!
+
+INFO pid:4232 time:2019-11-29 7:4:47
+3 process work 529 => 479
+
+INFO pid:4232 time:INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4230 time:2019-11-29 7:4:16
+1 child process created
+
+INFO pid:4230 time:2019-11-29 7:4:16
+child process id : 4230 On
+
+INFO pid:4230 time:2019-11-29 7:4:19
+1 process work 504 => 454
+
+INFO pid:4230 time:2019-11-29 7:4:20
+1 process work 454 => 404
+
+INFO pid:4230 time:2019-11-29 7:4:20
+1 process work 404 => 354
+
+INFO pid:4230 time:2019-11-29 7:4:21
+1 process work 354 => 304
+
+INFO pid:4230 time:2019-11-29 7:4:21
+1 process work 304 => 254
+
+INFO pid:4230 time:2019-11-29 7:4:22
+1 process work 254 => 204
+
+INFO pid:4230 time:2019-11-29 7:4:22
+1 process work 204 => 154
+
+INFO pid:4230 time:2019-11-29 7:4:23
+1 process work 154 => 104
+
+INFO pid:4230 time:2019-11-29 7:4:23
+1 process work 104 => 54
+
+INFO pid:4230 time:2019-11-29 7:4:24
+1 process work 54 => 4
+
+INFO pid:4230 time:2019-11-29 7:4:24
+work change!
+
+INFO pid:4230 time:2019-11-29 7:4:25
+1 process work 564 => 514
+
+INFO pid:4230 time:2019-11-29 7:4:25
+1 process work 514 => 464
+
+INFO pid:4230 time:2019-11-29 7:4:25
+1 process work 464 => 414
+
+INFO pid:4230 time:2019-11-29 7:4:25
+1 process work 414 => 364
+
+INFO pid:4230 time:2019-11-29 7:4:26
+1 process work 364 => 314
+
+INFO pid:4230 time:2019-11-29 7:4:26
+1 process work 314 => 264
+
+INFO pid:4230 time:2019-11-29 7:4:27
+1 process work 264 => 214
+
+INFO pid:4230 time:2019-11-29 7:4:27
+1 process work 214 => 164
+
+INFO pid:4230 time:2019-11-29 7:4:28
+1 process work 164 => 114
+
+INFO pid:4230 time:2019-11-29 7:4:28
+1 process work 114 => 64
+
+INFO pid:4230 time:2019-11-29 7:4:29
+1 process work 64 => 14
+
+INFO pid:4230 time:2019-11-29 7:4:29
+work change!
+
+INFO pid:4230 time:2019-11-29 7:4:30
+1 process work 315 => 265
+
+INFO pid:4230 time:2019-11-29 7:4:31
+1 process work 265 => 215
+
+INFO pid:4230 time:2019-11-29 7:4:31
+1 process work 215 => 165
+
+INFO pid:4230 time:2019-11-29 7:4:32
+1 process work 165 => 115
+
+INFO pid:4230 time:2019-11-29 7:4:32
+1 process work 115 => 65
+
+INFO pid:4230 time:2019-11-29 7:4:32
+1 process work 65 => 15
+
+INFO pid:4230 time:2019-11-29 7:4:33
+work change!
+
+INFO pid:4230 time:2019-11-29 7:4:33
+1 process work 1475 => 1425
+
+INFO pid:4230 time:2019-11-29 7:4:34
+1 process work 1425 => 1375
+
+INFO pid:4230 time:2019-11-29 7:4:34
+1 process work 1375 => 1325
+
+INFO pid:4230 time:2019-11-29 7:4:35
+1 process work 1325 => 1275
+
+INFO pid:4230 time:2019-11-29 7:4:35
+1 process work 1275 => 1225
+
+INFO pid:4230 time:2019-11-29 7:4:36
+1 process work 1225 => 1175
+
+INFO pid:4230 time:2019-11-29 7:4:36
+1 process work 1175 => 1125
+
+INFO pid:4230 time:2019-11-29 7:4:37
+1 process work 1125 => 1075
+
+INFO pid:4230 time:2019-11-29 7:4:37
+1 process work 1075 => 1025
+
+INFO pid:4230 time:2019-11-29 7:4:38
+1 process work 1025 => 975
+
+INFO pid:4230 time:2019-11-29 7:4:38
+1 process work 975 => 925
+
+INFO pid:4230 time:2019-11-29 7:4:39
+1 process work 925 => 875
+
+INFO pid:4230 time:2019-11-29 7:4:39
+1 process work 875 => 825
+
+INFO pid:4230 time:2019-11-29 7:4:40
+1 process work 825 => 775
+
+INFO pid:4230 time:2019-11-29 7:4:40
+1 process work 775 => 725
+
+INFO pid:4230 time:2019-11-29 7:4:41
+1 process work 725 => 675
+
+INFO pid:4230 time:2019-11-29 7:4:41
+1 process work 675 => 625
+
+INFO pid:4230 time:2019-11-29 7:4:42
+1 process work 625 => 575
+
+INFO pid:4230 time:2019-11-29 7:4:42
+1 process work 575 => 525
+
+INFO pid:4230 time:2019-11-29 7:4:42
+1 process work 525 => 475
+
+INFO pid:4230 time:2019-11-29 7:4:42
+1 process work 475 => 425
+
+INFO pid:4230 time:2019-11-29 7:4:43
+1 process work 425 => 375
+
+INFO pid:4230 time:2019-11-29 7:4:43
+1 process work 375 => 325
+
+INFO pid:4230 time:2019-11-29 7:4:44
+1 process work 325 => 275
+
+INFO pid:4230 time:2019-11-29 7:4:44
+1 process work 275 => 225
+
+INFO pid:4230 time:2019-11-29 7:4:45
+1 process work 225 => 175
+
+INFO pid:4230 time:2019-11-29 7:4:45
+1 process work 175 => 125
+
+INFO pid:4230 time:2019-11-29 7:4:46
+1 process work 125 => 75
+
+INFO pid:4230 time:2019-11-29 7:4:46
+1 process work 75 => 25
+
+INFO pid:4230 time:2019-11-29 7:4:47
+work change!
+
+INFO pid:4230 time:2019-11-29 7:4:47
+1 process work 1084 => 1034
+
+INFO pid:4230 time:2019-11-29 7:4:48
+1 process INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4231 time:2019-11-29 7:4:16
+2 child process created
+
+INFO pid:4231 time:2019-11-29 7:4:16
+child process id : 4231 On
+
+INFO pid:4231 time:2019-11-29 7:4:19
+2 process work 504 => 454
+
+INFO pid:4231 time:2019-11-29 7:4:20
+2 process work 454 => 404
+
+INFO pid:4231 time:2019-11-29 7:4:20
+2 process work 404 => 354
+
+INFO pid:4231 time:2019-11-29 7:4:21
+2 process work 354 => 304
+
+INFO pid:4231 time:2019-11-29 7:4:21
+2 process work 304 => 254
+
+INFO pid:4231 time:2019-11-29 7:4:22
+2 process work 254 => 204
+
+INFO pid:4231 time:2019-11-29 7:4:22
+2 process work 204 => 154
+
+INFO pid:4231 time:2019-11-29 7:4:23
+2 process work 154 => 104
+
+INFO pid:4231 time:2019-11-29 7:4:23
+2 process work 104 => 54
+
+INFO pid:4231 time:2019-11-29 7:4:24
+2 process work 54 => 4
+
+INFO pid:4231 time:2019-11-29 7:4:24
+work change!
+
+INFO pid:4231 time:2019-11-29 7:4:25
+2 process work 564 => 514
+
+INFO pid:4231 time:2019-11-29 7:4:25
+2 process work 514 => 464
+
+INFO pid:4231 time:2019-11-29 7:4:25
+2 process work 464 => 414
+
+INFO pid:4231 time:2019-11-29 7:4:26
+2 process work 414 => 364
+
+INFO pid:4231 time:2019-11-29 7:4:26
+2 process work 364 => 314
+
+INFO pid:4231 time:2019-11-29 7:4:27
+2 process work 314 => 264
+
+INFO pid:4231 time:2019-11-29 7:4:27
+2 process work 264 => 214
+
+INFO pid:4231 time:2019-11-29 7:4:28
+2 process work 214 => 164
+
+INFO pid:4231 time:2019-11-29 7:4:28
+2 process work 164 => 114
+
+INFO pid:4231 time:2019-11-29 7:4:29
+2 process work 114 => 64
+
+INFO pid:4231 time:2019-11-29 7:4:29
+2 process work 64 => 14
+
+INFO pid:4231 time:2019-11-29 7:4:30
+work change!
+
+INFO pid:4231 time:2019-11-29 7:4:31
+2 process work 1845 => 1795
+
+INFO pid:4231 time:2019-11-29 7:4:31
+2 process work 1795 => 1745
+
+INFO pid:4231 time:2019-11-29 7:4:31
+2 process work 1745 => 1695
+
+INFO pid:4231 time:2019-11-29 7:4:32
+2 process work 1695 => 1645
+
+INFO pid:4231 time:2019-11-29 7:4:32
+2 process work 1645 => 1595
+
+INFO pid:4231 time:2019-11-29 7:4:33
+2 process work 1595 => 1545
+
+INFO pid:4231 time:2019-11-29 7:4:33
+2 process work 1545 => 1495
+
+INFO pid:4231 time:2019-11-29 7:4:34
+2 process work 1495 => 1445
+
+INFO pid:4231 time:2019-11-29 7:4:34
+2 process work 1445 => 1395
+
+INFO pid:4231 time:2019-11-29 7:4:35
+2 process work 1395 => 1345
+
+INFO pid:4231 time:2019-11-29 7:4:35
+2 process work 1345 => 1295
+
+INFO pid:4231 time:2019-11-29 7:4:36
+2 process work 1295 => 1245
+
+INFO pid:4231 time:2019-11-29 7:4:36
+2 process work 1245 => 1195
+
+INFO pid:4231 time:2019-11-29 7:4:37
+2 process work 1195 => 1145
+
+INFO pid:4231 time:2019-11-29 7:4:37
+2 process work 1145 => 1095
+
+INFO pid:4231 time:2019-11-29 7:4:38
+2 process work 1095 => 1045
+
+INFO pid:4231 time:2019-11-29 7:4:38
+2 process work 1045 => 995
+
+INFO pid:4231 time:2019-11-29 7:4:39
+2 process work 995 => 945
+
+INFO pid:4231 time:2019-11-29 7:4:39
+2 process work 945 => 895
+
+INFO pid:4231 time:2019-11-29 7:4:40
+2 process work 895 => 845
+
+INFO pid:4231 time:2019-11-29 7:4:40
+2 process work 845 => 795
+
+INFO pid:4231 time:2019-11-29 7:4:41
+2 process work 795 => 745
+
+INFO pid:4231 time:2019-11-29 7:4:41
+2 process work 745 => 695
+
+INFO pid:4231 time:2019-11-29 7:4:41
+2 process work 695 => 645
+
+INFO pid:4231 time:2019-11-29 7:4:42
+2 process work 645 => 595
+
+INFO pid:4231 time:2019-11-29 7:4:42
+2 process work 595 => 545
+
+INFO pid:4231 time:2019-11-29 7:4:42
+2 process work 545 => 495
+
+INFO pid:4231 time:2019-11-29 7:4:42
+2 process work 495 => 445
+
+INFO pid:4231 time:2019-11-29 7:4:43
+2 process work 445 => 395
+
+INFO pid:4231 time:2019-11-29 7:4:43
+2 process work 395 => 345
+
+INFO pid:4231 time:2019-11-29 7:4:44
+2 process work 345 => 295
+
+INFO pid:4231 time:2019-11-29 7:4:44
+2 process work 295 => 245
+
+INFO pid:4231 time:2019-11-29 7:4:45
+2 process work 245 => 195
+
+INFO pid:4231 time:2019-11-29 7:4:45
+2 process work 195 => 145
+
+INFO pid:4231 time:2019-11-29 7:4:46
+2 process work 145 => 95
+
+INFO pid:4231 time:2019-11-29 7:4:46
+2 process work 95 => 45
+
+INFO pid:4231 time:2019-11-29 7:4:47
+work change!
+
+INFO pid:4231 time:2019-11-29 7:4:47
+2 process work 1084 => 1034
+
+INFO pid:4231 tim4:47
+waitQ 8 run 287 -> 237
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 237 -> 187
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 187 -> 137
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 137 -> 87
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 87 -> 37
+waitQ 9 run 287 -> 237
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 37 -> -13
+waitQ 9 run 237 -> 187
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 8 run 1084 -> 1034
+waitQ 9 run 187 -> 137
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 9 run 137 -> 87
+waitQ 10 run 287 -> 237
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 9 run 87 -> 37
+waitQ 10 run 237 -> 187
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 9 run 37 -> -13
+waitQ 10 run 187 -> 137
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 9 run 1084 -> 1034
+waitQ 10 run 137 -> 87
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 10 run 87 -> 37
+
+INFO pid:4229 time:2019-11-29 7:4:47
+waitQ 10 run 37 -> -13
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 10 run 1429 -> 1379
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 1034 -> 984
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 984 -> 934
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 934 -> 884
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 884 -> 834
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 834 -> 784
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 784 -> 734
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 734 -> 684
+waitQ 6 run 1864 -> 1814
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 684 -> 634
+waitQ 6 run 1814 -> 1764
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 634 -> 584
+waitQ 6 run 1764 -> 1714
+waitQ 10 run 1379 -> 1329
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 584 -> 534
+waitQ 6 run 1714 -> 1664
+waitQ 10 run 1329 -> 1279
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 534 -> 484
+waitQ 6 run 1664 -> 1614
+waitQ 10 run 1279 -> 1229
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 484 -> 434
+waitQ 6 run 1614 -> 1564
+waitQ 10 run 1229 -> 1179
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 434 -> 384
+waitQ 6 run 1564 -> 1514
+waitQ 10 run 1179 -> 1129
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 384 -> 334
+waitQ 6 run 1514 -> 1464
+waitQ 10 run 1129 -> 1079
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 334 -> 284
+waitQ 6 run 1464 -> 1414
+waitQ 10 run 1079 -> 1029
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 284 -> 234
+waitQ 6 run 1414 -> 1364
+waitQ 10 run 1029 -> 979
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 234 -> 184
+waitQ 6 run 1364 -> 1314
+waitQ 10 run 979 -> 929
+
+INFO pid:4229 time:2019-11-29 7:4:48
+waitQ 8 run 184 -> 134
+waitQ 6 run 1314 -> 1264
+waitQ 10 run 929 -> 879
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 8 run 134 -> 84
+waitQ 6 run 1264 -> 1214
+waitQ 10 run 879 -> 829
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 8 run 84 -> 34
+waitQ 6 run 1214 -> 1164
+waitQ 10 run 829 -> 779
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 8 run 34 -> -16
+waitQ 6 run 1164 -> 1114
+waitQ 10 run 779 -> 729
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 8 run 282 -> 232
+waitQ 6 run 1114 -> 1064
+waitQ 10 run 729 -> 679
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 1064 -> 1014
+waitQ 10 run 679 -> 629
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 1014 -> 964
+waitQ 10 run 629 -> 579
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 964 -> 914
+waitQ 10 run 579 -> 529
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 914 -> 864
+waitQ 10 run 529 -> 479
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 864 -> 814
+waitQ 10 run 479 -> 429
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 814 -> 764
+waitQ 10 run 429 -> 379
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 764 -> 714
+waitQ 10 run 379 -> 329
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 714 -> 664
+waitQ 10 run 329 -> 279
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 664 -> 614
+waitQ 10 run 279 -> 229
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 614 -> 564
+waitQ 10 run 229 -> 179
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 564 -> 514
+waitQ 10 run 179 -> 129
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 514 -> 464
+waitQ 10 run 129 -> 79
+
+INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4233 time:2019-11-29 7:4:16
+4 child process created
+
+INFO pid:4233 time:2019-11-29 7:4:16
+child process id : 4233 On
+
+INFO pid:4233 time:2019-11-29 7:4:19
+4 process work 504 => 454
+
+INFO pid:4233 time:2019-11-29 7:4:20
+4 process work 454 => 404
+
+INFO pid:4233 time:2019-11-29 7:4:20
+4 process work 404 => 354
+
+INFO pid:4233 time:2019-11-29 7:4:21
+4 process work 354 => 304
+
+INFO pid:4233 time:2019-11-29 7:4:21
+4 process work 304 => 254
+
+INFO pid:4233 time:2019-11-29 7:4:22
+4 process work 254 => 204
+
+INFO pid:4233 time:2019-11-29 7:4:22
+4 process work 204 => 154
+
+INFO pid:4233 time:2019-11-29 7:4:23
+4 process work 154 => 104
+
+INFO pid:4233 time:2019-11-29 7:4:23
+4 process work 104 => 54
+
+INFO pid:4233 time:2019-11-29 7:4:24
+4 process work 54 => 4
+
+INFO pid:4233 time:2019-11-29 7:4:24
+work change!
+
+INFO pid:4233 time:2019-11-29 7:4:25
+4 process work 564 => 514
+
+INFO pid:4233 time:2019-11-29 7:4:25
+4 process work 514 => 464
+
+INFO pid:4233 time:2019-11-29 7:4:26
+4 process work 464 => 414
+
+INFO pid:4233 time:2019-11-29 7:4:26
+4 process work 414 => 364
+
+INFO pid:4233 time:2019-11-29 7:4:27
+4 process work 364 => 314
+
+INFO pid:4233 time:2019-11-29 7:4:27
+4 process work 314 => 264
+
+INFO pid:4233 time:2019-11-29 7:4:28
+4 process work 264 => 214
+
+INFO pid:4233 time:2019-11-29 7:4:28
+4 process work 214 => 164
+
+INFO pid:4233 time:2019-11-29 7:4:29
+4 process work 164 => 114
+
+INFO pid:4233 time:2019-11-29 7:4:29
+4 process work 114 => 64
+
+INFO pid:4233 time:2019-11-29 7:4:30
+4 process work 64 => 14
+
+INFO pid:4233 time:2019-11-29 7:4:30
+work change!
+
+INFO pid:4233 time:2019-11-29 7:4:32
+4 process work 1845 => 1795
+
+INFO pid:4233 time:2019-11-29 7:4:33
+4 process work 1795 => 1745
+
+INFO pid:4233 time:2019-11-29 7:4:33
+4 process work 1745 => 1695
+
+INFO pid:4233 time:2019-11-29 7:4:34
+4 process work 1695 => 1645
+
+INFO pid:4233 time:2019-11-29 7:4:34
+4 process work 1645 => 1595
+
+INFO pid:4233 time:2019-11-29 7:4:35
+4 process work 1595 => 1545
+
+INFO pid:4233 time:2019-11-29 7:4:35
+4 process work 1545 => 1495
+
+INFO pid:4233 time:2019-11-29 7:4:36
+4 process work 1495 => 1445
+
+INFO pid:4233 time:2019-11-29 7:4:36
+4 process work 1445 => 1395
+
+INFO pid:4233 time:2019-11-29 7:4:37
+4 process work 1395 => 1345
+
+INFO pid:4233 time:2019-11-29 7:4:37
+4 process work 1345 => 1295
+
+INFO pid:4233 time:2019-11-29 7:4:38
+4 process work 1295 => 1245
+
+INFO pid:4233 time:2019-11-29 7:4:38
+4 process work 1245 => 1195
+
+INFO pid:4233 time:2019-11-29 7:4:39
+4 process work 1195 => 1145
+
+INFO pid:4233 time:2019-11-29 7:4:39
+4 process work 1145 => 1095
+
+INFO pid:4233 time:2019-11-29 7:4:40
+4 process work 1095 => 1045
+
+INFO pid:4233 time:2019-11-29 7:4:40
+4 process work 1045 => 995
+
+INFO pid:4233 time:2019-11-29 7:4:41
+4 process work 995 => 945
+
+INFO pid:4233 time:2019-11-29 7:4:41
+4 process work 945 => 895
+
+INFO pid:4233 time:2019-11-29 7:4:41
+4 process work 895 => 845
+
+INFO pid:4233 time:2019-11-29 7:4:42
+4 process work 845 => 795
+
+INFO pid:4233 time:2019-11-29 7:4:42
+4 process work 795 => 745
+
+INFO pid:4233 time:2019-11-29 7:4:42
+4 process work 745 => 695
+
+INFO pid:4233 time:2019-11-29 7:4:43
+4 process work 695 => 645
+
+INFO pid:4233 time:2019-11-29 7:4:43
+4 process work 645 => 595
+
+INFO pid:4233 time:2019-11-29 7:4:44
+4 process work 595 => 545
+
+INFO pid:4233 time:2019-11-29 7:4:44
+4 process work 545 => 495
+
+INFO pid:4233 time:2019-11-29 7:4:45
+4 process work 495 => 445
+
+INFO pid:4233 time:2019-11-29 7:4:45
+4 process work 445 => 395
+
+INFO pid:4233 time:2019-11-29 7:4:46
+4 process work 395 => 345
+
+INFO pid:4233 time:2019-11-29 7:4:46
+4 process work 345 => 295
+
+INFO pid:4233 time:2019-11-29 7:4:47
+4 process work 295 => 245
+
+INFO pid:4233 time:2019-11-29 7:4:47
+4 process work 245 => 195
+
+INFO pid:4233 time:2019-11-29 7:4:47
+4 process work 195 => 145
+
+INFO pid:4233 time:2019-11-29 7:4:48
+4 process work 145 => 95
+
+INFO pid:4233 time:2019-11-29 7:4:48
+4 process work 95 => 45
+
+INFO pid:4233 time:2019-11-29 7:4:49
+work change!
+
+INFO pid:4233 time:2019-11-29 7:4:49
+4 process work 282 => 232
+
+INFO pid:4233 time:INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4234 time:2019-11-29 7:4:16
+5 child process created
+
+INFO pid:4234 time:2019-11-29 7:4:16
+child process id : 4234 On
+
+INFO pid:4234 time:2019-11-29 7:4:19
+5 process work 504 => 454
+
+INFO pid:4234 time:2019-11-29 7:4:20
+5 process work 454 => 404
+
+INFO pid:4234 time:2019-11-29 7:4:20
+5 process work 404 => 354
+
+INFO pid:4234 time:2019-11-29 7:4:21
+5 process work 354 => 304
+
+INFO pid:4234 time:2019-11-29 7:4:21
+5 process work 304 => 254
+
+INFO pid:4234 time:2019-11-29 7:4:22
+5 process work 254 => 204
+
+INFO pid:4234 time:2019-11-29 7:4:22
+5 process work 204 => 154
+
+INFO pid:4234 time:2019-11-29 7:4:23
+5 process work 154 => 104
+
+INFO pid:4234 time:2019-11-29 7:4:23
+5 process work 104 => 54
+
+INFO pid:4234 time:2019-11-29 7:4:24
+5 process work 54 => 4
+
+INFO pid:4234 time:2019-11-29 7:4:24
+work change!
+
+INFO pid:4234 time:2019-11-29 7:4:25
+5 process work 564 => 514
+
+INFO pid:4234 time:2019-11-29 7:4:26
+5 process work 514 => 464
+
+INFO pid:4234 time:2019-11-29 7:4:26
+5 process work 464 => 414
+
+INFO pid:4234 time:2019-11-29 7:4:27
+5 process work 414 => 364
+
+INFO pid:4234 time:2019-11-29 7:4:27
+5 process work 364 => 314
+
+INFO pid:4234 time:2019-11-29 7:4:28
+5 process work 314 => 264
+
+INFO pid:4234 time:2019-11-29 7:4:28
+5 process work 264 => 214
+
+INFO pid:4234 time:2019-11-29 7:4:29
+5 process work 214 => 164
+
+INFO pid:4234 time:2019-11-29 7:4:29
+5 process work 164 => 114
+
+INFO pid:4234 time:2019-11-29 7:4:30
+5 process work 114 => 64
+
+INFO pid:4234 time:2019-11-29 7:4:30
+5 process work 64 => 14
+
+INFO pid:4234 time:2019-11-29 7:4:31
+work change!
+
+INFO pid:4234 time:2019-11-29 7:4:33
+5 process work 1469 => 1419
+
+INFO pid:4234 time:2019-11-29 7:4:33
+5 process work 1419 => 1369
+
+INFO pid:4234 time:2019-11-29 7:4:34
+5 process work 1369 => 1319
+
+INFO pid:4234 time:2019-11-29 7:4:34
+5 process work 1319 => 1269
+
+INFO pid:4234 time:2019-11-29 7:4:35
+5 process work 1269 => 1219
+
+INFO pid:4234 time:2019-11-29 7:4:35
+5 process work 1219 => 1169
+
+INFO pid:4234 time:2019-11-29 7:4:36
+5 process work 1169 => 1119
+
+INFO pid:4234 time:2019-11-29 7:4:36
+5 process work 1119 => 1069
+
+INFO pid:4234 time:2019-11-29 7:4:37
+5 process work 1069 => 1019
+
+INFO pid:4234 time:2019-11-29 7:4:37
+5 process work 1019 => 969
+
+INFO pid:4234 time:2019-11-29 7:4:38
+5 process work 969 => 919
+
+INFO pid:4234 time:2019-11-29 7:4:38
+5 process work 919 => 869
+
+INFO pid:4234 time:2019-11-29 7:4:39
+5 process work 869 => 819
+
+INFO pid:4234 time:2019-11-29 7:4:39
+5 process work 819 => 769
+
+INFO pid:4234 time:2019-11-29 7:4:40
+5 process work 769 => 719
+
+INFO pid:4234 time:2019-11-29 7:4:40
+5 process work 719 => 669
+
+INFO pid:4234 time:2019-11-29 7:4:41
+5 process work 669 => 619
+
+INFO pid:4234 time:2019-11-29 7:4:41
+5 process work 619 => 569
+
+INFO pid:4234 time:2019-11-29 7:4:41
+5 process work 569 => 519
+
+INFO pid:4234 time:2019-11-29 7:4:42
+5 process work 519 => 469
+
+INFO pid:4234 time:2019-11-29 7:4:42
+5 process work 469 => 419
+
+INFO pid:4234 time:2019-11-29 7:4:42
+5 process work 419 => 369
+
+INFO pid:4234 time:2019-11-29 7:4:42
+5 process work 369 => 319
+
+INFO pid:4234 time:2019-11-29 7:4:43
+5 process work 319 => 269
+
+INFO pid:4234 time:2019-11-29 7:4:43
+5 process work 269 => 219
+
+INFO pid:4234 time:2019-11-29 7:4:44
+5 process work 219 => 169
+
+INFO pid:4234 time:2019-11-29 7:4:44
+5 process work 169 => 119
+
+INFO pid:4234 time:2019-11-29 7:4:45
+5 process work 119 => 69
+
+INFO pid:4234 time:2019-11-29 7:4:45
+5 process work 69 => 19
+
+INFO pid:4234 time:2019-11-29 7:4:46
+work change!
+
+INFO pid:4234 time:2019-11-29 7:4:46
+5 process work 529 => 479
+
+INFO pid:4234 time:2019-11-29 7:4:47
+5 process work 479 => 429
+
+INFO pid:4234 time:2019-11-29 7:4:47
+5 process work 429 => 379
+
+INFO pid:4234 time:2019-11-29 7:4:48
+5 process work 379 => 329
+
+INFO pid:4234 time:2019-11-29 7:4:48
+5 process work 329 => 279
+
+INFO pid:4234 time:2019-11-29 7:4:48
+5 process work 279 => 229
+
+INFO pid:4234 time:2019-11-29 7:4:49
+5 process work 229 => 179
+
+INFO pid:4234 time:2019-11-29 7:4:49
+5 process work 179 => 129
+
+INFO pid:4234 time:2019-11-29 7:4INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4236 time:2019-11-29 7:4:16
+7 child process created
+
+INFO pid:4236 time:2019-11-29 7:4:16
+child process id : 4236 On
+
+INFO pid:4236 time:2019-11-29 7:4:20
+7 process work 504 => 454
+
+INFO pid:4236 time:2019-11-29 7:4:20
+7 process work 454 => 404
+
+INFO pid:4236 time:2019-11-29 7:4:21
+7 process work 404 => 354
+
+INFO pid:4236 time:2019-11-29 7:4:21
+7 process work 354 => 304
+
+INFO pid:4236 time:2019-11-29 7:4:22
+7 process work 304 => 254
+
+INFO pid:4236 time:2019-11-29 7:4:22
+7 process work 254 => 204
+
+INFO pid:4236 time:2019-11-29 7:4:23
+7 process work 204 => 154
+
+INFO pid:4236 time:2019-11-29 7:4:23
+7 process work 154 => 104
+
+INFO pid:4236 time:2019-11-29 7:4:24
+7 process work 104 => 54
+
+INFO pid:4236 time:2019-11-29 7:4:24
+7 process work 54 => 4
+
+INFO pid:4236 time:2019-11-29 7:4:25
+work change!
+
+INFO pid:4236 time:2019-11-29 7:4:25
+7 process work 1578 => 1528
+
+INFO pid:4236 time:2019-11-29 7:4:26
+7 process work 1528 => 1478
+
+INFO pid:4236 time:2019-11-29 7:4:26
+7 process work 1478 => 1428
+
+INFO pid:4236 time:2019-11-29 7:4:27
+7 process work 1428 => 1378
+
+INFO pid:4236 time:2019-11-29 7:4:27
+7 process work 1378 => 1328
+
+INFO pid:4236 time:2019-11-29 7:4:28
+7 process work 1328 => 1278
+
+INFO pid:4236 time:2019-11-29 7:4:28
+7 process work 1278 => 1228
+
+INFO pid:4236 time:2019-11-29 7:4:29
+7 process work 1228 => 1178
+
+INFO pid:4236 time:2019-11-29 7:4:29
+7 process work 1178 => 1128
+
+INFO pid:4236 time:2019-11-29 7:4:30
+7 process work 1128 => 1078
+
+INFO pid:4236 time:2019-11-29 7:4:30
+7 process work 1078 => 1028
+
+INFO pid:4236 time:2019-11-29 7:4:31
+7 process work 1028 => 978
+
+INFO pid:4236 time:2019-11-29 7:4:31
+7 process work 978 => 928
+
+INFO pid:4236 time:2019-11-29 7:4:32
+7 process work 928 => 878
+
+INFO pid:4236 time:2019-11-29 7:4:32
+7 process work 878 => 828
+
+INFO pid:4236 time:2019-11-29 7:4:32
+7 process work 828 => 778
+
+INFO pid:4236 time:2019-11-29 7:4:33
+7 process work 778 => 728
+
+INFO pid:4236 time:2019-11-29 7:4:33
+7 process work 728 => 678
+
+INFO pid:4236 time:2019-11-29 7:4:34
+7 process work 678 => 628
+
+INFO pid:4236 time:2019-11-29 7:4:34
+7 process work 628 => 578
+
+INFO pid:4236 time:2019-11-29 7:4:35
+7 process work 578 => 528
+
+INFO pid:4236 time:2019-11-29 7:4:35
+7 process work 528 => 478
+
+INFO pid:4236 time:2019-11-29 7:4:36
+7 process work 478 => 428
+
+INFO pid:4236 time:2019-11-29 7:4:36
+7 process work 428 => 378
+
+INFO pid:4236 time:2019-11-29 7:4:37
+7 process work 378 => 328
+
+INFO pid:4236 time:2019-11-29 7:4:37
+7 process work 328 => 278
+
+INFO pid:4236 time:2019-11-29 7:4:38
+7 process work 278 => 228
+
+INFO pid:4236 time:2019-11-29 7:4:38
+7 process work 228 => 178
+
+INFO pid:4236 time:2019-11-29 7:4:39
+7 process work 178 => 128
+
+INFO pid:4236 time:2019-11-29 7:4:39
+7 process work 128 => 78
+
+INFO pid:4236 time:2019-11-29 7:4:40
+7 process work 78 => 28
+
+INFO pid:4236 time:2019-11-29 7:4:40
+work change!
+
+INFO pid:4236 time:2019-11-29 7:4:42
+7 process work 129 => 79
+
+INFO pid:4236 time:2019-11-29 7:4:43
+7 process work 79 => 29
+
+INFO pid:4236 time:2019-11-29 7:4:43
+work change!
+
+INFO pid:4236 time:2019-11-29 7:4:44
+7 process work 1914 => 1864
+
+INFO pid:4236 time:2019-11-29 7:4:44
+7 process work 1864 => 1814
+
+INFO pid:4236 time:2019-11-29 7:4:45
+7 process work 1814 => 1764
+
+INFO pid:4236 time:2019-11-29 7:4:45
+7 process work 1764 => 1714
+
+INFO pid:4236 time:2019-11-29 7:4:46
+7 process work 1714 => 1664
+
+INFO pid:4236 time:2019-11-29 7:4:46
+7 process work 1664 => 1614
+
+INFO pid:4236 time:2019-11-29 7:4:47
+7 process work 1614 => 1564
+
+INFO pid:4236 time:2019-11-29 7:4:47
+7 process work 1564 => 1514
+
+INFO pid:4236 time:2019-11-29 7:4:48
+7 process work 1514 => 1464
+
+INFO pid:4236 time:2019-11-29 7:4:48
+7 process work 1464 => 1414
+
+INFO pid:4236 time:2019-11-29 7:4:48
+7 process work 1414 => 1364
+
+INFO pid:4236 time:2019-11-29 7:4:49
+7 process work 1364 => 1314
+
+INFO pid:4236 time:2019-11-29 7:4:49
+7 process work 1314 => 1264
+
+INFO pid:4236 time:2019-11-29 7:4:50
+7 process work 1264 => 1214
+
+INFO pid:4236 time:2019-11-29 7:4:50
+7 process work 1214 => 1164
+INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4238 time:2019-11-29 7:4:16
+9 child process created
+
+INFO pid:4238 time:2019-11-29 7:4:16
+child process id : 4238 On
+
+INFO pid:4238 time:2019-11-29 7:4:20
+9 process work 504 => 454
+
+INFO pid:4238 time:2019-11-29 7:4:20
+9 process work 454 => 404
+
+INFO pid:4238 time:2019-11-29 7:4:21
+9 process work 404 => 354
+
+INFO pid:4238 time:2019-11-29 7:4:21
+9 process work 354 => 304
+
+INFO pid:4238 time:2019-11-29 7:4:22
+9 process work 304 => 254
+
+INFO pid:4238 time:2019-11-29 7:4:22
+9 process work 254 => 204
+
+INFO pid:4238 time:2019-11-29 7:4:23
+9 process work 204 => 154
+
+INFO pid:4238 time:2019-11-29 7:4:23
+9 process work 154 => 104
+
+INFO pid:4238 time:2019-11-29 7:4:24
+9 process work 104 => 54
+
+INFO pid:4238 time:2019-11-29 7:4:24
+9 process work 54 => 4
+
+INFO pid:4238 time:2019-11-29 7:4:25
+work change!
+
+INFO pid:4238 time:2019-11-29 7:4:26
+9 process work 1578 => 1528
+
+INFO pid:4238 time:2019-11-29 7:4:26
+9 process work 1528 => 1478
+
+INFO pid:4238 time:2019-11-29 7:4:27
+9 process work 1478 => 1428
+
+INFO pid:4238 time:2019-11-29 7:4:27
+9 process work 1428 => 1378
+
+INFO pid:4238 time:2019-11-29 7:4:28
+9 process work 1378 => 1328
+
+INFO pid:4238 time:2019-11-29 7:4:28
+9 process work 1328 => 1278
+
+INFO pid:4238 time:2019-11-29 7:4:29
+9 process work 1278 => 1228
+
+INFO pid:4238 time:2019-11-29 7:4:29
+9 process work 1228 => 1178
+
+INFO pid:4238 time:2019-11-29 7:4:30
+9 process work 1178 => 1128
+
+INFO pid:4238 time:2019-11-29 7:4:30
+9 process work 1128 => 1078
+
+INFO pid:4238 time:2019-11-29 7:4:30
+9 process work 1078 => 1028
+
+INFO pid:4238 time:2019-11-29 7:4:31
+9 process work 1028 => 978
+
+INFO pid:4238 time:2019-11-29 7:4:31
+9 process work 978 => 928
+
+INFO pid:4238 time:2019-11-29 7:4:32
+9 process work 928 => 878
+
+INFO pid:4238 time:2019-11-29 7:4:32
+9 process work 878 => 828
+
+INFO pid:4238 time:2019-11-29 7:4:33
+9 process work 828 => 778
+
+INFO pid:4238 time:2019-11-29 7:4:33
+9 process work 778 => 728
+
+INFO pid:4238 time:2019-11-29 7:4:34
+9 process work 728 => 678
+
+INFO pid:4238 time:2019-11-29 7:4:34
+9 process work 678 => 628
+
+INFO pid:4238 time:2019-11-29 7:4:35
+9 process work 628 => 578
+
+INFO pid:4238 time:2019-11-29 7:4:35
+9 process work 578 => 528
+
+INFO pid:4238 time:2019-11-29 7:4:36
+9 process work 528 => 478
+
+INFO pid:4238 time:2019-11-29 7:4:36
+9 process work 478 => 428
+
+INFO pid:4238 time:2019-11-29 7:4:37
+9 process work 428 => 378
+
+INFO pid:4238 time:2019-11-29 7:4:37
+9 process work 378 => 328
+
+INFO pid:4238 time:2019-11-29 7:4:38
+9 process work 328 => 278
+
+INFO pid:4238 time:2019-11-29 7:4:38
+9 process work 278 => 228
+
+INFO pid:4238 time:2019-11-29 7:4:39
+9 process work 228 => 178
+
+INFO pid:4238 time:2019-11-29 7:4:39
+9 process work 178 => 128
+
+INFO pid:4238 time:2019-11-29 7:4:40
+9 process work 128 => 78
+
+INFO pid:4238 time:2019-11-29 7:4:40
+9 process work 78 => 28
+
+INFO pid:4238 time:2019-11-29 7:4:41
+work change!
+
+INFO pid:4238 time:2019-11-29 7:4:43
+9 process work 500 => 450
+
+INFO pid:4238 time:2019-11-29 7:4:43
+9 process work 450 => 400
+
+INFO pid:4238 time:2019-11-29 7:4:44
+9 process work 400 => 350
+
+INFO pid:4238 time:2019-11-29 7:4:44
+9 process work 350 => 300
+
+INFO pid:4238 time:2019-11-29 7:4:45
+9 process work 300 => 250
+
+INFO pid:4238 time:2019-11-29 7:4:45
+9 process work 250 => 200
+
+INFO pid:4238 time:2019-11-29 7:4:46
+9 process work 200 => 150
+
+INFO pid:4238 time:2019-11-29 7:4:46
+9 process work 150 => 100
+
+INFO pid:4238 time:2019-11-29 7:4:47
+9 process work 100 => 50
+
+INFO pid:4238 time:2019-11-29 7:4:47
+work change!
+
+INFO pid:4238 time:2019-11-29 7:4:48
+work change!
+
+INFO pid:4238 time:2019-11-29 7:4:48
+9 process work 1429 => 1379
+
+INFO pid:4238 time:2019-11-29 7:4:49
+9 process work 1379 => 1329
+
+INFO pid:4238 time:2019-11-29 7:4:49
+9 process work 1329 => 1279
+
+INFO pid:4238 time:2019-11-29 7:4:49
+9 process work 1279 => 1229
+
+INFO pid:4238 time:2019-11-29 7:4:50
+9 process work 1229 => 1179
+
+INFO pid:4238 time:2019-11-29 7:4:50
+9 process work 1179 => 1129
+
+INFO pid:4238 time:2019-11-29 7:4:51
+9 process work 1129 => 1079
+
+INFO pid:4238 time:2019-11INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4237 time:2019-11-29 7:4:16
+8 child process created
+
+INFO pid:4237 time:2019-11-29 7:4:16
+child process id : 4237 On
+
+INFO pid:4237 time:2019-11-29 7:4:20
+8 process work 504 => 454
+
+INFO pid:4237 time:2019-11-29 7:4:20
+8 process work 454 => 404
+
+INFO pid:4237 time:2019-11-29 7:4:21
+8 process work 404 => 354
+
+INFO pid:4237 time:2019-11-29 7:4:21
+8 process work 354 => 304
+
+INFO pid:4237 time:2019-11-29 7:4:22
+8 process work 304 => 254
+
+INFO pid:4237 time:2019-11-29 7:4:22
+8 process work 254 => 204
+
+INFO pid:4237 time:2019-11-29 7:4:23
+8 process work 204 => 154
+
+INFO pid:4237 time:2019-11-29 7:4:23
+8 process work 154 => 104
+
+INFO pid:4237 time:2019-11-29 7:4:24
+8 process work 104 => 54
+
+INFO pid:4237 time:2019-11-29 7:4:24
+8 process work 54 => 4
+
+INFO pid:4237 time:2019-11-29 7:4:25
+work change!
+
+INFO pid:4237 time:2019-11-29 7:4:26
+8 process work 1578 => 1528
+
+INFO pid:4237 time:2019-11-29 7:4:26
+8 process work 1528 => 1478
+
+INFO pid:4237 time:2019-11-29 7:4:27
+8 process work 1478 => 1428
+
+INFO pid:4237 time:2019-11-29 7:4:27
+8 process work 1428 => 1378
+
+INFO pid:4237 time:2019-11-29 7:4:28
+8 process work 1378 => 1328
+
+INFO pid:4237 time:2019-11-29 7:4:28
+8 process work 1328 => 1278
+
+INFO pid:4237 time:2019-11-29 7:4:29
+8 process work 1278 => 1228
+
+INFO pid:4237 time:2019-11-29 7:4:29
+8 process work 1228 => 1178
+
+INFO pid:4237 time:2019-11-29 7:4:30
+8 process work 1178 => 1128
+
+INFO pid:4237 time:2019-11-29 7:4:30
+8 process work 1128 => 1078
+
+INFO pid:4237 time:2019-11-29 7:4:30
+8 process work 1078 => 1028
+
+INFO pid:4237 time:2019-11-29 7:4:31
+8 process work 1028 => 978
+
+INFO pid:4237 time:2019-11-29 7:4:31
+8 process work 978 => 928
+
+INFO pid:4237 time:2019-11-29 7:4:32
+8 process work 928 => 878
+
+INFO pid:4237 time:2019-11-29 7:4:32
+8 process work 878 => 828
+
+INFO pid:4237 time:2019-11-29 7:4:33
+8 process work 828 => 778
+
+INFO pid:4237 time:2019-11-29 7:4:33
+8 process work 778 => 728
+
+INFO pid:4237 time:2019-11-29 7:4:34
+8 process work 728 => 678
+
+INFO pid:4237 time:2019-11-29 7:4:34
+8 process work 678 => 628
+
+INFO pid:4237 time:2019-11-29 7:4:35
+8 process work 628 => 578
+
+INFO pid:4237 time:2019-11-29 7:4:35
+8 process work 578 => 528
+
+INFO pid:4237 time:2019-11-29 7:4:36
+8 process work 528 => 478
+
+INFO pid:4237 time:2019-11-29 7:4:36
+8 process work 478 => 428
+
+INFO pid:4237 time:2019-11-29 7:4:37
+8 process work 428 => 378
+
+INFO pid:4237 time:2019-11-29 7:4:37
+8 process work 378 => 328
+
+INFO pid:4237 time:2019-11-29 7:4:38
+8 process work 328 => 278
+
+INFO pid:4237 time:2019-11-29 7:4:38
+8 process work 278 => 228
+
+INFO pid:4237 time:2019-11-29 7:4:39
+8 process work 228 => 178
+
+INFO pid:4237 time:2019-11-29 7:4:39
+8 process work 178 => 128
+
+INFO pid:4237 time:2019-11-29 7:4:40
+8 process work 128 => 78
+
+INFO pid:4237 time:2019-11-29 7:4:40
+8 process work 78 => 28
+
+INFO pid:4237 time:2019-11-29 7:4:41
+work change!
+
+INFO pid:4237 time:2019-11-29 7:4:42
+8 process work 500 => 450
+
+INFO pid:4237 time:2019-11-29 7:4:43
+8 process work 450 => 400
+
+INFO pid:4237 time:2019-11-29 7:4:43
+8 process work 400 => 350
+
+INFO pid:4237 time:2019-11-29 7:4:44
+8 process work 350 => 300
+
+INFO pid:4237 time:2019-11-29 7:4:44
+8 process work 300 => 250
+
+INFO pid:4237 time:2019-11-29 7:4:45
+8 process work 250 => 200
+
+INFO pid:4237 time:2019-11-29 7:4:45
+8 process work 200 => 150
+
+INFO pid:4237 time:2019-11-29 7:4:46
+8 process work 150 => 100
+
+INFO pid:4237 time:2019-11-29 7:4:46
+8 process work 100 => 50
+
+INFO pid:4237 time:2019-11-29 7:4:47
+work change!
+
+INFO pid:4237 time:2019-11-29 7:4:48
+work change!
+
+INFO pid:4237 time:2019-11-29 7:4:49
+8 process work 1429 => 1379
+
+INFO pid:4237 time:2019-11-29 7:4:49
+8 process work 1379 => 1329
+
+INFO pid:4237 time:2019-11-29 7:4:50
+8 process work 1329 => 1279
+
+INFO pid:4237 time:2019-11-29 7:4:50
+8 process work 1279 => 1229
+
+INFO pid:4237 time:2019-11-29 7:4:51
+8 process work 1229 => 1179
+
+INFO pid:4237 time:2019-11-29 7:4:51
+8 process work 1179 => 1129
+
+INFO pid:4237 time:2019-11-29 7:4:52
+8 process work 1129 => 1079
+
+INFO pid:4237 time:2019-11INFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4235 time:2019-11-29 7:4:16
+6 child process created
+
+INFO pid:4235 time:2019-11-29 7:4:16
+child process id : 4235 On
+
+INFO pid:4235 time:2019-11-29 7:4:20
+6 process work 504 => 454
+
+INFO pid:4235 time:2019-11-29 7:4:20
+6 process work 454 => 404
+
+INFO pid:4235 time:2019-11-29 7:4:21
+6 process work 404 => 354
+
+INFO pid:4235 time:2019-11-29 7:4:21
+6 process work 354 => 304
+
+INFO pid:4235 time:2019-11-29 7:4:22
+6 process work 304 => 254
+
+INFO pid:4235 time:2019-11-29 7:4:22
+6 process work 254 => 204
+
+INFO pid:4235 time:2019-11-29 7:4:23
+6 process work 204 => 154
+
+INFO pid:4235 time:2019-11-29 7:4:23
+6 process work 154 => 104
+
+INFO pid:4235 time:2019-11-29 7:4:24
+6 process work 104 => 54
+
+INFO pid:4235 time:2019-11-29 7:4:24
+6 process work 54 => 4
+
+INFO pid:4235 time:2019-11-29 7:4:25
+work change!
+
+INFO pid:4235 time:2019-11-29 7:4:25
+6 process work 1578 => 1528
+
+INFO pid:4235 time:2019-11-29 7:4:26
+6 process work 1528 => 1478
+
+INFO pid:4235 time:2019-11-29 7:4:26
+6 process work 1478 => 1428
+
+INFO pid:4235 time:2019-11-29 7:4:27
+6 process work 1428 => 1378
+
+INFO pid:4235 time:2019-11-29 7:4:27
+6 process work 1378 => 1328
+
+INFO pid:4235 time:2019-11-29 7:4:28
+6 process work 1328 => 1278
+
+INFO pid:4235 time:2019-11-29 7:4:28
+6 process work 1278 => 1228
+
+INFO pid:4235 time:2019-11-29 7:4:29
+6 process work 1228 => 1178
+
+INFO pid:4235 time:2019-11-29 7:4:29
+6 process work 1178 => 1128
+
+INFO pid:4235 time:2019-11-29 7:4:30
+6 process work 1128 => 1078
+
+INFO pid:4235 time:2019-11-29 7:4:30
+6 process work 1078 => 1028
+
+INFO pid:4235 time:2019-11-29 7:4:31
+6 process work 1028 => 978
+
+INFO pid:4235 time:2019-11-29 7:4:31
+6 process work 978 => 928
+
+INFO pid:4235 time:2019-11-29 7:4:32
+6 process work 928 => 878
+
+INFO pid:4235 time:2019-11-29 7:4:32
+6 process work 878 => 828
+
+INFO pid:4235 time:2019-11-29 7:4:32
+6 process work 828 => 778
+
+INFO pid:4235 time:2019-11-29 7:4:33
+6 process work 778 => 728
+
+INFO pid:4235 time:2019-11-29 7:4:33
+6 process work 728 => 678
+
+INFO pid:4235 time:2019-11-29 7:4:34
+6 process work 678 => 628
+
+INFO pid:4235 time:2019-11-29 7:4:34
+6 process work 628 => 578
+
+INFO pid:4235 time:2019-11-29 7:4:35
+6 process work 578 => 528
+
+INFO pid:4235 time:2019-11-29 7:4:35
+6 process work 528 => 478
+
+INFO pid:4235 time:2019-11-29 7:4:36
+6 process work 478 => 428
+
+INFO pid:4235 time:2019-11-29 7:4:36
+6 process work 428 => 378
+
+INFO pid:4235 time:2019-11-29 7:4:37
+6 process work 378 => 328
+
+INFO pid:4235 time:2019-11-29 7:4:37
+6 process work 328 => 278
+
+INFO pid:4235 time:2019-11-29 7:4:38
+6 process work 278 => 228
+
+INFO pid:4235 time:2019-11-29 7:4:38
+6 process work 228 => 178
+
+INFO pid:4235 time:2019-11-29 7:4:39
+6 process work 178 => 128
+
+INFO pid:4235 time:2019-11-29 7:4:39
+6 process work 128 => 78
+
+INFO pid:4235 time:2019-11-29 7:4:40
+6 process work 78 => 28
+
+INFO pid:4235 time:2019-11-29 7:4:40
+work change!
+
+INFO pid:4235 time:2019-11-29 7:4:41
+6 process work 129 => 79
+
+INFO pid:4235 time:2019-11-29 7:4:41
+6 process work 79 => 29
+
+INFO pid:4235 time:2019-11-29 7:4:41
+work change!
+
+INFO pid:4235 time:2019-11-29 7:4:43
+6 process work 500 => 450
+
+INFO pid:4235 time:2019-11-29 7:4:44
+6 process work 450 => 400
+
+INFO pid:4235 time:2019-11-29 7:4:44
+6 process work 400 => 350
+
+INFO pid:4235 time:2019-11-29 7:4:45
+6 process work 350 => 300
+
+INFO pid:4235 time:2019-11-29 7:4:45
+6 process work 300 => 250
+
+INFO pid:4235 time:2019-11-29 7:4:46
+6 process work 250 => 200
+
+INFO pid:4235 time:2019-11-29 7:4:46
+6 process work 200 => 150
+
+INFO pid:4235 time:2019-11-29 7:4:47
+6 process work 150 => 100
+
+INFO pid:4235 time:2019-11-29 7:4:47
+6 process work 100 => 50
+
+INFO pid:4235 time:2019-11-29 7:4:48
+work change!
+
+INFO pid:4235 time:2019-11-29 7:4:50
+work change!
+
+INFO pid:4235 time:2019-11-29 7:4:51
+6 process work 1728 => 1678
+
+INFO pid:4235 time:2019-11-29 7:4:51
+6 process work 1678 => 1628
+
+INFO pid:4235 time:2019-11-29 7:4:52
+6 process work 1628 => 1578
+
+INFO pid:4235 time:2019-11-29 7:4:52
+6 process work 1578 => 1528
+
+INFO pid:4235 time:2019-11-29 7:4:53
+6 process wINFO pid:4229 time:2019-11-29 7:4:16
+messageQ 294921 created
+
+INFO pid:4239 time:2019-11-29 7:4:16
+10 child process created
+
+INFO pid:4239 time:2019-11-29 7:4:16
+child process id : 4239 On
+
+INFO pid:4239 time:2019-11-29 7:4:20
+10 process work 504 => 454
+
+INFO pid:4239 time:2019-11-29 7:4:20
+10 process work 454 => 404
+
+INFO pid:4239 time:2019-11-29 7:4:21
+10 process work 404 => 354
+
+INFO pid:4239 time:2019-11-29 7:4:21
+10 process work 354 => 304
+
+INFO pid:4239 time:2019-11-29 7:4:22
+10 process work 304 => 254
+
+INFO pid:4239 time:2019-11-29 7:4:22
+10 process work 254 => 204
+
+INFO pid:4239 time:2019-11-29 7:4:23
+10 process work 204 => 154
+
+INFO pid:4239 time:2019-11-29 7:4:23
+10 process work 154 => 104
+
+INFO pid:4239 time:2019-11-29 7:4:24
+10 process work 104 => 54
+
+INFO pid:4239 time:2019-11-29 7:4:24
+10 process work 54 => 4
+
+INFO pid:4239 time:2019-11-29 7:4:25
+work change!
+
+INFO pid:4239 time:2019-11-29 7:4:26
+10 process work 1578 => 1528
+
+INFO pid:4239 time:2019-11-29 7:4:26
+10 process work 1528 => 1478
+
+INFO pid:4239 time:2019-11-29 7:4:27
+10 process work 1478 => 1428
+
+INFO pid:4239 time:2019-11-29 7:4:27
+10 process work 1428 => 1378
+
+INFO pid:4239 time:2019-11-29 7:4:28
+10 process work 1378 => 1328
+
+INFO pid:4239 time:2019-11-29 7:4:28
+10 process work 1328 => 1278
+
+INFO pid:4239 time:2019-11-29 7:4:29
+10 process work 1278 => 1228
+
+INFO pid:4239 time:2019-11-29 7:4:29
+10 process work 1228 => 1178
+
+INFO pid:4239 time:2019-11-29 7:4:30
+10 process work 1178 => 1128
+
+INFO pid:4239 time:2019-11-29 7:4:30
+10 process work 1128 => 1078
+
+INFO pid:4239 time:2019-11-29 7:4:31
+10 process work 1078 => 1028
+
+INFO pid:4239 time:2019-11-29 7:4:31
+10 process work 1028 => 978
+
+INFO pid:4239 time:2019-11-29 7:4:31
+10 process work 978 => 928
+
+INFO pid:4239 time:2019-11-29 7:4:32
+10 process work 928 => 878
+
+INFO pid:4239 time:2019-11-29 7:4:32
+10 process work 878 => 828
+
+INFO pid:4239 time:2019-11-29 7:4:33
+10 process work 828 => 778
+
+INFO pid:4239 time:2019-11-29 7:4:33
+10 process work 778 => 728
+
+INFO pid:4239 time:2019-11-29 7:4:34
+10 process work 728 => 678
+
+INFO pid:4239 time:2019-11-29 7:4:34
+10 process work 678 => 628
+
+INFO pid:4239 time:2019-11-29 7:4:35
+10 process work 628 => 578
+
+INFO pid:4239 time:2019-11-29 7:4:35
+10 process work 578 => 528
+
+INFO pid:4239 time:2019-11-29 7:4:36
+10 process work 528 => 478
+
+INFO pid:4239 time:2019-11-29 7:4:36
+10 process work 478 => 428
+
+INFO pid:4239 time:2019-11-29 7:4:37
+10 process work 428 => 378
+
+INFO pid:4239 time:2019-11-29 7:4:37
+10 process work 378 => 328
+
+INFO pid:4239 time:2019-11-29 7:4:38
+10 process work 328 => 278
+
+INFO pid:4239 time:2019-11-29 7:4:38
+10 process work 278 => 228
+
+INFO pid:4239 time:2019-11-29 7:4:39
+10 process work 228 => 178
+
+INFO pid:4239 time:2019-11-29 7:4:39
+10 process work 178 => 128
+
+INFO pid:4239 time:2019-11-29 7:4:40
+10 process work 128 => 78
+
+INFO pid:4239 time:2019-11-29 7:4:40
+10 process work 78 => 28
+
+INFO pid:4239 time:2019-11-29 7:4:41
+work change!
+
+INFO pid:4239 time:2019-11-29 7:4:43
+10 process work 500 => 450
+
+INFO pid:4239 time:2019-11-29 7:4:43
+10 process work 450 => 400
+
+INFO pid:4239 time:2019-11-29 7:4:44
+10 process work 400 => 350
+
+INFO pid:4239 time:2019-11-29 7:4:44
+10 process work 350 => 300
+
+INFO pid:4239 time:2019-11-29 7:4:45
+10 process work 300 => 250
+
+INFO pid:4239 time:2019-11-29 7:4:45
+10 process work 250 => 200
+
+INFO pid:4239 time:2019-11-29 7:4:46
+10 process work 200 => 150
+
+INFO pid:4239 time:2019-11-29 7:4:46
+10 process work 150 => 100
+
+INFO pid:4239 time:2019-11-29 7:4:47
+10 process work 100 => 50
+
+INFO pid:4239 time:2019-11-29 7:4:47
+work change!
+
+INFO pid:4239 time:2019-11-29 7:4:48
+work change!
+
+INFO pid:4239 time:2019-11-29 7:4:50
+10 process work 1429 => 1379
+
+INFO pid:4239 time:2019-11-29 7:4:50
+10 process work 1379 => 1329
+
+INFO pid:4239 time:2019-11-29 7:4:51
+10 process work 1329 => 1279
+
+INFO pid:4239 time:2019-11-29 7:4:51
+10 process work 1279 => 1229
+
+INFO pid:4239 time:2019-11-29 7:4:52
+10 process work 1229 => 1179
+
+INFO pid:4239 time:2019-11-29 7:4:52
+10 process work 1179 => 1129
+
+INFO pid:4239 time:2019-11-29 7:4:5INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 464 -> 414
+waitQ 10 run 79 -> 29
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 414 -> 364
+waitQ 10 run 29 -> -21
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 364 -> 314
+waitQ 10 run 282 -> 232
+
+INFO pid:4229 time:2019-11-29 7:4:49
+waitQ 6 run 314 -> 264
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 264 -> 214
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 214 -> 164
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 164 -> 114
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 114 -> 64
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 64 -> 14
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 14 -> -36
+
+INFO pid:4229 time:2019-11-29 7:4:50
+waitQ 6 run 1728 -> 1678
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1795 -> 1745
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1745 -> 1695
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1695 -> 1645
+waitQ 2 run 1795 -> 1745
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1645 -> 1595
+waitQ 2 run 1745 -> 1695
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1595 -> 1545
+waitQ 2 run 1695 -> 1645
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1545 -> 1495
+waitQ 2 run 1645 -> 1595
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1495 -> 1445
+waitQ 2 run 1595 -> 1545
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1445 -> 1395
+waitQ 2 run 1545 -> 1495
+
+INFO pid:4229 time:2019-11-29 7:4:57
+waitQ 1 run 1395 -> 1345
+waitQ 2 run 1495 -> 1445
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1345 -> 1295
+waitQ 2 run 1445 -> 1395
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1295 -> 1245
+waitQ 2 run 1395 -> 1345
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1245 -> 1195
+waitQ 2 run 1345 -> 1295
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1195 -> 1145
+waitQ 2 run 1295 -> 1245
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1145 -> 1095
+waitQ 2 run 1245 -> 1195
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1095 -> 1045
+waitQ 2 run 1195 -> 1145
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 1045 -> 995
+waitQ 2 run 1145 -> 1095
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 995 -> 945
+waitQ 2 run 1095 -> 1045
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 945 -> 895
+waitQ 2 run 1045 -> 995
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 895 -> 845
+waitQ 2 run 995 -> 945
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 845 -> 795
+waitQ 2 run 945 -> 895
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 795 -> 745
+waitQ 2 run 895 -> 845
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 745 -> 695
+waitQ 2 run 845 -> 795
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 695 -> 645
+waitQ 2 run 795 -> 745
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 645 -> 595
+waitQ 2 run 745 -> 695
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 595 -> 545
+waitQ 2 run 695 -> 645
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 545 -> 495
+waitQ 2 run 645 -> 595
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 495 -> 445
+waitQ 2 run 595 -> 545
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 445 -> 395
+waitQ 2 run 545 -> 495
+
+INFO pid:4229 time:2019-11-29 7:4:58
+waitQ 1 run 395 -> 345
+waitQ 2 run 495 -> 445
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 345 -> 295
+waitQ 2 run 445 -> 395
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 295 -> 245
+waitQ 2 run 395 -> 345
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 245 -> 195
+waitQ 2 run 345 -> 295
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 195 -> 145
+waitQ 2 run 295 -> 245
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 145 -> 95
+waitQ 2 run 245 -> 195
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 95 -> 45
+waitQ 2 run 195 -> 145
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 45 -> -5
+waitQ 2 run 145 -> 95
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 1 run 1864 -> 1814
+waitQ 2 run 95 -> 45
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 2 run 45 -> -5
+
+INFO pid:4229 time:2019-11-29 7:4:59
+waitQ 2 run 1864 -> 1814
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1814 -> 1764
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1764 -> work 1034 => 984
+
+INFO pid:4230 time:2019-11-29 7:4:48
+1 process work 984 => 934
+
+INFO pid:4230 time:2019-11-29 7:4:48
+1 process work 934 => 884
+
+INFO pid:4230 time:2019-11-29 7:4:49
+1 process work 884 => 834
+
+INFO pid:4230 time:2019-11-29 7:4:49
+1 process work 834 => 784
+
+INFO pid:4230 time:2019-11-29 7:4:50
+1 process work 784 => 734
+
+INFO pid:4230 time:2019-11-29 7:4:50
+1 process work 734 => 684
+
+INFO pid:4230 time:2019-11-29 7:4:51
+1 process work 684 => 634
+
+INFO pid:4230 time:2019-11-29 7:4:51
+1 process work 634 => 584
+
+INFO pid:4230 time:2019-11-29 7:4:52
+1 process work 584 => 534
+
+INFO pid:4230 time:2019-11-29 7:4:52
+1 process work 534 => 484
+
+INFO pid:4230 time:2019-11-29 7:4:53
+1 process work 484 => 434
+
+INFO pid:4230 time:2019-11-29 7:4:53
+1 process work 434 => 384
+
+INFO pid:4230 time:2019-11-29 7:4:54
+1 process work 384 => 334
+
+INFO pid:4230 time:2019-11-29 7:4:54
+1 process work 334 => 284
+
+INFO pid:4230 time:2019-11-29 7:4:55
+1 process work 284 => 234
+
+INFO pid:4230 time:2019-11-29 7:4:55
+1 process work 234 => 184
+
+INFO pid:4230 time:2019-11-29 7:4:56
+1 process work 184 => 134
+
+INFO pid:4230 time:2019-11-29 7:4:56
+1 process work 134 => 84
+
+INFO pid:4230 time:2019-11-29 7:4:57
+1 process work 84 => 34
+
+INFO pid:4230 time:2019-11-29 7:4:57
+work change!
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 454 => 404
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 404 => 354
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 354 => 304
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 304 => 254
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 254 => 204
+
+INFO pid:4230 time:2019-11-29 7:4:59
+1 process work 204 => 154
+
+INFO pid:4230 time:2019-11-29 7:5:0
+1 process work 154 => 104
+
+INFO pid:4230 time:2019-11-29 7:5:0
+1 process work 104 => 54
+
+INFO pid:4230 time:2019-11-29 7:5:0
+1 process work 54 => 4
+
+INFO pid:4230 time:2019-11-29 7:5:0
+work change!
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 644 => 594
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 594 => 544
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 544 => 494
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 494 => 444
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 444 => 394
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 394 => 344
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 344 => 294
+
+INFO pid:4230 time:2019-11-29 7:5:2
+1 process work 294 => 244
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 244 => 194
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 194 => 144
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 144 => 94
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 94 => 44
+
+INFO pid:4230 time:2019-11-29 7:5:3
+work change!
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 1426 => 1376
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 1376 => 1326
+
+INFO pid:4230 time:2019-11-29 7:5:3
+1 process work 1326 => 1276
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1276 => 1226
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1226 => 1176
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1176 => 1126
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1126 => 1076
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1076 => 1026
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 1026 => 976
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 976 => 926
+
+INFO pid:4230 time:2019-11-29 7:5:4
+1 process work 926 => 876
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 876 => 826
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 826 => 776
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 776 => 726
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 726 => 676
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 676 => 626
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 626 => 576
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 576 => 526
+
+INFO pid:4230 time:2019-11-29 7:5:5
+1 process work 526 => 476
+
+INFO pid:4230 time:2019-11-29 7:5:6
+1 process work 476 => 426
+
+INFO pid:4230 time:2019-11-29 7:5:6
+1 process work 426 => 376
+
+INFO pid:4230 time:2019-11-29 7:5:6
+1 process work 3e:2019-11-29 7:4:48
+2 process work 1034 => 984
+
+INFO pid:4231 time:2019-11-29 7:4:48
+2 process work 984 => 934
+
+INFO pid:4231 time:2019-11-29 7:4:49
+2 process work 934 => 884
+
+INFO pid:4231 time:2019-11-29 7:4:49
+2 process work 884 => 834
+
+INFO pid:4231 time:2019-11-29 7:4:49
+2 process work 834 => 784
+
+INFO pid:4231 time:2019-11-29 7:4:50
+2 process work 784 => 734
+
+INFO pid:4231 time:2019-11-29 7:4:50
+2 process work 734 => 684
+
+INFO pid:4231 time:2019-11-29 7:4:51
+2 process work 684 => 634
+
+INFO pid:4231 time:2019-11-29 7:4:51
+2 process work 634 => 584
+
+INFO pid:4231 time:2019-11-29 7:4:52
+2 process work 584 => 534
+
+INFO pid:4231 time:2019-11-29 7:4:52
+2 process work 534 => 484
+
+INFO pid:4231 time:2019-11-29 7:4:53
+2 process work 484 => 434
+
+INFO pid:4231 time:2019-11-29 7:4:53
+2 process work 434 => 384
+
+INFO pid:4231 time:2019-11-29 7:4:54
+2 process work 384 => 334
+
+INFO pid:4231 time:2019-11-29 7:4:54
+2 process work 334 => 284
+
+INFO pid:4231 time:2019-11-29 7:4:55
+2 process work 284 => 234
+
+INFO pid:4231 time:2019-11-29 7:4:55
+2 process work 234 => 184
+
+INFO pid:4231 time:2019-11-29 7:4:56
+2 process work 184 => 134
+
+INFO pid:4231 time:2019-11-29 7:4:56
+2 process work 134 => 84
+
+INFO pid:4231 time:2019-11-29 7:4:57
+2 process work 84 => 34
+
+INFO pid:4231 time:2019-11-29 7:4:57
+work change!
+
+INFO pid:4231 time:2019-11-29 7:4:59
+2 process work 454 => 404
+
+INFO pid:4231 time:2019-11-29 7:4:59
+2 process work 404 => 354
+
+INFO pid:4231 time:2019-11-29 7:4:59
+2 process work 354 => 304
+
+INFO pid:4231 time:2019-11-29 7:4:59
+2 process work 304 => 254
+
+INFO pid:4231 time:2019-11-29 7:5:0
+2 process work 254 => 204
+
+INFO pid:4231 time:2019-11-29 7:5:0
+2 process work 204 => 154
+
+INFO pid:4231 time:2019-11-29 7:5:0
+2 process work 154 => 104
+
+INFO pid:4231 time:2019-11-29 7:5:0
+2 process work 104 => 54
+
+INFO pid:4231 time:2019-11-29 7:5:0
+2 process work 54 => 4
+
+INFO pid:4231 time:2019-11-29 7:5:0
+work change!
+
+INFO pid:4231 time:2019-11-29 7:5:2
+2 process work 644 => 594
+
+INFO pid:4231 time:2019-11-29 7:5:2
+2 process work 594 => 544
+
+INFO pid:4231 time:2019-11-29 7:5:2
+2 process work 544 => 494
+
+INFO pid:4231 time:2019-11-29 7:5:2
+2 process work 494 => 444
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 444 => 394
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 394 => 344
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 344 => 294
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 294 => 244
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 244 => 194
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 194 => 144
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 144 => 94
+
+INFO pid:4231 time:2019-11-29 7:5:3
+2 process work 94 => 44
+
+INFO pid:4231 time:2019-11-29 7:5:4
+work change!
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1579 => 1529
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1529 => 1479
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1479 => 1429
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1429 => 1379
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1379 => 1329
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1329 => 1279
+
+INFO pid:4231 time:2019-11-29 7:5:4
+2 process work 1279 => 1229
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 1229 => 1179
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 1179 => 1129
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 1129 => 1079
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 1079 => 1029
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 1029 => 979
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 979 => 929
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 929 => 879
+
+INFO pid:4231 time:2019-11-29 7:5:5
+2 process work 879 => 829
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 829 => 779
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 779 => 729
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 729 => 679
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 679 => 629
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 629 => 579
+
+INFO pid:4231 time:2019-11-29 7:5:6
+2 process work 579 => 529
+
+INFO pid:4231 time1714
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1714 -> 1664
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1664 -> 1614
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1614 -> 1564
+waitQ 2 run 1814 -> 1764
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1564 -> 1514
+waitQ 2 run 1764 -> 1714
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1514 -> 1464
+waitQ 2 run 1714 -> 1664
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1464 -> 1414
+waitQ 2 run 1664 -> 1614
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1414 -> 1364
+waitQ 2 run 1614 -> 1564
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1364 -> 1314
+waitQ 2 run 1564 -> 1514
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1314 -> 1264
+waitQ 2 run 1514 -> 1464
+
+INFO pid:4229 time:2019-11-29 7:5:0
+waitQ 1 run 1264 -> 1214
+waitQ 2 run 1464 -> 1414
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 1214 -> 1164
+waitQ 2 run 1414 -> 1364
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 1164 -> 1114
+waitQ 2 run 1364 -> 1314
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 1114 -> 1064
+waitQ 2 run 1314 -> 1264
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 1064 -> 1014
+waitQ 2 run 1264 -> 1214
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 1014 -> 964
+waitQ 2 run 1214 -> 1164
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 964 -> 914
+waitQ 2 run 1164 -> 1114
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 914 -> 864
+waitQ 2 run 1114 -> 1064
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 864 -> 814
+waitQ 2 run 1064 -> 1014
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 814 -> 764
+waitQ 2 run 1014 -> 964
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 764 -> 714
+waitQ 2 run 964 -> 914
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 714 -> 664
+waitQ 2 run 914 -> 864
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 664 -> 614
+waitQ 2 run 864 -> 814
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 614 -> 564
+waitQ 2 run 814 -> 764
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 564 -> 514
+waitQ 2 run 764 -> 714
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 514 -> 464
+waitQ 2 run 714 -> 664
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 464 -> 414
+waitQ 2 run 664 -> 614
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 414 -> 364
+waitQ 2 run 614 -> 564
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 364 -> 314
+waitQ 2 run 564 -> 514
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 314 -> 264
+waitQ 2 run 514 -> 464
+
+INFO pid:4229 time:2019-11-29 7:5:1
+waitQ 1 run 264 -> 214
+waitQ 2 run 464 -> 414
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 214 -> 164
+waitQ 2 run 414 -> 364
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 164 -> 114
+waitQ 2 run 364 -> 314
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 114 -> 64
+waitQ 2 run 314 -> 264
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 64 -> 14
+waitQ 2 run 264 -> 214
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 14 -> -36
+waitQ 2 run 214 -> 164
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 1 run 1825 -> 1775
+waitQ 2 run 164 -> 114
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 2 run 114 -> 64
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 2 run 64 -> 14
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 2 run 14 -> -36
+
+INFO pid:4229 time:2019-11-29 7:5:2
+waitQ 2 run 1825 -> 1775
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 287 -> 237
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 237 -> 187
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 187 -> 137
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 137 -> 87
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 87 -> 37
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 37 -> -13
+
+INFO pid:4229 time:2019-11-29 7:5:4
+waitQ 7 run 1579 -> 1529
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1775 -> 1725
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1725 -> 1675
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1675 -> 1625
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1625 -> 1575
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1575 -> 1525
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1525 -> 1475
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1475 -> 1425
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1425 -> 1375
+waitQ 8 run 232 -> 182
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1375 -> 1325
+waitQ 8 run 182 -> 132
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1325 -> 1275
+waitQ 8 run 132 -> 82
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1275 -> 1225
+waitQ 8 run 82 -> 32
+waitQ 2 run 1775 -> 1725
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1225 -> 1175
+waitQ 8 run 32 -> -18
+waitQ 2 run 1725 -> 1675
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1175 -> 1125
+waitQ 8 run 886 -> 836
+waitQ 2 run 1675 -> 1625
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1125 -> 1075
+waitQ 2 run 1625 -> 1575
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1075 -> 1025
+waitQ 2 run 1575 -> 1525
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 1025 -> 975
+waitQ 2 run 1525 -> 1475
+
+INFO pid:4229 time:2019-11-29 7:5:7
+waitQ 1 run 975 -> 925
+waitQ 2 run 1475 -> 1425
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 925 -> 875
+waitQ 2 run 1425 -> 1375
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 875 -> 825
+waitQ 2 run 1375 -> 1325
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 825 -> 775
+waitQ 2 run 1325 -> 1275
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 775 -> 725
+waitQ 2 run 1275 -> 1225
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 725 -> 675
+waitQ 2 run 1225 -> 1175
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 675 -> 625
+waitQ 2 run 1175 -> 1125
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 625 -> 575
+waitQ 2 run 1125 -> 1075
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 575 -> 525
+waitQ 2 run 1075 -> 1025
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 525 -> 475
+waitQ 2 run 1025 -> 975
+waitQ 10 run 232 -> 182
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 475 -> 425
+waitQ 2 run 975 -> 925
+waitQ 10 run 182 -> 132
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 425 -> 375
+waitQ 2 run 925 -> 875
+waitQ 10 run 132 -> 82
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 375 -> 325
+waitQ 2 run 875 -> 825
+waitQ 10 run 82 -> 32
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 325 -> 275
+waitQ 2 run 825 -> 775
+waitQ 10 run 32 -> -18
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 275 -> 225
+waitQ 2 run 775 -> 725
+waitQ 10 run 582 -> 532
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 225 -> 175
+waitQ 2 run 725 -> 675
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 175 -> 125
+waitQ 2 run 675 -> 625
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 125 -> 75
+waitQ 2 run 625 -> 575
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 75 -> 25
+waitQ 2 run 575 -> 525
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 25 -> -25
+waitQ 2 run 525 -> 475
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 1 run 582 -> 532
+waitQ 2 run 475 -> 425
+
+INFO pid:4229 time:2019-11-29 7:5:8
+waitQ 2 run 425 -> 375
+
+INFO pid:4229 time:2019-11-29 7:5:9
+waitQ 2 run 375 -> 325
+
+INFO pid:4229 time:2019-11-29 7:5:9
+waitQ 2 run 325 -> 275
+
+INFO pid:4229 time:2019-11-29 7:5:9
+waitQ 2 run 275 -> 225
+

@@ -13,7 +13,7 @@
 #define MSGQ_KEY 1111
 #define QUANTUM 50
 #define PROCESS_COUNT 10
-#define QUANTUM_COUNT 10000
+#define QUANTUM_COUNT 1000
 
 typedef struct __msg{
 	long mtype;
@@ -48,8 +48,6 @@ void child_process(int pint, prs_info * prs, key_t id){
 	while(1){
 		if(msgrcv(id, &temp, sizeof(prs_info), prs->pid, 0) != -1){
 		//메시지 받았을 떄 조건
-			sprintf(log_msg, "%d process get message\n", pint);
-			log_info(log_file, log_msg, BOTH);
 			work_state = work_process(prs, QUANTUM);
 			//작업 할당량이 남았을 때
 			if(work_state > 0){
@@ -82,6 +80,7 @@ void handler(int signum){
 	static Queue priorityQ;
 	static Queue waitQ;
 	char log_msg[256];
+	char msg_bf[128];
 	message content;
 	int i, work_state, j;
 	prs_info * temp;
@@ -129,11 +128,13 @@ void handler(int signum){
 		}
 		//IO 부분
 		j = waitQ.count;
+		memset(msg_bf, 0, sizeof(char) * 128);
+		memset(log_msg, 0, sizeof(char) * 256);
 		for(i = 0; i < j; i++){
 			temp = Dequeue(&waitQ);
 			work_state = work_process(temp, QUANTUM);
-			sprintf(log_msg, "waitQ %d run %d -> %d\n ", temp->type, temp->work, temp->work - QUANTUM);
-			log_info(log_file, log_msg, BOTH);
+			sprintf(msg_bf, "waitQ %d run %d -> %d\n", temp->type, temp->work, temp->work - QUANTUM);
+			strcat(log_msg, msg_bf);
 			if(work_state == 0){
 				//우선순위 구분
 				if(temp->priority > (PRIORITY_MAX / 4 * 3)){
@@ -144,6 +145,9 @@ void handler(int signum){
 			}else{
 				Enqueue(&waitQ, temp);
 			}
+		}
+		if(strlen(log_msg) != 0){
+			log_info(log_file, log_msg, BOTH);
 		}
 		
 		//우선 큐
@@ -157,7 +161,7 @@ void handler(int signum){
 					log_error(log_file, log_msg, BOTH);
 				}else{
 					sprintf(log_msg, "id : %d work : %d PriorityQ SendMSG\n", temp->type, temp->work);
-					log_debug(log_file, log_msg, BOTH);
+					log_info(log_file, log_msg, STDOUT_ONLY);
 				}
 				Enqueue(&priorityQ, temp);
 				cnt++;
@@ -175,7 +179,7 @@ void handler(int signum){
 				log_error(log_file, log_msg, BOTH);
 			}else{
 				sprintf(log_msg, "id : %d work : %d NormalQ SendMSG\n", temp->type, temp->work);
-				log_debug(log_file, log_msg, BOTH);
+				log_info(log_file, log_msg, STDOUT_ONLY);
 			}
 			Enqueue(&Q, temp);
 		}
@@ -241,10 +245,6 @@ int main(){
 
 		timer.it_interval.tv_sec = QUANTUM / 1000;
 		timer.it_interval.tv_usec = QUANTUM * 1000;
-		
-		for(i = 0; i < PROCESS_COUNT; i++){
-			printf("pid %d : %d\n", i + 1, processes[i]->pid);
-		}
 
 		for(i = 0; i < PROCESS_COUNT; i++){
 			if(msgrcv(msgq_id, &content, sizeof(prs_info), i + 1, 0) != -1){
@@ -253,7 +253,8 @@ int main(){
 				printf("no %d process\n", i + 1);
 			}
 		}
-		printf("all child created!\n\n\n\n");
+		sprintf(log_msg, "all child set ready\n\n\n\n");
+		log_info(log_file, log_msg, BOTH);
 		//가상 타이머 시작
 		if(setitimer(ITIMER_REAL, &timer, NULL) == -1){
 			printf("%s\n", strerror(errno));
