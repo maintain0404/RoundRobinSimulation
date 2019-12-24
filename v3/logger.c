@@ -43,7 +43,6 @@ FILE* log_init(){
 	//현재시각으로 파일명 설정
 	
 	fp = fopen(filename, "w");
-	setvbuf(fp, NULL, _IOFBF, 1024);
 	//버퍼 설정
 	return fp;
 }
