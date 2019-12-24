@@ -15,7 +15,7 @@
 
 typedef struct process_{
 	pid_t pid;
-	int	type;
+	int type;
 	int priority;
 	int work;
 	int wtype;
@@ -27,9 +27,9 @@ prs_info * mk_process(int pint){
 	
 	temp->wtype = WTYPE_CPU;
 	temp->type = pint;
-	srand(time(NULL));
+	srand(getpid());
 	temp->priority = rand() % PRIORITY_MAX;
-	srand(time(NULL));
+	srand(getpid());
 	temp->work = rand() % W_RANGE + W_MIN;
 	return temp;
 }
@@ -53,7 +53,6 @@ int work_process(prs_info * prs, int workamount){
 
 //프로세스 삭제함수
 void * del_process(prs_info * prs){
-	
 	free(prs);
 }
 #endif

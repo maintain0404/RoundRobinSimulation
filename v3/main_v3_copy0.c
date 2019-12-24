@@ -11,10 +11,9 @@
 #include "logger.c"
 #include "double_linkedlist.c"
 #include "memeory_manager.c"
-#include "messageq.c"
 
 #define MSGQ_KEY 1111
-#define QUANTUM 200
+#define QUANTUM 50
 #define PROCESS_COUNT 10
 #define QUANTUM_COUNT 1000
 
@@ -29,34 +28,53 @@ FILE * log_file;
 
 void end_all(){
 	int i;
+	log_info(BOTH, "END!\n");
 	for(i = 0; i < PROCESS_COUNT; i++){
 		del_process(processes[i]);
-		end_memory_manager();
-		log_info(BOTH, "END!\n");
 	}
+	end_memory_manager();
 }
 
 void child_process(int pint, prs_info * prs, key_t id){
+	int i = 0;
 	int work_state;
+	char log_msg[256];
+	message temp;
 	prs = processes[pint - 1];
 	prs->pid = getpid();
 	
 	//자식 시작 완료 메시지 보내기
-	send_msg(getppid(), PPRS_INIT, prs);
-		
+	temp.mtype = pint;
+	if(msgsnd(id, &temp, sizeof(prs_info), 0) != -1){
+		log_info(BOTH, "child process id : %d On\n", prs->pid);	
+	}else{
+		log_error(BOTH, "child process failed ERROR : %s\n", strerror(errno));
+		exit(-1);
+	}
+	
+	
 	//본격적 작업처리 부분
 	while(1){
-		prs = rcv_msg((long)(prs->pid));
-		//자식에게 오는 건 무조건 노동명령
-		work_state = work_process(prs, QUANTUM);
-		//작업 할당량이 남았을 때
-		if(work_state > 0){
-			log_info(BOTH, "%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
-		//IO CPU 전환할 때 
-		}else if(work_state <= 0){
-			send_msg((long)getppid(), PPRS_CPU_TO_IO, prs);
+		if(msgrcv(id, &temp, sizeof(prs_info), prs->pid, 0) != -1){
+		//메시지 받았을 떄 조건
+			work_state = work_process(prs, QUANTUM);
+			//작업 할당량이 남았을 때
+			if(work_state > 0){
+				log_info(BOTH, "%d process work %d => %d\n", pint, prs->work + QUANTUM, prs->work);
+			//IO CPU 전환할 때 
+			}else if(work_state <= 0){
+				log_info(BOTH, "work change!\n");
+				temp.pinfo = *prs;
+				temp.mtype = getppid();
+				msgsnd(id, &temp, sizeof(prs_info), 0);
+			}	
+		}else{
+		//메시지큐 에러
+			log_error(BOTH, "%d process msgq ERROR! : %s\n",pint, strerror(errno));
 		}
+		
 	}
+	return;
 }
 
 
@@ -143,8 +161,13 @@ void handler(int signum){
 			temp = Dequeue(&priorityQ);
 			if(temp != NULL){
 				memory_alloc(temp->pid);
-				printf("%d\n", temp->pid);
-				send_msg((long)(temp->pid), CPRS_WORK, temp);
+				content.mtype = (long)temp->pid;
+				content.pinfo = *temp;
+				if(msgsnd(msgq_id, &content, sizeof(prs_info), 0) == -1){
+					log_error(BOTH, "sendMSG failed ERROR : %s\n", strerror(errno));
+				}else{
+					log_info(STDOUT_ONLY, "id : %d work : %d PriorityQ SendMSG\n", temp->type, temp->work);
+				}
 				Enqueue(&priorityQ, temp);
 				cnt++;
 				return;  //우선 큐 처리하면 퀀텀 패쓰
@@ -155,10 +178,14 @@ void handler(int signum){
 		//모든 큐에 프로세스가 없을 때
 		if(temp != NULL){
 			memory_alloc(temp->pid);
-			printf("%d\n", temp->pid);
-				
-			send_msg((long)(temp->pid), CPRS_WORK, temp);
-			Enqueue(&priorityQ, temp);
+			content.mtype = (long)temp->pid;
+			content.pinfo = *temp;
+			if(msgsnd(msgq_id, &content, sizeof(prs_info), 0) == -1){
+				log_error(BOTH, "sendMSG failed ERROR : %s\n", strerror(errno));
+			}else{
+				log_info(STDOUT_ONLY, "id : %d work : %d NormalQ SendMSG\n", temp->type, temp->work);
+			}
+			Enqueue(&Q, temp);
 		}
 	}
 	cnt++;
@@ -167,6 +194,7 @@ void handler(int signum){
 int main(){
 	int i = 0, j;
 	pid_t crt;
+	key_t msgkey;
 	message content;
 	char log_msg[256];
 	
@@ -174,8 +202,16 @@ int main(){
 	memory_manager_init();
 	
 	//메시지큐 생성
-	msq_init();
-
+	msgkey = ftok("/workspace/TermProject", 1);
+	msgq_id = msgget(IPC_PRIVATE, IPC_CREAT | 0640);
+	if(msgq_id > 0){
+		log_info(BOTH, "messageQ %d created\n", msgq_id);
+	}else{
+		log_error(BOTH, "message create failed ERR : %d\n", errno);
+		return 0;
+	}
+	
+	
 	//1번은 그냥 생성
 	do{
 		crt = fork();
@@ -212,8 +248,11 @@ int main(){
 		timer.it_interval.tv_usec = QUANTUM * 1000;
 
 		for(i = 0; i < PROCESS_COUNT; i++){
-			printf("%d", i);
-			rcv_msg(getpid());
+			if(msgrcv(msgq_id, &content, sizeof(prs_info), i + 1, 0) != -1){
+				printf("%d process clear!\n", i + 1);
+			}else{
+				printf("no %d process\n", i + 1);
+			}
 		}
 		log_info(BOTH, "all child set ready\n\n\n\n");
 		//가상 타이머 시작
@@ -225,10 +264,13 @@ int main(){
 
 		//종료 대기
 		while(1){
+			if(msgrcv(msgq_id, &content, sizeof(prs_info), 0, IPC_NOWAIT) != -1){
+				if(content.pinfo.type == 0){
+					break;
+				}
+			}
 			sleep(1);
 		};
 	}
 	return 0;
 }
-
-

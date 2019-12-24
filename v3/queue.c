@@ -4,17 +4,17 @@
 #include <string.h>
 #include "process.c"
 
-typedef struct Node 
+typedef struct QNode 
 {
     prs_info * data;
-    struct Node *next;
-}Node;
+    struct QNode *next;
+}QNode;
 
 
 typedef struct Queue 
 {
-    Node *front; 
-    Node *rear;
+    QNode *front; 
+    QNode *rear;
     int count;
 }Queue;
 
@@ -36,7 +36,7 @@ int IsEmpty(Queue *queue)
 
 void Enqueue(Queue *queue, prs_info * data)
 {
-    Node *now = (Node *)malloc(sizeof(Node)); 
+    QNode *now = (QNode *)malloc(sizeof(QNode)); 
     now->data = data;
     now->next = NULL;
 
@@ -55,7 +55,7 @@ void Enqueue(Queue *queue, prs_info * data)
 prs_info * Dequeue(Queue *queue)
 {
     prs_info * re;
-    Node *now;
+    QNode *now;
     if (IsEmpty(queue))
     {
         return NULL;

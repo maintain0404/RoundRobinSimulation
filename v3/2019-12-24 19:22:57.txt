@@ -1,0 +1,4670 @@
+INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19197 time:2019-12-24 19:22:57:327190000
+all child set ready
+
+
+
+INFO pid:19197 time:2019-12-24 19:23:00:327353000
+signal init
+INFO pid:19197 time:2019-12-24 19:23:00:377352000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:427350000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:477347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:527340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:577341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:627352000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:677352000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:727347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:777368000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:827361000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:00:877355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:00:927349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:00:977352000
+waitQ 2 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:00:977413000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:27347000
+waitQ 2 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:01:27401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:77346000
+waitQ 2 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:01:77396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:127366000
+waitQ 2 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:01:127413000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:177348000
+waitQ 2 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:01:177406000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:227351000
+waitQ 2 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:01:227413000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:277354000
+waitQ 2 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:01:277415000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:01:327353000
+waitQ 2 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:01:327418000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:01:377352000
+waitQ 2 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:01:377416000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:427347000
+waitQ 2 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:01:427397000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:477358000
+waitQ 2 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:01:477425000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:527358000
+waitQ 2 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:01:527425000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:577364000
+waitQ 2 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:01:577438000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:627365000
+waitQ 2 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:01:627444000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:677353000
+waitQ 2 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:01:677412000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:727356000
+waitQ 2 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:01:727425000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:01:777352000
+waitQ 2 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:01:777431000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:01:827352000
+waitQ 2 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:01:827424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:877353000
+waitQ 2 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:01:877422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:927358000
+waitQ 2 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:01:927422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:01:977356000
+waitQ 2 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:01:977446000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:27354000
+waitQ 2 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:02:27415000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:77371000
+waitQ 2 run 682 -> 632
+waitQ 6 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:02:77443000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:127355000
+waitQ 2 run 632 -> 582
+waitQ 6 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:02:127422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:177358000
+waitQ 2 run 582 -> 532
+waitQ 6 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:02:177428000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:02:227355000
+waitQ 2 run 532 -> 482
+waitQ 6 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:02:227421000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:02:277352000
+waitQ 2 run 482 -> 432
+waitQ 6 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:02:277417000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:327363000
+waitQ 2 run 432 -> 382
+waitQ 6 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:02:327434000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:377354000
+waitQ 2 run 382 -> 332
+waitQ 6 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:02:377418000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:427358000
+waitQ 2 run 332 -> 282
+waitQ 6 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:02:427426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:477357000
+waitQ 2 run 282 -> 232
+waitQ 6 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:02:477426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:527354000
+waitQ 2 run 232 -> 182
+waitQ 6 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:02:527418000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:577347000
+waitQ 2 run 182 -> 132
+waitQ 6 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:02:577399000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:02:627356000
+waitQ 2 run 132 -> 82
+waitQ 6 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:02:627420000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:02:677356000
+waitQ 2 run 82 -> 32
+waitQ 6 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:02:677426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:727353000
+waitQ 2 run 32 -> -18
+waitQ 6 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:02:727426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:777354000
+waitQ 2 run 1866 -> 1816
+waitQ 6 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:02:777422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:827351000
+waitQ 6 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:02:827422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:877355000
+waitQ 6 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:02:877420000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:927355000
+waitQ 6 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:02:927422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:02:977359000
+waitQ 6 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:02:977427000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:27351000
+waitQ 6 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:03:27415000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:77356000
+waitQ 6 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:03:77420000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:127365000
+waitQ 6 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:03:127430000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:177357000
+waitQ 6 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:03:177427000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:227357000
+waitQ 6 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:03:227425000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:277354000
+waitQ 6 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:03:277451000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:327352000
+waitQ 6 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:03:327416000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:377354000
+waitQ 6 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:03:377420000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:427350000
+waitQ 6 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:03:427413000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:477352000
+waitQ 6 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:03:477417000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:527356000
+waitQ 6 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:03:527419000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:577355000
+waitQ 6 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:03:577417000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:627351000
+waitQ 6 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:03:627410000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:677359000
+waitQ 6 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:03:677427000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:727353000
+waitQ 6 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:03:727421000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:777354000
+waitQ 6 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:03:777424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:827367000
+waitQ 6 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:03:827431000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:03:877361000
+waitQ 6 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:03:877423000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:927355000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:03:977355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:27353000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:77350000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:127349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:177355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:227348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:277350000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:327347000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:377352000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:04:427353000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:04:477352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:527351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:577343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:627354000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:677354000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:727349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:777351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:827347000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:04:877349000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:04:927350000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:04:977351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:27350000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:77355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:127353000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:177348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:227352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:277351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:327350000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:377353000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:05:427335000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:05:477348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:527345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:577352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:627348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:677343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:727352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:777354000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:827352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:05:877354000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:05:927353000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:05:977351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:27348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:77351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:127355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:177354000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:227353000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:277355000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:327349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:377351000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:06:427347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:06:477347000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:527342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:577357000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:627352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:677356000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:727353000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:777354000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:827349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:06:877347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:06:927348000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:06:977353000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:27352000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:77350000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:127344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:177343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:227344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:277339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:327339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:377342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:07:427340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:07:477340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:527338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:577335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:627336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:677344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:727336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:777340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:827336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:07:877337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:07:927336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:07:977335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:27334000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:77339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:127335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:177338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:227339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:277338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:327341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:377343000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:08:427342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:08:477344000
+waitQ 10 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:08:477422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:527338000
+waitQ 10 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:08:527386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:577344000
+waitQ 10 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:08:577392000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:627345000
+waitQ 10 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:08:627397000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:677349000
+waitQ 10 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:08:677409000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:727349000
+waitQ 10 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:08:727408000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:777353000
+waitQ 10 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:08:777417000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:827357000
+waitQ 10 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:08:827419000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:877351000
+waitQ 10 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:08:877411000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:08:927349000
+waitQ 10 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:08:927406000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:08:977344000
+waitQ 10 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:08:977396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:27341000
+waitQ 10 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:09:27393000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:77343000
+waitQ 10 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:09:77393000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:127342000
+waitQ 10 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:09:127390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:177341000
+waitQ 10 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:09:177389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:227343000
+waitQ 10 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:09:227394000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:277345000
+waitQ 10 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:09:277400000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:327363000
+waitQ 10 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:09:327416000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:09:377343000
+waitQ 10 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:09:377393000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:427347000
+waitQ 10 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:09:427406000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:477343000
+waitQ 10 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:09:477399000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:527341000
+waitQ 10 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:09:527389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:577342000
+waitQ 10 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:09:577388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:627338000
+waitQ 10 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:09:627387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:677341000
+waitQ 10 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:09:677481000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:727344000
+waitQ 10 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:09:727495000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:777344000
+waitQ 10 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:09:777456000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:09:827341000
+waitQ 10 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:09:827390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:877339000
+waitQ 10 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:09:877413000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:927337000
+waitQ 10 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:09:927383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:09:977336000
+waitQ 10 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:09:977379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:27338000
+waitQ 10 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:10:27384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:77344000
+waitQ 10 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:10:77392000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:127343000
+waitQ 10 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:10:127389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:177343000
+waitQ 10 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:10:177388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:227339000
+waitQ 10 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:10:227385000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:10:277339000
+waitQ 10 run 1255 -> 1205
+INFO pid:19197 time:2019-12-24 19:23:10:277381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:327339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:427339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:477340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:527337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:577340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:677337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:10:727335000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:10:777336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:827341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:877337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:927341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:10:977340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:27335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:77341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:127340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:177341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:11:227339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:11:277340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:327336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:377336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:427339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:477341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:527335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:577340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:677336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:11:727340000
+waitQ 9 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:11:727379000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:11:777339000
+waitQ 9 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:11:777382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:827343000
+waitQ 9 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:11:827386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:877341000
+waitQ 9 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:11:877381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:927338000
+waitQ 9 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:11:927381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:11:977344000
+waitQ 9 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:11:977388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:27338000
+waitQ 9 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:12:27413000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:77342000
+waitQ 9 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:12:77388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:127339000
+waitQ 9 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:12:127382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:177340000
+waitQ 9 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:12:177382000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:12:227341000
+waitQ 9 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:12:227385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:277339000
+waitQ 9 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:12:277382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:327342000
+waitQ 9 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:12:327384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:377341000
+waitQ 9 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:12:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:427343000
+waitQ 9 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:12:427389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:477341000
+waitQ 9 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:12:477390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:527339000
+waitQ 9 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:12:527386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:577338000
+waitQ 9 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:12:577384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:627346000
+waitQ 9 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:12:627390000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:12:677339000
+waitQ 9 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:12:677382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:727340000
+waitQ 9 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:12:727384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:777338000
+waitQ 9 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:12:777381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:827338000
+waitQ 9 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:12:827380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:877341000
+waitQ 9 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:12:877390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:927345000
+waitQ 9 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:12:927400000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:12:977345000
+waitQ 9 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:12:977403000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:27345000
+waitQ 9 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:13:27397000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:77345000
+waitQ 9 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:13:77398000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:13:127344000
+waitQ 9 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:13:127392000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:177348000
+waitQ 9 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:13:177401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:227349000
+waitQ 9 run 282 -> 232
+waitQ 3 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:13:227409000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:277347000
+waitQ 9 run 232 -> 182
+waitQ 3 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:13:277396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:327343000
+waitQ 9 run 182 -> 132
+waitQ 3 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:13:327388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:377343000
+waitQ 9 run 132 -> 82
+waitQ 3 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:13:377389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:427342000
+waitQ 9 run 82 -> 32
+waitQ 3 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:13:427423000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:477341000
+waitQ 9 run 32 -> -18
+waitQ 3 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:13:477385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:527341000
+waitQ 9 run 575 -> 525
+waitQ 3 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:13:527387000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:13:577337000
+waitQ 3 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:13:577382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:627337000
+waitQ 3 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:13:627381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:677338000
+waitQ 3 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:13:677381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:727337000
+waitQ 3 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:13:727377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:777341000
+waitQ 3 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:13:777384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:827340000
+waitQ 3 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:13:827483000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:877343000
+waitQ 3 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:13:877477000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:13:927343000
+waitQ 3 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:13:927436000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:13:977342000
+waitQ 3 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:13:977436000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:14:27339000
+waitQ 3 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:14:27480000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:77342000
+waitQ 3 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:14:77390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:127341000
+waitQ 3 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:14:127429000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:177340000
+waitQ 3 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:14:177429000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:227342000
+waitQ 3 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:14:227476000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:277395000
+waitQ 3 run 732 -> 682
+waitQ 7 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:14:277447000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:327388000
+waitQ 3 run 682 -> 632
+waitQ 7 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:14:327485000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:377343000
+waitQ 3 run 632 -> 582
+waitQ 7 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:14:377478000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:14:427389000
+waitQ 3 run 582 -> 532
+waitQ 7 run 1632 -> 1582
+waitQ 9 run 525 -> 475
+INFO pid:19197 time:2019-12-24 19:23:14:427479000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:14:477387000
+waitQ 3 run 532 -> 482
+waitQ 7 run 1582 -> 1532
+waitQ 9 run 475 -> 425
+INFO pid:19197 time:2019-12-24 19:23:14:526039000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:527430000
+waitQ 3 run 482 -> 432
+waitQ 7 run 1532 -> 1482
+waitQ 9 run 425 -> 375
+INFO pid:19197 time:2019-12-24 19:23:14:527728000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:577382000
+waitQ 3 run 432 -> 382
+waitQ 7 run 1482 -> 1432
+waitQ 9 run 375 -> 325
+INFO pid:19197 time:2019-12-24 19:23:14:577427000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:627338000
+waitQ 3 run 382 -> 332
+waitQ 7 run 1432 -> 1382
+waitQ 9 run 325 -> 275
+INFO pid:19197 time:2019-12-24 19:23:14:627428000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:677382000
+waitQ 3 run 332 -> 282
+waitQ 7 run 1382 -> 1332
+waitQ 9 run 275 -> 225
+INFO pid:19197 time:2019-12-24 19:23:14:677425000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:727346000
+waitQ 3 run 282 -> 232
+waitQ 7 run 1332 -> 1282
+waitQ 9 run 225 -> 175
+INFO pid:19197 time:2019-12-24 19:23:14:727438000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:826038000
+waitQ 3 run 232 -> 182
+waitQ 7 run 1282 -> 1232
+waitQ 9 run 175 -> 125
+INFO pid:19197 time:2019-12-24 19:23:14:826150000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:14:827334000
+waitQ 3 run 182 -> 132
+waitQ 7 run 1232 -> 1182
+waitQ 9 run 125 -> 75
+INFO pid:19197 time:2019-12-24 19:23:14:827447000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:877349000
+waitQ 3 run 132 -> 82
+waitQ 7 run 1182 -> 1132
+waitQ 9 run 75 -> 25
+INFO pid:19197 time:2019-12-24 19:23:14:877509000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:927407000
+waitQ 3 run 82 -> 32
+waitQ 7 run 1132 -> 1082
+waitQ 9 run 25 -> -25
+INFO pid:19197 time:2019-12-24 19:23:14:927509000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:14:977397000
+waitQ 3 run 32 -> -18
+waitQ 7 run 1082 -> 1032
+waitQ 9 run 1857 -> 1807
+INFO pid:19197 time:2019-12-24 19:23:14:977487000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:27349000
+waitQ 3 run 489 -> 439
+waitQ 7 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:15:27453000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:77343000
+waitQ 7 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:15:77391000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:127345000
+waitQ 7 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:15:127394000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:15:177344000
+waitQ 7 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:15:177391000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:227344000
+waitQ 7 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:15:227384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:277344000
+waitQ 7 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:15:277395000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:327343000
+waitQ 7 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:15:327392000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:15:377341000
+waitQ 7 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:15:377390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:427338000
+waitQ 7 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:15:427381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:477345000
+waitQ 7 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:15:477390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:527340000
+waitQ 7 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:15:527387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:577341000
+waitQ 7 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:15:577389000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:15:627342000
+waitQ 7 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:15:627388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:677340000
+waitQ 7 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:15:677382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:727340000
+waitQ 7 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:15:727381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:777340000
+waitQ 7 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:15:777380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:15:827339000
+waitQ 7 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:15:827381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:877340000
+waitQ 7 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:15:877387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:927339000
+waitQ 7 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:15:927378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:15:977335000
+waitQ 7 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:15:977378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:27335000
+waitQ 7 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:16:27408000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:16:77343000
+waitQ 7 run 621 -> 571
+INFO pid:19197 time:2019-12-24 19:23:16:77383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:127340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:177339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:227342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:16:277342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:327337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:377337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:427336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:477338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:16:527335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:577337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:677340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:727339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:16:777340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:827337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:877338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:927344000
+waitQ 8 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:16:927380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:16:977337000
+waitQ 8 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:16:977375000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:17:27336000
+waitQ 8 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:17:27373000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:77344000
+waitQ 8 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:17:77396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:127340000
+waitQ 8 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:17:127443000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:177341000
+waitQ 8 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:17:177434000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:227333000
+waitQ 8 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:17:227411000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:17:277340000
+waitQ 8 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:17:277427000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:327341000
+waitQ 8 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:17:327426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:377339000
+waitQ 8 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:17:377379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:427340000
+waitQ 8 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:17:427381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:17:477341000
+waitQ 8 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:17:477384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:527339000
+waitQ 8 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:17:527381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:577338000
+waitQ 8 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:17:577379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:627335000
+waitQ 8 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:17:627375000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:677338000
+waitQ 8 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:17:677378000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:17:727336000
+waitQ 8 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:17:727375000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:777338000
+waitQ 8 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:17:777378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:827338000
+waitQ 8 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:17:827377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:877340000
+waitQ 8 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:17:877384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:17:927340000
+waitQ 8 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:17:927384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:17:977340000
+waitQ 8 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:17:977477000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:27337000
+waitQ 8 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:18:27417000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:77342000
+waitQ 8 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:18:77471000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:127339000
+waitQ 8 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:18:127465000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:18:177340000
+waitQ 8 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:18:177428000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:227360000
+waitQ 8 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:18:227402000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:277339000
+waitQ 8 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:18:277380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:327342000
+waitQ 8 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:18:327384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:18:377342000
+waitQ 8 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:18:377389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:427343000
+waitQ 8 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:18:427389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:477345000
+waitQ 8 run 232 -> 182
+waitQ 1 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:18:477390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:527340000
+waitQ 8 run 182 -> 132
+waitQ 1 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:18:527383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:577346000
+waitQ 8 run 132 -> 82
+waitQ 1 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:18:577383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:18:627382000
+waitQ 8 run 82 -> 32
+waitQ 1 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:18:627424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:677381000
+waitQ 8 run 32 -> -18
+waitQ 1 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:18:677422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:727384000
+waitQ 8 run 1103 -> 1053
+waitQ 1 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:18:727424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:777341000
+waitQ 1 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:18:777427000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:18:827338000
+waitQ 1 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:18:827469000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:877340000
+waitQ 1 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:18:877468000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:18:927341000
+waitQ 1 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:18:927465000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:26036000
+waitQ 1 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:19:26079000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:19:27332000
+waitQ 1 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:19:27449000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:77341000
+waitQ 1 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:19:77508000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:127338000
+waitQ 1 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:19:127571000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:177341000
+waitQ 1 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:19:177476000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:227340000
+waitQ 1 run 1032INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19201 time:2019-12-24 19:22:57:326363000
+24 child process created
+INFO pid:19201 time:2019-12-24 19:22:57:326433000
+child process id : 14001399 On
+INFO pid:19201 time:2019-12-24 19:23:00:527407000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:01:27442000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:01:477465000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:01:927472000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:02:377466000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:02:777507000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:03:227474000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:03:677496000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:04:127411000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:04:627436000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:05:127428000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:05:627423000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:06:127434000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:06:627429000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:07:127413000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:07:627388000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:08:127389000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:08:627437000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:09:77438000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:09:527429000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:09:977436000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:10:427408000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:10:927392000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:11:427400000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:11:927421000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:12:377424000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:12:827417000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:13:277440000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:13:677417000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:14:127467000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:14:577508000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:14:927633000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:15:277439000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:15:727418000
+work change!
+INFO pid:19201 time:2019-12-24 19:23:16:177390000
+29 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:16:677399000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:17:226033000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:17:627414000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:18:77556000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:18:527419000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:18:927585000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:19:377420000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:19:827414000
+0 process work -1946322144 => 2031678
+INFO pid:19201 time:2019-12-24 19:23:20:277418000
+work change!
+INFO pid:19201 time:2019-12-24 19:23:20:7774INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19202 time:2019-12-24 19:22:57:326217000
+32 child process created
+INFO pid:19202 time:2019-12-24 19:22:57:326293000
+child process id : 14001399 On
+INFO pid:19202 time:2019-12-24 19:23:00:577402000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:01:77436000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:01:527494000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:01:977491000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:02:427473000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:02:827478000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:03:277499000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:03:727509000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:04:177427000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:04:677436000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:05:177436000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:05:677410000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:06:177431000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:06:677433000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:07:177408000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:07:677401000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:08:177393000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:08:677494000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:09:127432000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:09:577433000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:10:27432000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:10:477394000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:10:977392000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:11:477395000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:11:977429000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:12:427432000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:12:877438000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:13:327429000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:13:727413000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:14:177509000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:14:627468000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:14:977572000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:15:377436000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:15:827423000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:16:277398000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:16:777388000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:17:277509000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:17:727409000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:18:177466000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:18:627465000
+work change!
+INFO pid:19202 time:2019-12-24 19:23:19:27533000
+29 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:19:477426000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:19:927418000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time:2019-12-24 19:23:20:377383000
+0 process work -1946322112 => 2031678
+INFO pid:19202 time -> 982
+INFO pid:19197 time:2019-12-24 19:23:19:227614000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:19:277338000
+waitQ 1 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:19:277379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:327340000
+waitQ 1 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:19:327380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:377340000
+waitQ 1 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:19:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:427340000
+waitQ 1 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:19:427384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:19:477340000
+waitQ 1 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:19:477385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:527338000
+waitQ 1 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:19:527384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:577341000
+waitQ 1 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:19:577387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:627337000
+waitQ 1 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:19:627380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:677337000
+waitQ 1 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:19:677380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:19:727336000
+waitQ 1 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:19:727376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:777336000
+waitQ 1 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:19:777375000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:827336000
+waitQ 1 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:19:827376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:877342000
+waitQ 1 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:19:877381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:19:927337000
+waitQ 1 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:19:927379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:19:977338000
+waitQ 1 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:19:977379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:27336000
+waitQ 1 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:20:27374000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:77338000
+waitQ 1 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:20:77383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:127338000
+waitQ 1 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:20:127380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:20:177341000
+waitQ 1 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:20:177382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:227337000
+waitQ 1 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:20:227419000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:277339000
+waitQ 1 run 1828 -> 1778
+INFO pid:19197 time:2019-12-24 19:23:20:277378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:327336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:20:377335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:427336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:477340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:527339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:577343000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:20:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:677348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:727343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:777344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:827344000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:20:877339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:927339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:20:977341000
+pid : 1, page hit
+INFO pid:19197 time:2019-INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19199 time:2019-12-24 19:22:57:326645000
+8 child process created
+INFO pid:19199 time:2019-12-24 19:22:57:326713000
+child process id : 14001399 On
+INFO pid:19199 time:2019-12-24 19:23:00:427419000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:00:927463000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:03:177478000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:03:627488000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:04:77420000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:04:577411000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:05:77453000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:05:577438000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:06:77420000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:06:577434000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:07:77422000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:07:577432000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:08:77389000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:08:577437000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:09:27441000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:09:477452000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:09:927432000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:10:377391000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:10:877391000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:11:377389000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:11:877418000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:12:327430000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:12:777425000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:13:227453000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:13:627422000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:14:77523000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:14:527957000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:14:877597000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:15:227419000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:15:677420000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:16:127388000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:16:627388000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:17:127524000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:17:577417000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:18:27492000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:18:477435000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:18:877581000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:19:327419000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:19:777413000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:20:227457000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:20:677411000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:21:177395000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:21:677386000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:22:177386000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:22:677418000INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19198 time:2019-12-24 19:22:57:326862000
+0 child process created
+INFO pid:19198 time:2019-12-24 19:22:57:327319000
+child process id : 14001399 On
+INFO pid:19198 time:2019-12-24 19:23:00:377425000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:00:877500000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:01:425977000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:01:827510000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:02:277462000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:02:677470000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:03:77467000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:03:527463000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:03:977434000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:04:477424000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:04:977429000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:05:477424000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:05:977425000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:06:477417000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:06:977431000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:07:477419000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:07:977392000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:08:477459000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:08:927450000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:09:377434000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:09:827456000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:10:277429000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:10:777411000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:11:277394000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:11:777422000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:12:227419000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:12:677454000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:13:127435000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:13:577422000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:14:27607000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:14:526209000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:14:827537000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:15:177435000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:15:627428000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:16:77419000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:16:577387000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:17:77443000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:17:527426000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:17:977588000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:18:427435000
+work change!
+INFO pid:19198 time:2019-12-24 19:23:20:727406000
+29 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:21:227387000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:21:727391000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2019-12-24 19:23:22:227384000
+0 process work -1946322240 => 2031678
+INFO pid:19198 time:2INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19200 time:2019-12-24 19:22:57:326504000
+16 child process created
+INFO pid:19200 time:2019-12-24 19:22:57:326573000
+child process id : 14001399 On
+INFO pid:19200 time:2019-12-24 19:23:00:477405000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:00:977513000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:01:427443000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:01:877470000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:02:327478000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:02:727512000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:03:127468000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:03:577462000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:04:27425000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:04:527424000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:05:27462000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:05:527446000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:06:27420000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:06:527408000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:07:27429000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:07:527391000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:08:27383000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:08:527428000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:08:977439000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:09:427452000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:09:877463000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:10:327393000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:10:827400000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:11:327394000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:11:827427000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:12:277421000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:12:727449000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:13:177466000
+work change!
+INFO pid:19200 time:2019-12-24 19:23:15:427423000
+29 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:15:877432000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:16:327390000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:16:827386000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:17:327469000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:17:777417000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:18:227442000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:18:677458000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:19:77559000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:19:527427000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:19:977422000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:20:427395000
+work change!
+INFO pid:19200 time:2019-12-24 19:23:20:927394000
+29 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:21:427391000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:21:927389000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:22:427403000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:22:927392INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19205 time:2019-12-24 19:22:57:326376000
+56 child process created
+INFO pid:19205 time:2019-12-24 19:22:57:326443000
+child process id : 14001399 On
+INFO pid:19205 time:2019-12-24 19:23:00:727415000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:01:227452000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:01:677456000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:02:127468000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:02:527465000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:02:927508000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:03:377469000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:03:827472000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:04:277422000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:04:777430000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:05:277425000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:05:777436000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:06:277431000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:06:777429000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:07:277399000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:07:777397000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:08:277397000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:08:777496000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:09:227437000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:09:677577000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:10:127434000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:10:577394000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:11:77393000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:11:577392000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:12:77431000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:12:527428000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:12:977447000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:13:427464000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:13:827604000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:14:277488000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:14:677530000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:15:27496000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:15:477434000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:15:927421000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:16:377393000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:16:877389000
+work change!
+INFO pid:19205 time:2019-12-24 19:23:19:127662000
+29 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:19:577435000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:20:27414000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:20:477399000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:20:977397000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:21:477402000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:21:977393000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:2019-12-24 19:23:22:477410000
+0 process work -1946322016 => 2031678
+INFO pid:19205 time:INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19203 time:2019-12-24 19:22:57:326235000
+40 child process created
+INFO pid:19203 time:2019-12-24 19:22:57:326303000
+child process id : 14001399 On
+INFO pid:19203 time:2019-12-24 19:23:00:627416000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:01:127449000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:01:577494000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:02:27462000
+work change!
+INFO pid:19203 time:2019-12-24 19:23:04:327419000
+28 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:04:827424000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:05:327425000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:05:827432000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:06:327444000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:06:827425000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:07:327394000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:07:827387000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:08:327402000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:08:827489000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:09:277444000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:09:727613000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:10:177440000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:10:627387000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:11:127391000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:11:627397000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:12:127435000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:12:577434000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:13:27439000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:13:477442000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:13:877568000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:14:327610000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:14:727521000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:15:77456000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:15:527431000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:15:977427000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:16:427391000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:16:927417000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:17:377421000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:17:827448000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:18:277420000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:18:727462000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:19:177669000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:19:627423000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:20:77424000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:20:527399000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:21:27412000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:21:527392000
+work change!
+INFO pid:19203 time:2019-12-24 19:23:22:27401000
+29 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:22:527395000
+0 process work -1946322080 => 2031678
+INFO pid:19203 time:2019-12-24 19:23:23:273870INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19207 time:2019-12-24 19:22:57:326649000
+72 child process created
+INFO pid:19207 time:2019-12-24 19:22:57:326715000
+child process id : 14001399 On
+INFO pid:19207 time:2019-12-24 19:23:00:827444000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:01:327464000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:01:777478000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:02:227468000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:02:627506000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:03:27488000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:03:477457000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:03:927428000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:04:427427000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:04:927423000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:05:427388000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:05:927429000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:06:427418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:06:927420000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:07:427414000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:07:927391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:08:427413000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:10:727408000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:11:227387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:11:727420000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:12:177427000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:12:627424000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:13:77438000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:13:527430000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:13:977520000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:14:427597000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:14:826272000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:15:127436000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:15:577433000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:16:27454000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:16:477388000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:16:977416000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:17:427429000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:17:877429000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:18:327417000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:18:777467000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:19:227774000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:19:677421000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:20:127423000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:20:577402000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:21:77394000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:21:577390000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:22:77387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:22:577399000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:23:77392INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19204 time:2019-12-24 19:22:57:326035000
+48 child process created
+INFO pid:19204 time:2019-12-24 19:22:57:326160000
+child process id : 14001399 On
+INFO pid:19204 time:2019-12-24 19:23:00:677447000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:01:177452000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:01:627503000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:02:77530000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:02:477469000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:02:877493000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:03:327462000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:03:777473000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:04:227419000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:04:727423000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:05:227447000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:05:727430000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:06:227429000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:06:727428000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:07:227435000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:07:727390000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:08:227402000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:08:727493000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:09:177434000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:09:627447000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:10:77440000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:10:527389000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:11:27387000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:11:527384000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:12:27451000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:12:477437000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:12:927449000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:13:377433000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:13:777447000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:14:227569000
+work change!
+INFO pid:19204 time:2019-12-24 19:23:16:527387000
+29 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:17:27413000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:17:477432000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:17:927450000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:18:377431000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:18:827584000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:19:277418000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:19:727415000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:20:177421000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:20:627402000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:21:127388000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:21:627393000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:22:127389000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2019-12-24 19:23:22:627406000
+0 process work -1946322048 => 2031678
+INFO pid:19204 time:2INFO pid:19197 time:2019-12-24 19:22:57:305297000
+messageQ 14001751 created
+INFO pid:19206 time:2019-12-24 19:22:57:326515000
+64 child process created
+INFO pid:19206 time:2019-12-24 19:22:57:326583000
+child process id : 14001399 On
+INFO pid:19206 time:2019-12-24 19:23:00:777502000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:01:277460000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:01:727485000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:02:177477000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:02:577450000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:02:977474000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:03:427457000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:03:877464000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:04:377431000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:04:877424000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:05:426006000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:05:877431000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:06:377426000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:06:877417000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:07:377399000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:07:877392000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:08:377407000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:08:877481000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:09:327454000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:09:777631000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:10:227425000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:10:677387000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:11:177397000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:11:677398000
+work change!
+INFO pid:19206 time:2019-12-24 19:23:13:927520000
+29 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:14:377606000
+work change!
+INFO pid:19206 time:2019-12-24 19:23:15:327436000
+29 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:15:777424000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:16:227396000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:16:727390000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:17:227527000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:17:677414000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:18:127548000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:18:577419000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:19:26118000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:19:427420000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:19:877419000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:20:327387000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:20:827408000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:21:327393000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:21:827394000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:22:327392000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:22:827393000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:23:327391000
+0 process work -1946321984 => 2031678
+INFO pid:19206 time:2019-12-24 19:23:23:812-24 19:23:21:27336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:77339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:21:127335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:177343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:227335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:277338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:327340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:21:377338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:427338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:477345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:527335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:577338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:21:627344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:677338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:727340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:777340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:827340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:21:877339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:927338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:21:977337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:27351000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:77339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:22:127339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:177335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:227334000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:277339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:327338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:22:377338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:427343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:477343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:527339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:577342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:22:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:677349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:727344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:777342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:827339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:22:877340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:927339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:22:977339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:27336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:77338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:23:127338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:177338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:227339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:277340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:327339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:23:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:427335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:477335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:527339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:577342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:23:627334000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:677338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:727335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:777337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:827336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:23:877342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:927345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:23:977342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:27339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:77348000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:24:127344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:177345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:227344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:277348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:327344000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:24:377344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:427343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:477345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:527340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:577338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:24:627336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:677336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:727338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:777344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:827341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:24:877342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:927340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:24:977337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:27339000
+waitQ 8 run 1053 -> 1003
+INFO pid:19197 time:2019-12-24 19:23:25:27382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:77338000
+waitQ 8 run 1003 -> 953
+INFO pid:19197 time:2019-12-24 19:23:25:77383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:25:127341000
+waitQ 8 run 953 -> 903
+INFO pid:19197 time:2019-12-24 19:23:25:127385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:177338000
+waitQ 8 run 903 -> 853
+INFO pid:19197 time:2019-12-24 19:23:25:177383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:227337000
+waitQ 8 run 853 -> 803
+INFO pid:19197 time:2019-12-24 19:23:25:227379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:277336000
+waitQ 8 run 803 -> 753
+INFO pid:19197 time:2019-12-24 19:23:25:277380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:327336000
+waitQ 8 run 753 -> 703
+INFO pid:19197 time:2019-12-24 19:23:25:327377000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:25:377341000
+waitQ 8 run 703 -> 653
+INFO pid:19197 time:2019-12-24 19:23:25:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:427345000
+waitQ 8 run 653 -> 603
+INFO pid:19197 time:2019-12-24 19:23:25:427387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:477340000
+waitQ 8 run 603 -> 553
+INFO pid:19197 time:2019-12-24 19:23:25:477381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:527338000
+waitQ 8 run 553 -> 503
+INFO pid:19197 time:2019-12-24 19:23:25:527380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:25:577336000
+waitQ 8 run 503 -> 453
+INFO pid:19197 time:2019-12-24 19:23:25:577377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:627342000
+waitQ 8 run 453 -> 403
+INFO pid:19197 time:2019-12-24 19:23:25:627386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:677341000
+waitQ 8 run 403 -> 353
+INFO pid:19197 time:2019-12-24 19:23:25:677382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:727337000
+waitQ 8 run 353 -> 303
+INFO pid:19197 time:2019-12-24 19:23:25:727376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:777341000
+waitQ 8 run 303 -> 253
+INFO pid:19197 time:2019-12-24 19:23:25:777381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:25:827337000
+waitQ 8 run 253 -> 203
+INFO pid:19197 time:2019-12-24 19:23:25:827375000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:877338000
+waitQ 8 run 203 -> 153
+INFO pid:19197 time:2019-12-24 19:23:25:877376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:927340000
+waitQ 8 run 153 -> 103
+INFO pid:19197 time:2019-12-24 19:23:25:927414000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:25:977339000
+waitQ 8 run 103 -> 53
+INFO pid:19197 time:2019-12-24 19:23:25:977380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:26:27337000
+waitQ 8 run 53 -> 3
+INFO pid:19197 time:2019-12-24 19:23:26:27374000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:77341000
+waitQ 8 run 3 -> -47
+INFO pid:19197 time:2019-12-24 19:23:26:77379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:127342000
+waitQ 8 run 2008 -> 1958
+INFO pid:19197 time:2019-12-24 19:23:26:127380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:177340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:227341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:26:277343000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:327340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:427336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:26:477335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:527336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:577340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:677340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:727336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:26:777340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:827339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:877339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:26:927343000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:26:977340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:27337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:77339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:127340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:177348000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:227338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:27:277340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:327340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:427339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:27:477336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:527337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:577341000
+waitQ 2 run 1816 -> 1766
+INFO pid:19197 time:2019-12-24 19:23:27:577380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:627340000
+waitQ 2 run 1766 -> 1716
+INFO pid:19197 time:2019-12-24 19:23:27:627385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:677337000
+waitQ 2 run 1716 -> 1666
+INFO pid:19197 time:2019-12-24 19:23:27:677382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:727337000
+waitQ 2 run 1666 -> 1616
+INFO pid:19197 time:2019-12-24 19:23:27:727376000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:27:777338000
+waitQ 2 run 1616 -> 1566
+INFO pid:19197 time:2019-12-24 19:23:27:777464000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:827340000
+waitQ 2 run 1566 -> 1516
+INFO pid:19197 time:2019-12-24 19:23:27:827381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:877340000
+waitQ 2 run 1516 -> 1466
+INFO pid:19197 time:2019-12-24 19:23:27:877429000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:27:927344000
+waitQ 2 run 1466 -> 1416
+INFO pid:19197 time:2019-12-24 19:23:27:927384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:27:977416000
+waitQ 2 run 1416 -> 1366
+waitQ 10 run 1205 -> 1155
+INFO pid:19197 time:2019-12-24 19:23:27:977512000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:27344000
+waitQ 2 run 1366 -> 1316
+waitQ 10 run 1155 -> 1105
+INFO pid:19197 time:2019-12-24 19:23:28:27454000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:77347000
+waitQ 2 run 1316 -> 1266
+waitQ 10 run 1105 -> 1055
+INFO pid:19197 time:2019-12-24 19:23:28:77449000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:127339000
+waitQ 2 run 1266 -> 1216
+waitQ 10 run 1055 -> 1005
+INFO pid:19197 time:2019-12-24 19:23:28:127390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:177362000
+waitQ 2 run 1216 -> 1166
+waitQ 10 run 1005 -> 955
+INFO pid:19197 time:2019-12-24 19:23:28:177416000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:28:227347000
+waitQ 2 run 1166 -> 1116
+waitQ 10 run 955 -> 905
+INFO pid:19197 time:2019-12-24 19:23:28:227407000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:277355000
+waitQ 2 run 1116 -> 1066
+waitQ 10 run 905 -> 855
+INFO pid:19197 time:2019-12-24 19:23:28:277422000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:327341000
+waitQ 2 run 1066 -> 1016
+waitQ 10 run 855 -> 805
+INFO pid:19197 time:2019-12-24 19:23:28:327387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:377343000
+waitQ 2 run 1016 -> 966
+waitQ 10 run 805 -> 755
+INFO pid:19197 time:2019-12-24 19:23:28:377485000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:427340000
+waitQ 2 run 966 -> 916
+waitQ 10 run 755 -> 705
+INFO pid:19197 time:2019-12-24 19:23:28:427477000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:477345000
+waitQ 2 run 916 -> 866
+waitQ 10 run 705 -> 655
+INFO pid:19197 time:2019-12-24 19:23:28:477481000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:527340000
+waitQ 2 run 866 -> 816
+waitQ 10 run 655 -> 605
+INFO pid:19197 time:2019-12-24 19:23:28:527478000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:577390000
+waitQ 2 run 816 -> 766
+waitQ 10 run 605 -> 555
+INFO pid:19197 time:2019-12-24 19:23:28:577483000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:28:627344000
+waitQ 2 run 766 -> 716
+waitQ 10 run 555 -> 505
+INFO pid:19197 time:2019-12-24 19:23:28:627380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:677341000
+waitQ 2 run 716 -> 666
+waitQ 10 run 505 -> 455
+INFO pid:19197 time:2019-12-24 19:23:28:677388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:727341000
+waitQ 2 run 666 -> 616
+waitQ 10 run 455 -> 405
+INFO pid:19197 time:2019-12-24 19:23:28:727386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:777339000
+waitQ 2 run 616 -> 566
+waitQ 10 run 405 -> 355
+INFO pid:19197 time:2019-12-24 19:23:28:777381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:827343000
+waitQ 2 run 566 -> 516
+waitQ 10 run 355 -> 305
+INFO pid:19197 time:2019-12-24 19:23:28:827386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:877342000
+waitQ 2 run 516 -> 466
+waitQ 10 run 305 -> 255
+INFO pid:19197 time:2019-12-24 19:23:28:877383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:927337000
+waitQ 2 run 466 -> 416
+waitQ 10 run 255 -> 205
+INFO pid:19197 time:2019-12-24 19:23:28:927379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:28:977337000
+waitQ 2 run 416 -> 366
+waitQ 10 run 205 -> 155
+INFO pid:19197 time:2019-12-24 19:23:28:977380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:27339000
+waitQ 2 run 366 -> 316
+waitQ 10 run 155 -> 105
+INFO pid:19197 time:2019-12-24 19:23:29:27382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:77342000
+waitQ 2 run 316 -> 266
+waitQ 10 run 105 -> 55
+INFO pid:19197 time:2019-12-24 19:23:29:77389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:127348000
+waitQ 2 run 266 -> 216
+waitQ 10 run 55 -> 5
+INFO pid:19197 time:2019-12-24 19:23:29:127396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:177345000
+waitQ 2 run 216 -> 166
+waitQ 10 run 5 -> -45
+INFO pid:19197 time:2019-12-24 19:23:29:177393000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:227345000
+waitQ 2 run 166 -> 116
+waitQ 10 run 195 -> 145
+INFO pid:19197 time:2019-12-24 19:23:29:227391000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:277344000
+waitQ 2 run 116 -> 66
+INFO pid:19197 time:2019-12-24 19:23:29:277416000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:327337000
+waitQ 2 run 66 -> 16
+INFO pid:19197 time:2019-12-24 19:23:29:327382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:377341000
+waitQ 2 run 16 -> -34
+INFO pid:19197 time:2019-12-24 19:23:29:377383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:427345000
+waitQ 2 run 195 -> 145
+INFO pid:19197 time:2019-12-24 19:23:29:427387000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:477340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:527340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:577336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:627338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:677341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:727340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:777347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:29:827349000
+waitQ 10 run 145 -> 95
+INFO pid:19197 time:2019-12-24 19:23:29:827401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:877352000
+waitQ 10 run 95 -> 45
+INFO pid:19197 time:2019-12-24 19:23:29:877405000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:927343000
+waitQ 10 run 45 -> -5
+INFO pid:19197 time:2019-12-24 19:23:29:927396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:29:977358000
+waitQ 10 run 195 -> 145
+INFO pid:19197 time:2019-12-24 19:23:29:977426000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:27347000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:77344000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:127339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:177340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:227339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:277340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:327341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:377345000
+waitQ 5 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:30:377391000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:427340000
+waitQ 5 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:30:427388000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:477351000
+waitQ 5 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:30:477404000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:527347000
+waitQ 5 run 1632 -> 1582
+INFO pid:19197 time:2019-12-24 19:23:30:527403000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:577362000
+waitQ 5 run 1582 -> 1532
+INFO pid:19197 time:2019-12-24 19:23:30:577424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:627345000
+waitQ 5 run 1532 -> 1482
+INFO pid:19197 time:2019-12-24 19:23:30:627401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:677343000
+waitQ 5 run 1482 -> 1432
+INFO pid:19197 time:2019-12-24 19:23:30:677394000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:727346000
+waitQ 5 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:30:727395000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:777340000
+waitQ 5 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:30:777385000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:827348000
+waitQ 5 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:30:827401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:877345000
+waitQ 5 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:30:877392000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:30:927338000
+waitQ 5 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:30:927386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:30:977342000
+waitQ 5 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:30:977387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:27337000
+waitQ 5 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:31:27418000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:77341000
+waitQ 5 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:31:77387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:127340000
+waitQ 5 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:31:127383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:177341000
+waitQ 5 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:31:177386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:227336000
+waitQ 5 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:31:227381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:277336000
+waitQ 5 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:31:277379000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:327336000
+waitQ 5 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:31:327379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:377339000
+waitQ 5 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:31:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:427340000
+waitQ 5 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:31:427383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:477339000
+waitQ 5 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:31:477379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:527338000
+waitQ 5 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:31:527376000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:577340000
+waitQ 5 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:31:577380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:627340000
+waitQ 5 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:31:627379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:677338000
+waitQ 5 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:31:677378000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:727340000
+waitQ 5 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:31:727381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:777340000
+waitQ 5 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:31:777381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:827342000
+waitQ 5 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:31:827389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:877343000
+waitQ 5 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:31:877388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:31:927338000
+waitQ 5 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:31:927385000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:31:977341000
+waitQ 5 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:31:977403000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:27337000
+waitQ 5 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:32:27386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:77338000
+waitQ 5 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:32:77384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:127340000
+waitQ 5 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:32:127385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:177338000
+waitQ 5 run 1141 -> 1091
+INFO pid:19197 time:2019-12-24 19:23:32:177381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:227336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:277338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:327336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:377344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:427342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:477341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:527341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:577341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:627337000
+000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:23:577395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:24:77418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:24:577393000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:25:77428000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:25:527429000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:25:977427000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:26:427381000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:26:927412000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:27:427392000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:27:927432000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:29:227433000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:29:277458000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:29:377427000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:29:427430000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:29:527428000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:29:677490000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:29:777411000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:30:27421000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:177399000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:277401000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:427435000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:30:527448000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:677437000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:777423000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:30:927433000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:27469000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:177428000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:277426000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:427432000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:527415000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:677421000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:777425000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:31:927435000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:27436000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:177426000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:277392000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:427404000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:527405000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:677454000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:727452000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:32:777460000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:33:27411000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:177395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:277410000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:427405000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:527391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:677416000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:7773
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:23:177392000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:23:677421000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:24:177406000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:24:677430000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:25:177465000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:25:627429000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:26:77419000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:26:527382000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:27:27388000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:27:527389000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:29:477393000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:29:627485000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:29:727447000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:29:877446000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:29:927442000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:29:977476000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:127401000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:30:227409000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:377432000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:477446000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:627446000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:727439000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:877435000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:30:977431000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:127427000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:227431000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:377427000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:477417000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:627418000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:727421000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:877434000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:31:977452000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:127431000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:227391000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:377411000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:477403000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:627431000
+work change!
+INFO pid:19199 time:2019-12-24 19:23:32:877427000
+29 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:927429000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:32:977434000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:127401000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:227404000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:377402000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:477408000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:627391000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:727389000
+0 process work -1946322208 => 2031678
+INFO pid:19199 time:2019-12-24 19:23:33:877390000
+0 process work -1946322208 => 2031678
+INFO pid:19199 timepid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:677352000
+waitQ 2 run 145 -> 95
+INFO pid:19197 time:2019-12-24 19:23:32:677407000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:727346000
+waitQ 2 run 95 -> 45
+INFO pid:19197 time:2019-12-24 19:23:32:727403000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:777344000
+waitQ 2 run 45 -> -5
+INFO pid:19197 time:2019-12-24 19:23:32:777404000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:32:827346000
+waitQ 2 run 1141 -> 1091
+waitQ 10 run 145 -> 95
+INFO pid:19197 time:2019-12-24 19:23:32:827404000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:877343000
+waitQ 10 run 95 -> 45
+INFO pid:19197 time:2019-12-24 19:23:32:877388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:927340000
+waitQ 10 run 45 -> -5
+INFO pid:19197 time:2019-12-24 19:23:32:927386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:32:977344000
+waitQ 10 run 1141 -> 1091
+INFO pid:19197 time:2019-12-24 19:23:32:977390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:27345000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:77342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:127340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:177341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:227341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:277344000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:327339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:377341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:427343000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:477344000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:527340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:577340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:627338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:677336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:727336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:777341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:827337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:877337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:33:927340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:33:977337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:27337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:77341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:127340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:177336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:227339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:277338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:327335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:427340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:477340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:527337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:577338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:627339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:725999000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:727333000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:777340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:827337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:877345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:34:927340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:34:977338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:27334000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:77339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:127337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:177338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:227339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:277338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:327338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:427342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:477339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:527344000
+waitQ 2 run 1091 -> 1041
+INFO pid:19197 time:2019-12-24 19:23:35:527385000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:577338000
+waitQ 2 run 1041 -> 991
+INFO pid:19197 time:2019-12-24 19:23:35:577380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:627339000
+waitQ 2 run 991 -> 941
+INFO pid:19197 time:2019-12-24 19:23:35:627383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:677339000
+waitQ 2 run 941 -> 891
+INFO pid:19197 time:2019-12-24 19:23:35:677381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:727340000
+waitQ 2 run 891 -> 841
+waitQ 10 run 1091 -> 1041
+INFO pid:19197 time:2019-12-24 19:23:35:727385000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:35:777340000
+waitQ 2 run 841 -> 791
+waitQ 10 run 1041 -> 991
+INFO pid:19197 time:2019-12-24 19:23:35:777385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:827339000
+waitQ 2 run 791 -> 741
+waitQ 10 run 991 -> 941
+INFO pid:19197 time:2019-12-24 19:23:35:827382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:877337000
+waitQ 2 run 741 -> 691
+waitQ 10 run 941 -> 891
+INFO pid:19197 time:2019-12-24 19:23:35:877380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:927339000
+waitQ 2 run 691 -> 641
+waitQ 10 run 891 -> 841
+INFO pid:19197 time:2019-12-24 19:23:35:927385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:35:977341000
+waitQ 2 run 641 -> 591
+waitQ 10 run 841 -> 791
+INFO pid:19197 time:2019-12-24 19:23:35:977387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:27339000
+waitQ 2 run 591 -> 541
+waitQ 10 run 791 -> 741
+INFO pid:19197 time:2019-12-24 19:23:36:27386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:77342000
+waitQ 2 run 541 -> 491
+waitQ 10 run 741 -> 691
+waitQ 1 run 1778 -> 1728
+INFO pid:19197 time:2019-12-24 19:23:36:77386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:127343000
+waitQ 2 run 491 -> 441
+waitQ 10 run 691 -> 641
+waitQ 1 run 1728 -> 1678
+INFO pid:19197 time:2019-12-24 19:23:36:127387000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:36:177341000
+waitQ 2 run 441 -> 391
+waitQ 10 run 641 -> 591
+waitQ 1 run 1678 -> 1628
+INFO pid:19197 time:2019-12-24 19:23:36:177384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:227338000
+waitQ 2 run 391 -> 341
+waitQ 10 run 591 -> 541
+waitQ 1 run 1628 -> 1578
+INFO pid:19197 time:2019-12-24 19:23:36:227382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:277339000
+waitQ 2 run 341 -> 291
+waitQ 10 run 541 -> 491
+waitQ 1 run 1578 -> 1528
+INFO pid:19197 time:2019-12-24 19:23:36:277380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:327339000
+waitQ 2 run 291 -> 241
+waitQ 10 run 491 -> 441
+waitQ 1 run 1528 -> 1478
+INFO pid:19197 time:2019-12-24 19:23:36:327384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:377338000
+waitQ 2 run 241 -> 191
+waitQ 10 run 441 -> 391
+waitQ 1 run 1478 -> 1428
+INFO pid:19197 time:2019-12-24 19:23:36:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:427338000
+waitQ 2 run 191 -> 141
+waitQ 10 run 391 -> 341
+waitQ 1 run 1428 -> 1378
+INFO pid:19197 time:2019-12-24 19:23:36:427381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:477342000
+waitQ 2 run 141 -> 91
+waitQ 10 run 341 -> 291
+waitQ 1 run 1378 -> 1328
+INFO pid:19197 time:2019-12-24 19:23:36:477386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:36:527341000
+waitQ 2 run 91 -> 41
+waitQ 10 run 291 -> 241
+waitQ 1 run 1328 -> 1278
+INFO pid:19197 time:2019-12-24 19:23:36:527424000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:577339000
+waitQ 2 run 41 -> -9
+waitQ 10 run 241 -> 191
+waitQ 1 run 1278 -> 1228
+INFO pid:19197 time:2019-12-24 19:23:36:577384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:627340000
+waitQ 2 run 1637 -> 1587
+waitQ 10 run 191 -> 141
+waitQ 1 run 1228 -> 1178
+INFO pid:19197 time:2019-12-24 19:23:36:627384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:677340000
+waitQ 10 run 141 -> 91
+waitQ 1 run 1178 -> 1128
+INFO pid:19197 time:2019-12-24 19:23:36:677379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:727339000
+waitQ 10 run 91 -> 41
+waitQ 1 run 1128 -> 1078
+INFO pid:19197 time:2019-12-24 19:23:36:727379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:777342000
+waitQ 10 run 41 -> -9
+waitQ 1 run 1078 -> 1028
+INFO pid:19197 time:2019-12-24 19:23:36:777384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:36:827342000
+waitQ 10 run 1637 -> 1587
+waitQ 1 run 1028 -> 978
+INFO pid:19197 time:2019-12-24 19:23:36:827390000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:36:877346000
+waitQ 1 run 978 -> 928
+INFO pid:19197 time:2019-12-24 19:23:36:877401000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:36:927345000
+waitQ 1 run 928 -> 878
+INFO pid:19197 time:2019-12-24 19:23:36:927400000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:36:977349000
+waitQ 1 run 878 -> 828
+INFO pid:19197 time:2019-12-24 19:23:36:977404000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:27343000
+waitQ 1 run 828 -> 778
+INFO pid:19197 time:2019-12-24 19:23:37:27392000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:77342000
+waitQ 1 run 778 -> 728
+INFO pid:19197 time:2019-12-24 19:23:37:77389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:37:127338000
+waitQ 1 run 728 -> 678
+INFO pid:19197 time:2019-12-24 19:23:37:127383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:177338000
+waitQ 1 run 678 -> 628
+INFO pid:19197 time:2019-12-24 19:23:37:177379000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:227339000
+waitQ 1 run 628 -> 578
+INFO pid:19197 time:2019-12-24 19:23:37:227369000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:277347000
+waitQ 1 run 578 -> 528
+INFO pid:19197 time:2019-12-24 19:23:37:277398000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:327340000
+waitQ 1 run 528 -> 478
+INFO pid:19197 time:2019-12-24 19:23:37:327384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:37:377340000
+waitQ 1 run 478 -> 428
+INFO pid:19197 time:2019-12-24 19:23:37:377388000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:427341000
+waitQ 1 run 428 -> 378
+INFO pid:19197 time:2019-12-24 19:23:37:427391000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:477343000
+waitQ 1 run 378 -> 328
+INFO pid:19197 time:2019-12-24 19:23:37:477396000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:527339000
+waitQ 1 run 328 -> 278
+INFO pid:19197 time:2019-12-24 19:23:37:527388000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:577339000
+waitQ 1 run 278 -> 228
+INFO pid:19197 time:2019-12-24 19:23:37:577386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:37:627338000
+waitQ 1 run 228 -> 178
+INFO pid:19197 time:2019-12-24 19:23:37:627382000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:677339000
+waitQ 1 run 178 -> 128
+INFO pid:19197 time:2019-12-24 19:23:37:677380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:727336000
+waitQ 1 run 128 -> 78
+INFO pid:19197 time:2019-12-24 19:23:37:727379000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:777341000
+waitQ 1 run 78 -> 28
+INFO pid:19197 time:2019-12-24 19:23:37:777384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:827341000
+waitQ 1 run 28 -> -22
+INFO pid:19197 time:2019-12-24 19:23:37:827414000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:37:877344000
+waitQ 1 run 260 -> 210
+INFO pid:19197 time:2019-12-24 19:23:37:877393000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:927336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:37:977336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:38:27336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:38:77336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:127336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:38:177342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:38:227344000
+waitQ 10 run 1587 -> 1537
+INFO pid:19197 time:2019-12-24 19:23:38:227386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:277341000
+waitQ 10 run 1537 -> 1487
+INFO pid:19197 time:2019-12-24 19:23:38:277383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:327339000
+waitQ 10 run 1487 -> 1437
+INFO pid:19197 time:2019-12-24 19:23:38:327381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:38:377345000
+waitQ 10 run 1437 -> 1387
+waitQ 9 run 1807 -> 1757
+INFO pid:19197 time:2019-12-24 19:23:38:377390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:427341000
+waitQ 10 run 1387 -> 1337
+waitQ 9 run 1757 -> 1707
+INFO pid:19197 time:2019-12-24 19:23:38:427385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:477344000
+waitQ 10 run 1337 -> 1287
+waitQ 9 run 1707 -> 1657
+INFO pid:19197 time:2019-12-24 19:23:38:477397000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:527340000
+waitQ 10 run 1287 -> 1237
+waitQ 9 run 1657 -> 1607
+INFO pid:19197 time:2019-12-24 19:23:38:527388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:577430000
+waitQ 10 run 1237 -> 1187
+waitQ 9 run 1607 -> 1557
+INFO pid:19197 time:2019-12-24 19:23:38:626030000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:627335000
+waitQ 10 run 1187 -> 1137
+waitQ 9 run 1557 -> 1507
+INFO pid:19197 time:2019-12-24 19:23:38:627374000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:677340000
+waitQ 10 run 1137 -> 1087
+waitQ 9 run 1507 -> 1457
+INFO pid:19197 time:2019-12-24 19:23:38:677379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:727337000
+waitQ 10 run 1087 -> 1037
+waitQ 9 run 1457 -> 1407
+INFO pid:19197 time:2019-12-24 19:23:38:727379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:777338000
+waitQ 10 run 1037 -> 987
+waitQ 9 run 1407 -> 1357
+INFO pid:19197 time:2019-12-24 19:23:38:777379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:827336000
+waitQ 10 run 987 -> 937
+waitQ 9 run 1357 -> 1307
+INFO pid:19197 time:2019-12-24 19:23:38:827377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:877338000
+waitQ 10 run 937 -> 887
+waitQ 9 run 1307 -> 1257
+INFO pid:19197 time:2019-12-24 19:23:38:877377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:927338000
+waitQ 10 run 887 -> 837
+waitQ 9 run 1257 -> 1207
+INFO pid:19197 time:2019-12-24 19:23:38:927382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:38:977337000
+waitQ 10 run 837 -> 787
+waitQ 9 run 1207 -> 1157
+INFO pid:19197 time:2019-12-24 19:23:38:977379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:27337000
+waitQ 10 run 787 -> 737
+waitQ 9 run 1157 -> 1107
+INFO pid:19197 time:2019-12-24 19:23:39:27382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:77337000
+waitQ 10 run 737 -> 687
+waitQ 9 run 1107 -> 1057
+INFO pid:19197 time:2019-12-24 19:23:39:77380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:127337000
+waitQ 10 run 687 -> 637
+waitQ 9 run 1057 -> 1007
+INFO pid:19197 time:2019-12-24 19:23:39:127386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:177340000
+waitQ 10 run 637 -> 587
+waitQ 9 run 1007 -> 957
+INFO pid:19197 time:2019-12-24 19:23:39:177379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:227340000
+waitQ 10 run 58795000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:33:927403000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:27392000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:177389000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:277386000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:427387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:527389000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:726104000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:777398000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:34:927380000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:27381000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:177387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:277391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:427410000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:527449000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:627434000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:35:677435000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:36:877471000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:36:927485000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:36:977486000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:27469000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:127468000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:177458000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:227397000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:277450000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:377433000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:427435000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:477439000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:527435000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:627427000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:677425000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:727419000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:777427000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:877435000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:927395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:37:977392000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:38:27387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:38:127387000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:38:177390000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:39:877417000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:39:927415000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:39:977418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:27411000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:127411000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:177412000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:227417000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:277384000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:377396000
+0 proce -> 537
+waitQ 9 run 957 -> 907
+INFO pid:19197 time:2019-12-24 19:23:39:227409000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:277341000
+waitQ 10 run 537 -> 487
+waitQ 9 run 907 -> 857
+INFO pid:19197 time:2019-12-24 19:23:39:277387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:327344000
+waitQ 10 run 487 -> 437
+waitQ 9 run 857 -> 807
+INFO pid:19197 time:2019-12-24 19:23:39:327393000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:377346000
+waitQ 10 run 437 -> 387
+waitQ 9 run 807 -> 757
+INFO pid:19197 time:2019-12-24 19:23:39:377397000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:427342000
+waitQ 10 run 387 -> 337
+waitQ 9 run 757 -> 707
+INFO pid:19197 time:2019-12-24 19:23:39:427395000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:477345000
+waitQ 10 run 337 -> 287
+waitQ 9 run 707 -> 657
+INFO pid:19197 time:2019-12-24 19:23:39:477396000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:527341000
+waitQ 10 run 287 -> 237
+waitQ 9 run 657 -> 607
+INFO pid:19197 time:2019-12-24 19:23:39:527390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:577341000
+waitQ 10 run 237 -> 187
+waitQ 9 run 607 -> 557
+INFO pid:19197 time:2019-12-24 19:23:39:577387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:627342000
+waitQ 10 run 187 -> 137
+waitQ 9 run 557 -> 507
+INFO pid:19197 time:2019-12-24 19:23:39:627390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:677343000
+waitQ 10 run 137 -> 87
+waitQ 9 run 507 -> 457
+INFO pid:19197 time:2019-12-24 19:23:39:677388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:727340000
+waitQ 10 run 87 -> 37
+waitQ 9 run 457 -> 407
+INFO pid:19197 time:2019-12-24 19:23:39:727383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:777341000
+waitQ 10 run 37 -> -13
+waitQ 9 run 407 -> 357
+INFO pid:19197 time:2019-12-24 19:23:39:777382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:827339000
+waitQ 10 run 934 -> 884
+waitQ 9 run 357 -> 307
+INFO pid:19197 time:2019-12-24 19:23:39:827384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:39:877336000
+waitQ 9 run 307 -> 257
+INFO pid:19197 time:2019-12-24 19:23:39:877377000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:39:927337000
+waitQ 9 run 257 -> 207
+INFO pid:19197 time:2019-12-24 19:23:39:927376000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:39:977338000
+waitQ 9 run 207 -> 157
+INFO pid:19197 time:2019-12-24 19:23:39:977378000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:27335000
+waitQ 9 run 157 -> 107
+INFO pid:19197 time:2019-12-24 19:23:40:27374000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:77338000
+waitQ 9 run 107 -> 57
+INFO pid:19197 time:2019-12-24 19:23:40:77376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:40:127336000
+waitQ 9 run 57 -> 7
+INFO pid:19197 time:2019-12-24 19:23:40:127375000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:177338000
+waitQ 9 run 7 -> -43
+INFO pid:19197 time:2019-12-24 19:23:40:177376000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:227337000
+waitQ 9 run 591 -> 541
+INFO pid:19197 time:2019-12-24 19:23:40:227378000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:277338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:327340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:40:377340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:427338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:477341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:527345000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:577345000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:40:627340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:677340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:727339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:777341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:827349000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:40:877338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:927341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:40:977337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:27339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:77342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:127346000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:177344000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:227341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:277340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:327339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:377340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:427339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:477348000
+waitQ 10 run 884 -> 834
+INFO pid:19197 time:2019-12-24 19:23:41:477398000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:527340000
+waitQ 10 run 834 -> 784
+INFO pid:19197 time:2019-12-24 19:23:41:527385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:577346000
+waitQ 10 run 784 -> 734
+INFO pid:19197 time:2019-12-24 19:23:41:577394000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:627344000
+waitQ 10 run 734 -> 684
+INFO pid:19197 time:2019-12-24 19:23:41:627391000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:41:677344000
+waitQ 10 run 684 -> 634
+INFO pid:19197 time:2019-12-24 19:23:41:677394000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:727340000
+waitQ 10 run 634 -> 584
+INFO pid:19197 time:2019-12-24 19:23:41:727385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:777341000
+waitQ 10 run 584 -> 534
+INFO pid:19197 time:2019-12-24 19:23:41:777390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:827339000
+waitQ 10 run 534 -> 484
+INFO pid:19197 time:2019-12-24 19:23:41:827385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:877340000
+waitQ 10 run 484 -> 434
+INFO pid:19197 time:2019-12-24 19:23:41:877385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:927345000
+waitQ 10 run 434 -> 384
+waitQ 6 run 1432 -> 1382
+INFO pid:19197 time:2019-12-24 19:23:41:927388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:41:977350000
+waitQ 10 run 384 -> 334
+waitQ 6 run 1382 -> 1332
+INFO pid:19197 time:2019-12-24 19:23:41:977411000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:27345000
+waitQ 10 run 334 -> 284
+waitQ 6 run 1332 -> 1282
+INFO pid:19197 time:2019-12-24 19:23:42:27399000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:77344000
+waitQ 10 run 284 -> 234
+waitQ 6 run 1282 -> 1232
+INFO pid:19197 time:2019-12-24 19:23:42:77396000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:127340000
+waitQ 10 run 234 -> 184
+waitQ 6 run 1232 -> 1182
+INFO pid:19197 time:2019-12-24 19:23:42:127389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:177340000
+waitQ 10 run 184 -> 134
+waitQ 6 run 1182 -> 1132
+INFO pid:19197 time:2019-12-24 19:23:42:177387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:227343000
+waitQ 10 run 134 -> 84
+waitQ 6 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:42:227386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:277341000
+waitQ 10 run 84 -> 34
+waitQ 6 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:42:277383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:327341000
+waitQ 10 run 34 -> -16
+waitQ 6 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:42:327383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:377342000
+waitQ 10 run 554 -> 504
+waitQ 6 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:42:377384000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:427340000
+waitQ 6 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:42:427382000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:477339000
+waitQ 6 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:42:477380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:527335000
+waitQ 6 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:42:527375000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:577341000
+waitQ 6 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:42:577383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:627338000
+waitQ 6 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:42:627376000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:677341000
+waitQ 6 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:23:42:677381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:727338000
+waitQ 6 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:42:727377000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:777342000
+waitQ 6 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:42:777383000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:827341000
+waitQ 6 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:42:827385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:42:877349000
+waitQ 6 run 482 -> 432
+INFO pid:19197 time:2019-12-24 19:23:42:877388000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:927338000
+waitQ 6 run 432 -> 382
+INFO pid:19197 time:2019-12-24 19:23:42:927381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:42:977339000
+waitQ 6 run 382 -> 332
+INFO pid:19197 time:2019-12-24 19:23:42:977380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:27337000
+waitQ 6 run 332 -> 282
+INFO pid:19197 time:2019-12-24 19:23:43:27377000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:77339000
+waitQ 6 run 282 -> 232
+INFO pid:19197 time:2019-12-24 19:23:43:77380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:127336000
+waitQ 6 run 232 -> 182
+INFO pid:19197 time:2019-12-24 19:23:43:127375000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:177336000
+waitQ 6 run 182 -> 132
+INFO pid:19197 time:2019-12-24 19:23:43:177374000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:227337000
+waitQ 6 run 132 -> 82
+INFO pid:19197 time:2019-12-24 19:23:43:227377000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:277337000
+waitQ 6 run 82 -> 32
+INFO pid:19197 time:2019-12-24 19:23:43:277374000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:327336000
+waitQ 6 run 32 -> -18
+INFO pid:19197 time:2019-12-24 19:23:43:327375000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:43:377339000
+waitQ 6 run 1820 -> 1770
+INFO pid:19197 time:2019-12-24 19:23:43:377380000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:427339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:477341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:527340000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:577338000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:43:627339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:677337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:727339000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:777341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:827339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:43:877341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:927341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:43:977338000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:27336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:77337000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:127341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:177339000
+pid : -1ss work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:427398000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:477402000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:527415000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:627393000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:677394000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:727391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:777420000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:877390000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:927388000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:40:977388000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:27395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:127406000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:177405000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:227398000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:277391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:377395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:41:427395000
+work change!
+INFO pid:19207 time:2019-12-24 19:23:42:377423000
+29 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:427455000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:477424000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:527414000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:627418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:677419000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:727420000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:777423000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:877425000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:927418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:42:977419000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:27418000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:127413000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:177412000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:227414000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:277409000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:377422000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:427400000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:477403000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:527399000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:627395000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:677397000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:727394000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:777389000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:877393000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:927391000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:43:977390000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:44:27383000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:44:127388000
+0 process work -1946321952 => 2031678
+INFO pid:19207 time:2019-12-24 19:23:44:1774946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:227337000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:277342000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:327340000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:377341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:427341000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:477335000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:527344000
+waitQ 10 run 504 -> 454
+INFO pid:19197 time:2019-12-24 19:23:44:527382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:577340000
+waitQ 10 run 454 -> 404
+INFO pid:19197 time:2019-12-24 19:23:44:577383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:627343000
+waitQ 10 run 404 -> 354
+INFO pid:19197 time:2019-12-24 19:23:44:627387000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:44:677344000
+waitQ 10 run 354 -> 304
+INFO pid:19197 time:2019-12-24 19:23:44:677387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:727337000
+waitQ 10 run 304 -> 254
+INFO pid:19197 time:2019-12-24 19:23:44:727377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:777342000
+waitQ 10 run 254 -> 204
+INFO pid:19197 time:2019-12-24 19:23:44:777382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:827337000
+waitQ 10 run 204 -> 154
+INFO pid:19197 time:2019-12-24 19:23:44:827379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:877338000
+waitQ 10 run 154 -> 104
+INFO pid:19197 time:2019-12-24 19:23:44:877378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:927337000
+waitQ 10 run 104 -> 54
+INFO pid:19197 time:2019-12-24 19:23:44:927381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:44:977339000
+waitQ 10 run 54 -> 4
+INFO pid:19197 time:2019-12-24 19:23:44:977380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:27335000
+waitQ 10 run 4 -> -46
+INFO pid:19197 time:2019-12-24 19:23:45:27376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:77339000
+waitQ 10 run 1171 -> 1121
+INFO pid:19197 time:2019-12-24 19:23:45:77382000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:45:127336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:177335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:227335000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:277342000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:327341000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:377339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:427336000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:477339000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:527336000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:45:577343000
+waitQ 10 run 1121 -> 1071
+INFO pid:19197 time:2019-12-24 19:23:45:577381000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:45:627337000
+waitQ 10 run 1071 -> 1021
+INFO pid:19197 time:2019-12-24 19:23:45:627379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:677338000
+waitQ 10 run 1021 -> 971
+INFO pid:19197 time:2019-12-24 19:23:45:677379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:727338000
+waitQ 10 run 971 -> 921
+INFO pid:19197 time:2019-12-24 19:23:45:727378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:777338000
+waitQ 10 run 921 -> 871
+INFO pid:19197 time:2019-12-24 19:23:45:777379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:827338000
+waitQ 10 run 871 -> 821
+INFO pid:19197 time:2019-12-24 19:23:45:827380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:877336000
+waitQ 10 run 821 -> 771
+INFO pid:19197 time:2019-12-24 19:23:45:877380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:927345000
+waitQ 10 run 771 -> 721
+INFO pid:19197 time:2019-12-24 19:23:45:927390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:45:977344000
+waitQ 10 run 721 -> 671
+INFO pid:19197 time:2019-12-24 19:23:45:977383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:27339000
+waitQ 10 run 671 -> 621
+INFO pid:19197 time:2019-12-24 19:23:46:27386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:46:77340000
+waitQ 10 run 621 -> 571
+INFO pid:19197 time:2019-12-24 19:23:46:77384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:127340000
+waitQ 10 run 571 -> 521
+waitQ 4 run 1782 -> 1732
+INFO pid:19197 time:2019-12-24 19:23:46:127383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:177342000
+waitQ 10 run 521 -> 471
+waitQ 4 run 1732 -> 1682
+INFO pid:19197 time:2019-12-24 19:23:46:177388000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:227338000
+waitQ 10 run 471 -> 421
+waitQ 4 run 1682 -> 1632
+INFO pid:19197 time:2019-12-24 19:23:46:227379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:277341000
+waitQ 10 run 421 -> 371
+waitQ 4 run 1632 -> 1582
+waitQ 3 run 439 -> 389
+INFO pid:19197 time:2019-12-24 19:23:46:277384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:327338000
+waitQ 10 run 371 -> 321
+waitQ 4 run 1582 -> 1532
+waitQ 3 run 389 -> 339
+INFO pid:19197 time:2019-12-24 19:23:46:327381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:377338000
+waitQ 10 run 321 -> 271
+waitQ 4 run 1532 -> 1482
+waitQ 3 run 339 -> 289
+INFO pid:19197 time:2019-12-24 19:23:46:377377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:427337000
+waitQ 10 run 271 -> 221
+waitQ 4 run 1482 -> 1432
+waitQ 3 run 289 -> 239
+INFO pid:19197 time:2019-12-24 19:23:46:427379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:477342000
+waitQ 10 run 221 -> 171
+waitQ 4 run 1432 -> 1382
+waitQ 3 run 239 -> 189
+INFO pid:19197 time:2019-12-24 19:23:46:477378000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:46:527343000
+waitQ 10 run 171 -> 121
+waitQ 4 run 1382 -> 1332
+waitQ 3 run 189 -> 139
+INFO pid:19197 time:2019-12-24 19:23:46:527382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:577339000
+waitQ 10 run 121 -> 71
+waitQ 4 run 1332 -> 1282
+waitQ 3 run 139 -> 89
+INFO pid:19197 time:2019-12-24 19:23:46:577376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:627339000
+waitQ 10 run 71 -> 21
+waitQ 4 run 1282 -> 1232
+waitQ 3 run 89 -> 39
+INFO pid:19197 time:2019-12-24 19:23:46:627378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:677344000
+waitQ 10 run 21 -> -29
+waitQ 4 run 1232 -> 1182
+waitQ 3 run 39 -> -11
+INFO pid:19197 time:2019-12-24 19:23:46:677389000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:727340000
+waitQ 10 run 511 -> 461
+waitQ 4 run 1182 -> 1132
+waitQ 3 run 511 -> 461
+INFO pid:19197 time:2019-12-24 19:23:46:727382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:777344000
+waitQ 4 run 1132 -> 1082
+INFO pid:19197 time:2019-12-24 19:23:46:777384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:827336000
+waitQ 4 run 1082 -> 1032
+INFO pid:19197 time:2019-12-24 19:23:46:827376000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:877338000
+waitQ 4 run 1032 -> 982
+INFO pid:19197 time:2019-12-24 19:23:46:877378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:927341000
+waitQ 4 run 982 -> 932
+INFO pid:19197 time:2019-12-24 19:23:46:927384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:46:977340000
+waitQ 4 run 932 -> 882
+INFO pid:19197 time:2019-12-24 19:23:46:977382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:27338000
+waitQ 4 run 882 -> 832
+INFO pid:19197 time:2019-12-24 19:23:47:27379000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:77340000
+waitQ 4 run 832 -> 782
+INFO pid:19197 time:2019-12-24 19:23:47:77384000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:127338000
+waitQ 4 run 782 -> 732
+INFO pid:19197 time:2019-12-24 19:23:47:127385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:177338000
+waitQ 4 run 732 -> 682
+INFO pid:19197 time:2019-12-24 19:23:47:177381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:227339000
+waitQ 4 run 682 -> 632
+INFO pid:19197 time:2019-12-24 19:2000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:23:427385000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:23:927438000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:24:427405000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:24:927431000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:25:427430000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:25:877415000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:26:327387000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:26:827393000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:27:327392000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:27:827424000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:28:277476000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:28:677426000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:29:77434000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:30:577467000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:32:327389000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:34:327388000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:35:827428000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:36:227422000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:36:577425000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:37:327455000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:38:427426000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:38:827419000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:39:227453000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:39:627429000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:40:827411000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:41:777440000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:42:227429000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:43:827389000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:44:827419000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:45:277397000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:45:777419000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:46:227444000
+work change!
+INFO pid:19200 time:2019-12-24 19:23:46:727426000
+29 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:46:777433000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:46:877420000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:46:927424000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:46:977422000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:27419000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:127427000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:177433000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:227462000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:277434000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:377424000
+work change!
+INFO pid:19200 time:2019-12-24 19:23:47:927445000
+29 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:47:977431000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:48:27425000
+0 process work -1946322176 => 2031678
+INFO pid:19200 time:2019-12-24 19:23:48:127439000
+0 proce3:47:227385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:277339000
+waitQ 4 run 632 -> 582
+INFO pid:19197 time:2019-12-24 19:23:47:277386000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:327340000
+waitQ 4 run 582 -> 532
+INFO pid:19197 time:2019-12-24 19:23:47:327386000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:47:377340000
+waitQ 4 run 532 -> 482
+INFO pid:19197 time:2019-12-24 19:23:47:377383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:427341000
+waitQ 4 run 482 -> 432
+waitQ 3 run 461 -> 411
+INFO pid:19197 time:2019-12-24 19:23:47:427382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:477339000
+waitQ 4 run 432 -> 382
+waitQ 3 run 411 -> 361
+INFO pid:19197 time:2019-12-24 19:23:47:477380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:527338000
+waitQ 4 run 382 -> 332
+waitQ 3 run 361 -> 311
+INFO pid:19197 time:2019-12-24 19:23:47:527378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:577340000
+waitQ 4 run 332 -> 282
+waitQ 3 run 311 -> 261
+INFO pid:19197 time:2019-12-24 19:23:47:577380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:627340000
+waitQ 4 run 282 -> 232
+waitQ 3 run 261 -> 211
+INFO pid:19197 time:2019-12-24 19:23:47:627382000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:47:677336000
+waitQ 4 run 232 -> 182
+waitQ 3 run 211 -> 161
+INFO pid:19197 time:2019-12-24 19:23:47:677381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:727337000
+waitQ 4 run 182 -> 132
+waitQ 3 run 161 -> 111
+INFO pid:19197 time:2019-12-24 19:23:47:727377000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:777346000
+waitQ 4 run 132 -> 82
+waitQ 3 run 111 -> 61
+INFO pid:19197 time:2019-12-24 19:23:47:777518000
+pid : -1946324976 page fault
+INFO pid:19197 time:2019-12-24 19:23:47:827343000
+waitQ 4 run 82 -> 32
+waitQ 3 run 61 -> 11
+INFO pid:19197 time:2019-12-24 19:23:47:827387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:877346000
+waitQ 4 run 32 -> -18
+waitQ 3 run 11 -> -39
+INFO pid:19197 time:2019-12-24 19:23:47:877401000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:927347000
+waitQ 4 run 2004 -> 1954
+waitQ 3 run 2004 -> 1954
+waitQ 5 run 1091 -> 1041
+INFO pid:19197 time:2019-12-24 19:23:47:927398000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:47:977340000
+waitQ 5 run 1041 -> 991
+INFO pid:19197 time:2019-12-24 19:23:47:977385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:27338000
+waitQ 5 run 991 -> 941
+INFO pid:19197 time:2019-12-24 19:23:48:27382000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:77341000
+waitQ 5 run 941 -> 891
+INFO pid:19197 time:2019-12-24 19:23:48:77387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:127343000
+waitQ 5 run 891 -> 841
+INFO pid:19197 time:2019-12-24 19:23:48:127390000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:177342000
+waitQ 5 run 841 -> 791
+INFO pid:19197 time:2019-12-24 19:23:48:177387000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:227339000
+waitQ 5 run 791 -> 741
+INFO pid:19197 time:2019-12-24 19:23:48:227381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:277341000
+waitQ 5 run 741 -> 691
+INFO pid:19197 time:2019-12-24 19:23:48:277385000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:327338000
+waitQ 5 run 691 -> 641
+INFO pid:19197 time:2019-12-24 19:23:48:327380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:377341000
+waitQ 5 run 641 -> 591
+INFO pid:19197 time:2019-12-24 19:23:48:377380000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:427338000
+waitQ 5 run 591 -> 541
+INFO pid:19197 time:2019-12-24 19:23:48:427381000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:477341000
+waitQ 5 run 541 -> 491
+INFO pid:19197 time:2019-12-24 19:23:48:477383000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:527339000
+waitQ 5 run 491 -> 441
+INFO pid:19197 time:2019-12-24 19:23:48:527378000
+pid : 1, page hit
+INFO pid:19197 time:2019-12-24 19:23:48:577338000
+waitQ 5 run 441 -> 391
+INFO pid:19197 time:
